@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="./styles_v3.css?v=3">
 </head>
 <body><div class="wrap">
-<div class="head"><div class="brand"><div class="logo">MM</div><div><h1>MartensiteMafia Draft Assistant</h1><div class="small">2026 Salary-Cap · Draft-night final strategy · true hard stops</div><div class="version">Board: Aug 24, 2026 v3 · bye warnings live</div></div></div><div id="status" class="status">Not connected</div></div>
+<div class="head"><div class="brand"><div class="logo">MM</div><div><h1>MartensiteMafia Draft Assistant</h1><div class="small">2026 Salary-Cap · Draft-night final strategy · true hard stops</div><div class="version">Board: Aug 24, 2026 v3 · bye warnings + auto draft status live</div></div></div><div id="status" class="status">Not connected</div></div>
 
 <div class="grid4">
  <div class="kpi"><span>My auction budget</span><b id="myBudget">$225</b><div id="budgetSmall" class="small">$310 cap · $85 final keepers</div></div>
@@ -25,7 +25,7 @@
 </section>
 
 <div class="right">
-<section class="card"><h3 style="margin-top:0">Sleeper connection</h3><div class="field"><label>League ID</label><input id="league" value="1313649591102500864"></div><div class="field" style="margin-top:7px"><label>Username</label><input id="username" value="MartensiteMafia"></div><div class="row" style="margin-top:9px"><button class="btn gold" id="connect">Connect Sleeper</button><button class="btn" id="sync">Sync now</button></div><div class="field" style="margin-top:9px"><label>Draft</label><select id="draft"><option value="">Connect first</option></select></div><label class="toggle" style="margin-top:9px"><input id="auto" type="checkbox" checked>Poll completed sales every 2 seconds</label><div id="connNote" class="okbox" style="margin-top:9px">Completed sales/winners/prices sync automatically. The in-progress nomination and bid remain manual.</div></section>
+<section class="card"><h3 style="margin-top:0">Sleeper connection</h3><div class="field"><label>League ID</label><input id="league" value="1313649591102500864"></div><div class="field" style="margin-top:7px"><label>Username</label><input id="username" value="MartensiteMafia"></div><div class="row" style="margin-top:9px"><button class="btn gold" id="connect">Connect Sleeper</button><button class="btn" id="sync">Sync now</button></div><div class="field" style="margin-top:9px"><label>Draft</label><select id="draft"><option value="">Connect first</option></select></div><label class="toggle" style="margin-top:9px"><input id="auto" type="checkbox" checked>Poll draft status + completed sales every 2 seconds</label><div id="connNote" class="okbox" style="margin-top:9px">Draft status and completed sales/winners/prices sync automatically. The in-progress nomination and bid remain manual.</div></section>
 <section class="card"><h3 style="margin-top:0">Alex final six</h3><div id="keeperSummary" class="note"></div><div id="strategySummary" class="strategybox note"></div></section>
 <section class="card"><h3 style="margin-top:0">Nomination assistant</h3><div id="nominationSummary" class="note"></div></section>
 </div></div>
@@ -41,6 +41,6 @@
 <section id="settings" class="pane card"><div class="row"><div class="field"><label>Minimum reserve bid</label><input id="minBid" type="number" min="0" max="10" value="1"></div><div class="field"><label>Fallback roster size</label><input id="fallback" type="number" min="5" max="30" value="16"></div></div><div class="row" style="margin-top:10px"><label class="toggle"><input id="dynMarket" type="checkbox" checked>Market adjustment to target</label><label class="toggle"><input id="dynScarcity" type="checkbox" checked>Scarcity adjustment to target</label><label class="toggle"><input id="dynNeed" type="checkbox" checked>Alex roster-strategy adjustment</label></div><hr style="border:0;border-top:1px solid var(--line);margin:15px 0"><h3>Valuation board</h3><div class="row"><button id="export" class="btn">Export current CSV</button><label class="btn" for="import" style="display:inline-block">Import custom CSV</label><input id="import" type="file" accept=".csv,text/csv" style="display:none"><button id="resetBoard" class="btn danger">Reset to draft-night board</button></div><p class="note">The app uses the bundled Aug. 24 draft-night board by default. A new storage version prevents the old iPad prototype board from overriding it.</p><hr style="border:0;border-top:1px solid var(--line);margin:15px 0"><details><summary>Diagnostics</summary><pre id="debug" class="debug">No API calls yet.</pre></details></section>
 </div><div id="toast" class="toast"></div>
 <script src="./core_v3.js?v=3"></script>
-<script src="./sleeper_api_v3.js?v=3"></script>
+<script src="./sleeper_api_v3.js?v=4"></script>
 <script src="./init_v3.js?v=4"></script>
 </body></html>
