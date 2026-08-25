@@ -1,0 +1,46 @@
+name: Sleeper snapshot
+on:
+  pull_request:
+    branches: [ main ]
+permissions:
+  contents: read
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull current Sleeper league
+        shell: python
+        run: |
+          import json, urllib.request
+          LEAGUE='1313649591102500864'
+          BASE='https://api.sleeper.app/v1'
+          def get(path):
+              with urllib.request.urlopen(BASE+path, timeout=30) as r:
+                  return json.load(r)
+          league=get('/league/'+LEAGUE)
+          users=get('/league/'+LEAGUE+'/users')
+          rosters=get('/league/'+LEAGUE+'/rosters')
+          players=get('/players/nfl')
+          by_user={str(u.get('user_id')):u for u in users}
+          teams=[]
+          for r in rosters:
+              u=by_user.get(str(r.get('owner_id')),{})
+              team=u.get('metadata',{}).get('team_name') or u.get('display_name') or u.get('username') or f"Roster {r.get('roster_id')}"
+              ids=r.get('players') or []
+              starters=set(r.get('starters') or [])
+              reserve=set(r.get('reserve') or [])
+              plist=[]
+              for pid in ids:
+                  p=players.get(str(pid),{})
+                  name=p.get('full_name') or ' '.join(x for x in [p.get('first_name'),p.get('last_name')] if x) or str(pid)
+                  pos=p.get('position') or ((p.get('fantasy_positions') or [''])[0])
+                  plist.append({'id':str(pid),'name':name,'pos':pos,'team':p.get('team'),'status':p.get('status'),'injury_status':p.get('injury_status'),'search_rank':p.get('search_rank'),'depth_chart_order':p.get('depth_chart_order'),'starter':str(pid) in starters,'reserve':str(pid) in reserve})
+              teams.append({'roster_id':r.get('roster_id'),'owner_id':r.get('owner_id'),'owner':u.get('display_name') or u.get('username'),'username':u.get('username'),'team_name':team,'settings':r.get('settings',{}),'players':plist})
+          out={'league':{'name':league.get('name'),'season':league.get('season'),'status':league.get('status'),'roster_positions':league.get('roster_positions'),'scoring_settings':league.get('scoring_settings')},'teams':teams}
+          with open('league_snapshot.json','w') as f: json.dump(out,f,indent=2)
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sleeper-league-snapshot
+          path: league_snapshot.json
+          retention-days: 1
