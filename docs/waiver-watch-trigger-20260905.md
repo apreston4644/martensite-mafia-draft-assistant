@@ -1,0 +1,1 @@
+Temporary file used to trigger the read-only Sleeper snapshot workflow for waiver analysis on September 5, 2026.
