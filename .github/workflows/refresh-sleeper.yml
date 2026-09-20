@@ -2,6 +2,10 @@ name: Refresh Sleeper league snapshot
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/refresh-sleeper.yml'
+      - 'scripts/sleeper_snapshot.py'
   schedule:
     # Daily checkpoints (Eastern time, automatically follows daylight saving).
     - cron: "23 8,12,17,21 * * *"
