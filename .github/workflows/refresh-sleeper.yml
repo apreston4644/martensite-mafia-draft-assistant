@@ -1,0 +1,55 @@
+name: Refresh Sleeper league snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Daily checkpoints (Eastern time, automatically follows daylight saving).
+    - cron: "23 8,12,17,21 * * *"
+      timezone: "America/New_York"
+    # More frequent updates before and during Sunday NFL games.
+    - cron: "13,43 11-23 * * 0"
+      timezone: "America/New_York"
+    # Prime-time games and Thursday waiver changes.
+    - cron: "43 18-23 * * 1,4"
+      timezone: "America/New_York"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sleeper-league-snapshot
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the main repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Retrieve Sleeper league, rosters, and matchups
+        env:
+          SLEEPER_LEAGUE_ID: "1313649591102500864"
+          SLEEPER_USERNAME: "MartensiteMafia"
+          SLEEPER_ROSTER_ID: "5"
+        run: python scripts/sleeper_snapshot.py
+
+      - name: Publish the latest timestamped snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/league_snapshot.json data/league_snapshot.md
+          if git diff --cached --quiet; then
+            echo "No snapshot changes."
+          else
+            git commit -m "Update Sleeper league snapshot"
+            git push
+          fi
