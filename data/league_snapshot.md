@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-09-20T23:15:26+00:00
+**Captured (UTC):** 2026-09-20T23:18:28+00:00
 **NFL week:** 2 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -136,46 +136,46 @@
 - Ray Davis (RB, BUF, Active)
 
 ## Trending additions (48h)
-- Xavier Hutchinson (WR, HOU, Active) | adds: 712663 | AVAILABLE
-- Michael Mayer (TE, LV, Active) | adds: 438327 | AVAILABLE
-- Roman Wilson (WR, PIT, Active) | adds: 379701 | AVAILABLE
-- Devin Singletary (RB, NYG, Active) | adds: 311850 | AVAILABLE
-- Keon Coleman (WR, BUF, Active) | adds: 295119 | AVAILABLE
-- Bryce Young (QB, CAR, Active) | adds: 262764 | AVAILABLE
-- Alvin Kamara (RB, NO, Active) | adds: 229776 | AVAILABLE
-- Tank Bigsby (RB, PHI, Active) | adds: 165438 | AVAILABLE
-- Tyler Shough (QB, NO, Active) | adds: 161352 | AVAILABLE
-- Darren Waller (TE, CAR, Active) | adds: 145395 | AVAILABLE
-- Konata Mumpfield (WR, LAR, Active) | adds: 141399 | AVAILABLE
-- Cairo Santos (K, CHI, Active) | adds: 131957 | AVAILABLE
-- Demarcus Robinson (WR, SF, Out) | adds: 125922 | AVAILABLE
-- Carson Wentz (QB, MIN, Active) | adds: 122520 | AVAILABLE
-- Chase McLaughlin (K, TB, Active) | adds: 113008 | AVAILABLE
-- Tyson Bagent (QB, CHI, Active) | adds: 112242 | AVAILABLE
-- Caleb Douglas (WR, MIA, Questionable) | adds: 106440 | rostered
-- Tampa Bay Buccaneers (DEF, TB) | adds: 105455 | rostered
-- Tre Tucker (WR, LV, Active) | adds: 102918 | AVAILABLE
-- Emmett Johnson (RB, KC, Active) | adds: 100008 | rostered
-- Malik Washington (WR, MIA, Active) | adds: 96248 | AVAILABLE
-- Devaughn Vele (WR, NO, Active) | adds: 92589 | rostered
-- Adonai Mitchell (WR, NYJ, Active) | adds: 89328 | AVAILABLE
-- Malachi Fields (WR, NYG, Active) | adds: 87675 | AVAILABLE
-- Matthew Golden (WR, GB, Active) | adds: 78673 | rostered
-- Mark Andrews (TE, BAL, Active) | adds: 78264 | AVAILABLE
-- New England Patriots (DEF, NE) | adds: 71470 | AVAILABLE
-- Xavier Worthy (WR, KC, Active) | adds: 70776 | AVAILABLE
-- C.J. Stroud (QB, HOU, Active) | adds: 70497 | AVAILABLE
-- Raheim Sanders (RB, CLE, Active) | adds: 69696 | AVAILABLE
-- Rashod Bateman (WR, BAL, Active) | adds: 68162 | AVAILABLE
-- MarShawn Lloyd (RB, GB, Active) | adds: 67752 | rostered
-- DeeJay Dallas (RB, MIN, Active) | adds: 66636 | AVAILABLE
-- Mack Hollins (WR, NE, Active) | adds: 65727 | AVAILABLE
-- San Francisco 49ers (DEF, SF) | adds: 62955 | rostered
-- Malik Willis (QB, MIA, Active) | adds: 61404 | AVAILABLE
-- Matt Gay (K, LV, Active) | adds: 60585 | AVAILABLE
-- Tyler Loop (K, BAL, Active) | adds: 59676 | rostered
-- Kenyon Sadiq (TE, NYJ, Active) | adds: 58833 | AVAILABLE
-- Dontayvion Wicks (WR, PHI, Active) | adds: 56901 | AVAILABLE
+- Xavier Hutchinson (WR, HOU, Active) | adds: 713727 | AVAILABLE
+- Michael Mayer (TE, LV, Active) | adds: 438885 | AVAILABLE
+- Roman Wilson (WR, PIT, Active) | adds: 380538 | AVAILABLE
+- Devin Singletary (RB, NYG, Active) | adds: 315162 | AVAILABLE
+- Keon Coleman (WR, BUF, Active) | adds: 298620 | AVAILABLE
+- Bryce Young (QB, CAR, Active) | adds: 275072 | AVAILABLE
+- Alvin Kamara (RB, NO, Active) | adds: 230976 | AVAILABLE
+- Tyler Shough (QB, NO, Active) | adds: 171040 | AVAILABLE
+- Tank Bigsby (RB, PHI, Active) | adds: 169176 | AVAILABLE
+- Darren Waller (TE, CAR, Active) | adds: 149463 | AVAILABLE
+- Konata Mumpfield (WR, LAR, Active) | adds: 142920 | AVAILABLE
+- Cairo Santos (K, CHI, Active) | adds: 132020 | AVAILABLE
+- Demarcus Robinson (WR, SF, Out) | adds: 125970 | AVAILABLE
+- Carson Wentz (QB, MIN, Active) | adds: 123024 | AVAILABLE
+- Chase McLaughlin (K, TB, Active) | adds: 116528 | AVAILABLE
+- Tyson Bagent (QB, CHI, Active) | adds: 115200 | AVAILABLE
+- Tre Tucker (WR, LV, Active) | adds: 110094 | AVAILABLE
+- Caleb Douglas (WR, MIA, Questionable) | adds: 106488 | rostered
+- Tampa Bay Buccaneers (DEF, TB) | adds: 105500 | rostered
+- Emmett Johnson (RB, KC, Active) | adds: 101592 | rostered
+- Malik Washington (WR, MIA, Active) | adds: 96592 | AVAILABLE
+- Devaughn Vele (WR, NO, Active) | adds: 93499 | rostered
+- Adonai Mitchell (WR, NYJ, Active) | adds: 91432 | AVAILABLE
+- Malachi Fields (WR, NYG, Active) | adds: 88885 | AVAILABLE
+- Matthew Golden (WR, GB, Active) | adds: 79009 | rostered
+- Mark Andrews (TE, BAL, Active) | adds: 78633 | AVAILABLE
+- C.J. Stroud (QB, HOU, Active) | adds: 72520 | AVAILABLE
+- Xavier Worthy (WR, KC, Active) | adds: 71982 | AVAILABLE
+- New England Patriots (DEF, NE) | adds: 71967 | AVAILABLE
+- Raheim Sanders (RB, CLE, Active) | adds: 69712 | AVAILABLE
+- Rashod Bateman (WR, BAL, Active) | adds: 68818 | AVAILABLE
+- MarShawn Lloyd (RB, GB, Active) | adds: 68085 | rostered
+- DeeJay Dallas (RB, MIN, Active) | adds: 66756 | AVAILABLE
+- Mack Hollins (WR, NE, Active) | adds: 65769 | AVAILABLE
+- San Francisco 49ers (DEF, SF) | adds: 63198 | rostered
+- Malik Willis (QB, MIA, Active) | adds: 62006 | AVAILABLE
+- Matt Gay (K, LV, Active) | adds: 61085 | AVAILABLE
+- Tyler Loop (K, BAL, Active) | adds: 59802 | rostered
+- Kenyon Sadiq (TE, NYJ, Active) | adds: 58878 | AVAILABLE
+- Dontayvion Wicks (WR, PHI, Active) | adds: 57951 | AVAILABLE
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
