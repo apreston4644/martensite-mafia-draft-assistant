@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-09-21T01:42:38+00:00
+**Captured (UTC):** 2026-09-21T06:31:22+00:00
 **NFL week:** 2 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -71,36 +71,36 @@
 - Gus Edwards (RB, FA, Active)
 - Wan'Dale Robinson (WR, TEN, Active)
 - Woody Marks (RB, HOU, Active)
-- Fernando Mendoza (QB, LV, Active)
 - Kenyon Sadiq (TE, NYJ, Active)
+- Fernando Mendoza (QB, LV, Active)
+- KC Concepcion (WR, CLE, Active)
 - Tyrone Tracy (RB, NYG, Active)
 - Ezekiel Elliott (RB, FA, Active)
-- KC Concepcion (WR, CLE, Active)
-- Cam Ward (QB, TEN, Active)
 - De'Zhaun Stribling (WR, SF, IR)
+- Cam Ward (QB, TEN, Active)
 - Trey Benson (RB, ARI, IR)
 - Jonah Coleman (RB, DEN, Active)
+- Malik Willis (QB, MIA, Active)
 - Rob Gronkowski (TE, FA, Active)
 - Alvin Kamara (RB, NO, Active)
 - William Fuller (WR, FA, Active)
 - Khalil Shakir (WR, BUF, Active)
-- Malik Willis (QB, MIA, Active)
-- Mike Washington (RB, LV, Active)
 - Tyjae Spears (RB, TEN, Active)
 - Xavier Worthy (WR, KC, Active)
 - Jauan Jennings (WR, MIN, Out)
 - Henry Ruggs (WR, FA, Active)
-- Chris Rodriguez (RB, JAX, Active)
+- Mike Washington (RB, LV, Active)
 - Rachaad White (RB, WAS, Active)
 - AJ Barner (TE, SEA, Active)
+- Chris Rodriguez (RB, JAX, Active)
 - Damien Harris (RB, FA, Active)
 - Jayden Higgins (WR, HOU, IR)
 - Bryce Love (RB, FA, Inactive)
 - T.J. Hockenson (TE, MIN, Active)
 - Dylan Sampson (RB, CLE, IR)
-- Daniel Jones (QB, IND, Active)
 - David Njoku (TE, LAC, Out)
 - Tyler Lockett (WR, FA, Active)
+- Daniel Jones (QB, IND, Active)
 - Bryce Young (QB, CAR, Active)
 - Braelon Allen (RB, NYJ, Active)
 - Colby Parkinson (TE, LAR, Active)
@@ -111,9 +111,9 @@
 - Terrance Ferguson (TE, LAR, Active)
 - Theo Johnson (TE, NYG, Active)
 - Tyreek Hill (WR, FA, Active)
+- Ja'Kobi Lane (WR, BAL, IR)
 - Tank Bigsby (RB, PHI, Active)
 - Cade Otton (TE, TB, Active)
-- Ja'Kobi Lane (WR, BAL, IR)
 - Keaton Mitchell (RB, LAC, Active)
 - Rashid Shaheed (WR, SEA, Active)
 - Brandin Cooks (WR, FA, Active)
@@ -136,46 +136,46 @@
 - Ray Davis (RB, BUF, Active)
 
 ## Trending additions (48h)
-- Xavier Hutchinson (WR, HOU, Active) | adds: 681499 | AVAILABLE
-- Michael Mayer (TE, LV, Active) | adds: 422046 | AVAILABLE
-- Roman Wilson (WR, PIT, Active) | adds: 382131 | AVAILABLE
-- Bryce Young (QB, CAR, Active) | adds: 379080 | AVAILABLE
-- Devin Singletary (RB, NYG, Active) | adds: 325800 | AVAILABLE
-- Keon Coleman (WR, BUF, Active) | adds: 300267 | AVAILABLE
-- Tyler Shough (QB, NO, Active) | adds: 248160 | AVAILABLE
-- Alvin Kamara (RB, NO, Active) | adds: 229440 | AVAILABLE
-- Tank Bigsby (RB, PHI, Active) | adds: 202258 | AVAILABLE
-- Darren Waller (TE, CAR, Active) | adds: 192276 | AVAILABLE
-- Tre Tucker (WR, LV, Active) | adds: 165342 | AVAILABLE
-- Konata Mumpfield (WR, LAR, Active) | adds: 155871 | AVAILABLE
-- Chase McLaughlin (K, TB, Active) | adds: 143920 | AVAILABLE
-- Tyson Bagent (QB, CHI, Active) | adds: 140862 | AVAILABLE
-- Cairo Santos (K, CHI, Active) | adds: 125265 | AVAILABLE
-- Demarcus Robinson (WR, SF, Out) | adds: 119568 | AVAILABLE
-- Carson Wentz (QB, MIN, Active) | adds: 118374 | AVAILABLE
-- Adonai Mitchell (WR, NYJ, Active) | adds: 115136 | AVAILABLE
-- Emmett Johnson (RB, KC, Active) | adds: 109278 | rostered
-- Malachi Fields (WR, NYG, Active) | adds: 101350 | AVAILABLE
-- Tampa Bay Buccaneers (DEF, TB) | adds: 99700 | rostered
-- Caleb Douglas (WR, MIA, Questionable) | adds: 97512 | rostered
-- Devaughn Vele (WR, NO, Active) | adds: 96019 | rostered
-- Malik Washington (WR, MIA, Active) | adds: 95272 | AVAILABLE
-- Xavier Worthy (WR, KC, Active) | adds: 90918 | AVAILABLE
-- Emanuel Wilson (RB, SEA, Active) | adds: 87768 | AVAILABLE
-- C.J. Stroud (QB, HOU, Active) | adds: 86065 | AVAILABLE
-- Mark Andrews (TE, BAL, Active) | adds: 78255 | AVAILABLE
-- Matthew Golden (WR, GB, Active) | adds: 75992 | rostered
-- New England Patriots (DEF, NE) | adds: 74207 | AVAILABLE
-- Rashod Bateman (WR, BAL, Active) | adds: 70889 | AVAILABLE
-- Marcus Mariota (QB, WAS, Active) | adds: 69832 | AVAILABLE
-- Denzel Boston (WR, CLE, Active) | adds: 68196 | AVAILABLE
-- Dontayvion Wicks (WR, PHI, Active) | adds: 67074 | AVAILABLE
-- MarShawn Lloyd (RB, GB, Active) | adds: 66771 | rostered
-- DeeJay Dallas (RB, MIN, Active) | adds: 64242 | AVAILABLE
-- Malik Willis (QB, MIA, Active) | adds: 64071 | AVAILABLE
-- Raheim Sanders (RB, CLE, Active) | adds: 63560 | AVAILABLE
-- Matt Gay (K, LV, Active) | adds: 62255 | AVAILABLE
-- San Francisco 49ers (DEF, SF) | adds: 62157 | rostered
+- Xavier Hutchinson (WR, HOU, Active) | adds: 651154 | AVAILABLE
+- Bryce Young (QB, CAR, Active) | adds: 495136 | AVAILABLE
+- Michael Mayer (TE, LV, Active) | adds: 408159 | AVAILABLE
+- Roman Wilson (WR, PIT, Active) | adds: 384624 | AVAILABLE
+- Devin Singletary (RB, NYG, Active) | adds: 343998 | AVAILABLE
+- Tyler Shough (QB, NO, Active) | adds: 331408 | AVAILABLE
+- Keon Coleman (WR, BUF, Active) | adds: 310716 | AVAILABLE
+- Tank Bigsby (RB, PHI, Active) | adds: 248171 | AVAILABLE
+- Darren Waller (TE, CAR, Active) | adds: 244143 | AVAILABLE
+- Tre Tucker (WR, LV, Active) | adds: 235608 | AVAILABLE
+- Alvin Kamara (RB, NO, Active) | adds: 230816 | AVAILABLE
+- Chase McLaughlin (K, TB, Active) | adds: 175104 | AVAILABLE
+- Konata Mumpfield (WR, LAR, Active) | adds: 170973 | AVAILABLE
+- Tyson Bagent (QB, CHI, Active) | adds: 170310 | AVAILABLE
+- Adonai Mitchell (WR, NYJ, Active) | adds: 154184 | AVAILABLE
+- Emanuel Wilson (RB, SEA, Active) | adds: 150597 | AVAILABLE
+- Emmett Johnson (RB, KC, Active) | adds: 141876 | rostered
+- Cairo Santos (K, CHI, Active) | adds: 118916 | AVAILABLE
+- Malachi Fields (WR, NYG, Active) | adds: 116615 | AVAILABLE
+- Demarcus Robinson (WR, SF, Out) | adds: 114606 | AVAILABLE
+- Carson Wentz (QB, MIN, Active) | adds: 114036 | AVAILABLE
+- Xavier Worthy (WR, KC, Active) | adds: 107478 | AVAILABLE
+- Devaughn Vele (WR, NO, Active) | adds: 101066 | rostered
+- C.J. Stroud (QB, HOU, Active) | adds: 100065 | AVAILABLE
+- Denzel Boston (WR, CLE, Active) | adds: 98504 | AVAILABLE
+- Malik Washington (WR, MIA, Active) | adds: 95040 | AVAILABLE
+- Tampa Bay Buccaneers (DEF, TB) | adds: 94880 | rostered
+- Marcus Mariota (QB, WAS, Active) | adds: 91996 | AVAILABLE
+- Caleb Douglas (WR, MIA, Questionable) | adds: 89408 | rostered
+- Kirk Cousins (QB, LV, Active) | adds: 85632 | AVAILABLE
+- Jonah Coleman (RB, DEN, Active) | adds: 81282 | AVAILABLE
+- Dontayvion Wicks (WR, PHI, Active) | adds: 80076 | AVAILABLE
+- Mark Andrews (TE, BAL, Active) | adds: 79371 | AVAILABLE
+- New England Patriots (DEF, NE) | adds: 78631 | AVAILABLE
+- Rashod Bateman (WR, BAL, Active) | adds: 76327 | AVAILABLE
+- Matthew Golden (WR, GB, Active) | adds: 74921 | rostered
+- Jared Goff (QB, DET, Active) | adds: 74435 | AVAILABLE
+- MarShawn Lloyd (RB, GB, Active) | adds: 66051 | rostered
+- Malik Willis (QB, MIA, Active) | adds: 65947 | AVAILABLE
+- Terrance Ferguson (TE, LAR, Active) | adds: 64664 | AVAILABLE
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
