@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-09-22T06:46:16+00:00
+**Captured (UTC):** 2026-09-22T17:03:51+00:00
 **NFL week:** 3 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -136,46 +136,46 @@
 - Ray Davis (RB, BUF, Active)
 
 ## Trending additions (48h)
-- Emanuel Wilson (RB, SEA, Active) | adds: 1076310 | AVAILABLE
-- Bryce Young (QB, CAR, Active) | adds: 1023548 | AVAILABLE
-- Tyler Shough (QB, NO, Active) | adds: 792848 | AVAILABLE
-- Tre Tucker (WR, LV, Active) | adds: 707826 | AVAILABLE
-- Adonai Mitchell (WR, NYJ, Active) | adds: 537840 | AVAILABLE
-- Darren Waller (TE, CAR, Active) | adds: 531405 | AVAILABLE
-- Tank Bigsby (RB, PHI, Active) | adds: 485779 | AVAILABLE
-- Konata Mumpfield (WR, LAR, Active) | adds: 421578 | AVAILABLE
-- Keon Coleman (WR, BUF, Active) | adds: 372501 | AVAILABLE
-- Malachi Fields (WR, NYG, Active) | adds: 357985 | AVAILABLE
-- Devin Singletary (RB, NYG, Active) | adds: 343404 | AVAILABLE
-- Chase McLaughlin (K, TB, Active) | adds: 337960 | AVAILABLE
-- Xavier Hutchinson (WR, HOU, Active) | adds: 320481 | AVAILABLE
-- Zach Ertz (TE, PHI, Active) | adds: 317610 | AVAILABLE
-- Denzel Boston (WR, CLE, Active) | adds: 298956 | AVAILABLE
-- Tyson Bagent (QB, CHI, Active) | adds: 290454 | AVAILABLE
-- Jonah Coleman (RB, DEN, Active) | adds: 278612 | AVAILABLE
-- Michael Mayer (TE, LV, Active) | adds: 271638 | AVAILABLE
-- Roman Wilson (WR, PIT, Active) | adds: 256860 | AVAILABLE
-- Kirk Cousins (QB, LV, Active) | adds: 230792 | AVAILABLE
-- Marcus Mariota (QB, WAS, Active) | adds: 216120 | AVAILABLE
-- Alvin Kamara (RB, NO, Active) | adds: 211336 | AVAILABLE
-- Darnell Mooney (WR, NYG, Active) | adds: 195741 | AVAILABLE
-- Minnesota Vikings (DEF, MIN) | adds: 184605 | AVAILABLE
-- Terrance Ferguson (TE, LAR, Active) | adds: 184048 | AVAILABLE
-- C.J. Stroud (QB, HOU, Active) | adds: 164913 | AVAILABLE
-- Dontayvion Wicks (WR, PHI, Active) | adds: 158073 | AVAILABLE
-- Emmett Johnson (RB, KC, Active) | adds: 157374 | rostered
-- Jared Goff (QB, DET, Active) | adds: 150590 | AVAILABLE
-- Xavier Worthy (WR, KC, Active) | adds: 139869 | AVAILABLE
-- Deshaun Watson (QB, CLE, Active) | adds: 125872 | AVAILABLE
-- Tutu Atwell (WR, LAR, Active) | adds: 116956 | AVAILABLE
-- Devaughn Vele (WR, NO, Active) | adds: 107597 | rostered
-- Tyquan Thornton (WR, KC, Active) | adds: 102207 | AVAILABLE
-- Oronde Gadsden (TE, LAC, Active) | adds: 94115 | AVAILABLE
-- Kyler Murray (QB, MIN, Out) | adds: 92704 | AVAILABLE
-- Brock Purdy (QB, SF, Active) | adds: 90960 | AVAILABLE
-- Rashod Bateman (WR, BAL, Active) | adds: 88506 | AVAILABLE
-- Josh Downs (WR, IND, Active) | adds: 86950 | rostered
-- Detroit Lions (DEF, DET) | adds: 84519 | AVAILABLE
+- Emanuel Wilson (RB, SEA, Active) | adds: 2217753 | AVAILABLE
+- Bryce Young (QB, CAR, Active) | adds: 1528056 | AVAILABLE
+- Adonai Mitchell (WR, NYJ, Active) | adds: 1280152 | AVAILABLE
+- Tyler Shough (QB, NO, Active) | adds: 1230184 | AVAILABLE
+- Tre Tucker (WR, LV, Active) | adds: 1135230 | AVAILABLE
+- Darren Waller (TE, CAR, Active) | adds: 798066 | AVAILABLE
+- Tank Bigsby (RB, PHI, Active) | adds: 675675 | AVAILABLE
+- Keon Coleman (WR, BUF, Active) | adds: 570600 | AVAILABLE
+- Zach Ertz (TE, PHI, Active) | adds: 559503 | AVAILABLE
+- Denzel Boston (WR, CLE, Active) | adds: 492836 | AVAILABLE
+- Jonah Coleman (RB, DEN, Active) | adds: 465598 | AVAILABLE
+- Chase McLaughlin (K, TB, Active) | adds: 460960 | AVAILABLE
+- Tyson Bagent (QB, CHI, Active) | adds: 423546 | AVAILABLE
+- Kirk Cousins (QB, LV, Active) | adds: 400144 | AVAILABLE
+- Minnesota Vikings (DEF, MIN) | adds: 380920 | AVAILABLE
+- Konata Mumpfield (WR, LAR, Active) | adds: 371691 | AVAILABLE
+- Marcus Mariota (QB, WAS, Active) | adds: 364256 | AVAILABLE
+- Malachi Fields (WR, NYG, Active) | adds: 329400 | AVAILABLE
+- Dontayvion Wicks (WR, PHI, Active) | adds: 290604 | AVAILABLE
+- Terrance Ferguson (TE, LAR, Active) | adds: 284616 | AVAILABLE
+- Devin Singletary (RB, NYG, Active) | adds: 269721 | AVAILABLE
+- Jared Goff (QB, DET, Active) | adds: 265740 | AVAILABLE
+- Kyler Murray (QB, MIN, Out) | adds: 238824 | AVAILABLE
+- Alvin Kamara (RB, NO, Active) | adds: 233400 | AVAILABLE
+- C.J. Stroud (QB, HOU, Active) | adds: 215789 | AVAILABLE
+- Oronde Gadsden (TE, LAC, Active) | adds: 212425 | AVAILABLE
+- Xavier Worthy (WR, KC, Active) | adds: 202815 | AVAILABLE
+- Emmett Johnson (RB, KC, Active) | adds: 188559 | rostered
+- Darnell Mooney (WR, NYG, Active) | adds: 188370 | AVAILABLE
+- Tyquan Thornton (WR, KC, Active) | adds: 181608 | AVAILABLE
+- Deshaun Watson (QB, CLE, Active) | adds: 181056 | AVAILABLE
+- Detroit Lions (DEF, DET) | adds: 155952 | AVAILABLE
+- Josh Downs (WR, IND, Active) | adds: 152690 | rostered
+- Michael Mayer (TE, LV, Active) | adds: 150129 | AVAILABLE
+- Brock Purdy (QB, SF, Active) | adds: 131912 | AVAILABLE
+- Rashod Bateman (WR, BAL, Active) | adds: 127559 | AVAILABLE
+- Khalil Shakir (WR, BUF, Active) | adds: 127251 | AVAILABLE
+- Devaughn Vele (WR, NO, Active) | adds: 121464 | rostered
+- Xavier Hutchinson (WR, HOU, Active) | adds: 120351 | AVAILABLE
+- New York Giants (DEF, NYG) | adds: 115828 | AVAILABLE
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
@@ -244,8 +244,8 @@
 - FLEX: Jadarian Price (RB, SEA, Questionable)
 - K: Will Reichard (K, MIN, Active)
 - DEF: Kansas City Chiefs (DEF, KC)
-- Bench: Jayden Daniels (QB, WAS, Out), Marvin Harrison (WR, ARI, Active), Matthew Golden (WR, GB, Active), TreVeyon Henderson (RB, NE, Active), Kaelon Black (RB, SF, Active), Deebo Samuel (WR, SF, Active), San Francisco 49ers (DEF, SF)
-- Reserve: Jordyn Tyson (WR, NO, IR), Zay Flowers (WR, BAL, Out)
+- Bench: Marvin Harrison (WR, ARI, Active), Matthew Golden (WR, GB, Active), TreVeyon Henderson (RB, NE, Active), Kaelon Black (RB, SF, Active), Deebo Samuel (WR, SF, Active), San Francisco 49ers (DEF, SF)
+- Reserve: Jayden Daniels (QB, WAS, Out), Jordyn Tyson (WR, NO, IR), Zay Flowers (WR, BAL, Out)
 - Taxi: none
 
 ### Larry’s Horse 🍆 (roster 7)
@@ -267,12 +267,12 @@
 - RB: Jonathan Taylor (RB, IND, Active)
 - RB: Derrick Henry (RB, BAL, Active)
 - WR: Drake London (WR, ATL, Active)
-- WR: Michael Pittman (WR, PIT, Out)
+- WR: Josh Downs (WR, IND, Active)
 - TE: George Kittle (TE, SF, Active)
 - FLEX: Chris Godwin (WR, TB, Active)
 - K: Cam Little (K, JAX, Active)
 - DEF: Denver Broncos (DEF, DEN)
-- Bench: Jonathon Brooks (RB, CAR, Questionable), Blake Corum (RB, LAR, Active), RJ Harvey (RB, DEN, Out), Makai Lemon (WR, PHI, Active), Courtland Sutton (WR, DEN, Active), Rico Dowdle (RB, PIT, Out), Josh Downs (WR, IND, Active)
+- Bench: Jonathon Brooks (RB, CAR, Questionable), Blake Corum (RB, LAR, Active), RJ Harvey (RB, DEN, Out), Makai Lemon (WR, PHI, Active), Courtland Sutton (WR, DEN, Active), Michael Pittman (WR, PIT, Out), Rico Dowdle (RB, PIT, Out)
 - Reserve: none
 - Taxi: none
 
