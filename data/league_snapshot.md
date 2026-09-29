@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-09-29T01:03:29+00:00
+**Captured (UTC):** 2026-09-29T02:17:40+00:00
 **NFL week:** 3 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -136,46 +136,46 @@
 - Troy Franklin (WR, DEN, Active)
 
 ## Trending additions (48h)
-- Ollie Gordon (RB, MIA, Questionable) | adds: 5134626 | AVAILABLE
-- Kenyon Sadiq (TE, NYJ, Active) | adds: 1150398 | AVAILABLE
-- Tyreek Hill (WR, FA, Active) | adds: 980896 | AVAILABLE
-- Braelon Allen (RB, NYJ, Active) | adds: 630444 | AVAILABLE
-- Terrance Ferguson (TE, LAR, Questionable) | adds: 603448 | rostered
-- Malik Washington (WR, MIA, Active) | adds: 360960 | AVAILABLE
-- Kirk Cousins (QB, LV, Active) | adds: 347888 | AVAILABLE
-- Alvin Kamara (RB, NO, Active) | adds: 303656 | AVAILABLE
-- Sam Darnold (QB, SEA, Active) | adds: 290469 | AVAILABLE
-- Jordan Addison (WR, MIN, Active) | adds: 286443 | AVAILABLE
-- Keaton Mitchell (RB, LAC, Active) | adds: 264195 | AVAILABLE
-- Darren Waller (TE, CAR, Active) | adds: 243216 | AVAILABLE
-- Roman Wilson (WR, PIT, Active) | adds: 219528 | AVAILABLE
-- Isaiah Williams (WR, NYJ, Active) | adds: 201156 | AVAILABLE
-- Xavier Hutchinson (WR, HOU, Active) | adds: 200046 | AVAILABLE
-- Las Vegas Raiders (DEF, LV) | adds: 199968 | AVAILABLE
-- Konata Mumpfield (WR, LAR, Active) | adds: 196497 | AVAILABLE
-- Emmett Johnson (RB, KC, Active) | adds: 176868 | AVAILABLE
-- Deshaun Watson (QB, CLE, Active) | adds: 158224 | AVAILABLE
-- Chase McLaughlin (K, TB, Active) | adds: 153456 | AVAILABLE
-- Keenan Allen (WR, IND, Active) | adds: 150240 | AVAILABLE
-- Minnesota Vikings (DEF, MIN) | adds: 130215 | rostered
-- Tyler Shough (QB, NO, Active) | adds: 128488 | AVAILABLE
-- New York Giants (DEF, NYG) | adds: 126088 | AVAILABLE
-- Jakobi Meyers (WR, JAX, Active) | adds: 103212 | AVAILABLE
-- Kyler Murray (QB, MIN, Active) | adds: 103128 | AVAILABLE
-- Matthew Golden (WR, GB, Active) | adds: 101101 | rostered
-- Justice Hill (RB, BAL, Active) | adds: 99657 | AVAILABLE
-- Zach Ertz (TE, PHI, Active) | adds: 96669 | AVAILABLE
-- Travis Homer (RB, PIT, Active) | adds: 95064 | AVAILABLE
-- Michael Wilson (WR, ARI, Active) | adds: 92664 | rostered
-- Tyson Bagent (QB, CHI, Active) | adds: 89958 | AVAILABLE
-- Jaylen Wright (RB, MIA, Out) | adds: 89584 | AVAILABLE
-- Austin Ekeler (RB, FA, Active) | adds: 83852 | AVAILABLE
-- J.J. McCarthy (QB, NYG, Out) | adds: 81483 | AVAILABLE
-- Pat Bryant (WR, DEN, Active) | adds: 77144 | AVAILABLE
-- Geno Smith (QB, NYJ, Active) | adds: 76952 | AVAILABLE
-- Tyler Higbee (TE, LAR, Active) | adds: 76905 | AVAILABLE
-- New Orleans Saints (DEF, NO) | adds: 72180 | AVAILABLE
-- Juwan Johnson (TE, NO, Active) | adds: 69850 | rostered
+- Ollie Gordon (RB, MIA, Questionable) | adds: 5377141 | AVAILABLE
+- Kenyon Sadiq (TE, NYJ, Active) | adds: 1223874 | AVAILABLE
+- Tyreek Hill (WR, FA, Active) | adds: 1002136 | AVAILABLE
+- Braelon Allen (RB, NYJ, Active) | adds: 686528 | AVAILABLE
+- Terrance Ferguson (TE, LAR, Questionable) | adds: 586648 | rostered
+- Kirk Cousins (QB, LV, Active) | adds: 365096 | AVAILABLE
+- Malik Washington (WR, MIA, Active) | adds: 361432 | AVAILABLE
+- Alvin Kamara (RB, NO, Active) | adds: 323368 | AVAILABLE
+- Jordan Addison (WR, MIN, Active) | adds: 298422 | AVAILABLE
+- Sam Darnold (QB, SEA, Active) | adds: 295479 | AVAILABLE
+- Keaton Mitchell (RB, LAC, Active) | adds: 281367 | AVAILABLE
+- Darren Waller (TE, CAR, Active) | adds: 249138 | AVAILABLE
+- Roman Wilson (WR, PIT, Active) | adds: 229392 | AVAILABLE
+- Konata Mumpfield (WR, LAR, Active) | adds: 216621 | AVAILABLE
+- Las Vegas Raiders (DEF, LV) | adds: 215496 | AVAILABLE
+- Isaiah Williams (WR, NYJ, Active) | adds: 199926 | AVAILABLE
+- Xavier Hutchinson (WR, HOU, Active) | adds: 194873 | AVAILABLE
+- Emmett Johnson (RB, KC, Active) | adds: 170262 | AVAILABLE
+- Keenan Allen (WR, IND, Active) | adds: 164324 | AVAILABLE
+- Deshaun Watson (QB, CLE, Active) | adds: 162720 | AVAILABLE
+- Chase McLaughlin (K, TB, Active) | adds: 155504 | AVAILABLE
+- Minnesota Vikings (DEF, MIN) | adds: 136000 | rostered
+- Tyler Shough (QB, NO, Active) | adds: 132504 | AVAILABLE
+- New York Giants (DEF, NYG) | adds: 124532 | AVAILABLE
+- Jakobi Meyers (WR, JAX, Active) | adds: 109464 | AVAILABLE
+- Matthew Golden (WR, GB, Active) | adds: 105028 | rostered
+- Kyler Murray (QB, MIN, Active) | adds: 102360 | AVAILABLE
+- Zach Ertz (TE, PHI, Active) | adds: 99909 | AVAILABLE
+- Justice Hill (RB, BAL, Active) | adds: 98865 | AVAILABLE
+- Jaylen Wright (RB, MIA, Out) | adds: 97674 | AVAILABLE
+- Michael Wilson (WR, ARI, Active) | adds: 97209 | rostered
+- Travis Homer (RB, PIT, Active) | adds: 92664 | AVAILABLE
+- Austin Ekeler (RB, FA, Active) | adds: 88328 | AVAILABLE
+- Tyler Higbee (TE, LAR, Active) | adds: 88092 | AVAILABLE
+- Tyson Bagent (QB, CHI, Active) | adds: 87726 | AVAILABLE
+- J.J. McCarthy (QB, NYG, Out) | adds: 84624 | AVAILABLE
+- Pat Bryant (WR, DEN, Active) | adds: 78864 | AVAILABLE
+- Geno Smith (QB, NYJ, Active) | adds: 78032 | AVAILABLE
+- Juwan Johnson (TE, NO, Active) | adds: 73276 | rostered
+- New Orleans Saints (DEF, NO) | adds: 71650 | AVAILABLE
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
