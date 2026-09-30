@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-09-29T18:08:26+00:00
+**Captured (UTC):** 2026-09-30T00:34:00+00:00
 **NFL week:** 4 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -9,12 +9,12 @@
 - RB: Ashton Jeanty (RB, LV, Active)
 - RB: Bucky Irving (RB, TB, Active)
 - WR: Amon-Ra St. Brown (WR, DET, Active)
-- WR: Mike Evans (WR, SF, Out)
+- WR: Michael Wilson (WR, ARI, Active)
 - TE: Tucker Kraft (TE, GB, Active)
 - FLEX: Chuba Hubbard (RB, CAR, Active)
 - K: Ka'imi Fairbairn (K, HOU, Active)
 - DEF: Seattle Seahawks (DEF, SEA)
-- Bench: Michael Wilson (WR, ARI, Active), Rome Odunze (WR, CHI, Active), Colston Loveland (TE, CHI, Active), Jacory Croskey-Merritt (RB, WAS, Active), David Montgomery (RB, HOU, Active), Nico Collins (WR, HOU, Out), Jaylen Warren (RB, PIT, Active)
+- Bench: Rome Odunze (WR, CHI, Active), Colston Loveland (TE, CHI, Active), Jacory Croskey-Merritt (RB, WAS, Active), Mike Evans (WR, SF, Out), David Montgomery (RB, HOU, Active), Nico Collins (WR, HOU, Out), Jaylen Warren (RB, PIT, Active)
 - Reserve: Zach Charbonnet (RB, SEA, PUP)
 - Taxi: none
 
@@ -130,52 +130,52 @@
 - Larry Fitzgerald (WR, FA, Inactive)
 - Nicholas Singleton (RB, TEN, Active)
 - Ray Davis (RB, BUF, Active)
-- Devin Neal (RB, FA, Questionable)
+- Devin Neal (RB, MIN, Questionable)
 - Najee Harris (RB, NYG, Active)
 - Jalen Nailor (WR, LV, Active)
 - Troy Franklin (WR, DEN, Active)
 
 ## Trending additions (48h)
-- Ollie Gordon (RB, MIA, Questionable) | adds: 8772015 | AVAILABLE
-- Kenyon Sadiq (TE, NYJ, Active) | adds: 2410506 | AVAILABLE
-- Braelon Allen (RB, NYJ, Active) | adds: 2062420 | AVAILABLE
-- Tyreek Hill (WR, FA, Active) | adds: 1068480 | AVAILABLE
-- Alvin Kamara (RB, NO, Active) | adds: 654920 | AVAILABLE
-- Konata Mumpfield (WR, LAR, Active) | adds: 562734 | AVAILABLE
-- Keaton Mitchell (RB, LAC, Active) | adds: 559134 | AVAILABLE
-- Jordan Addison (WR, MIN, Active) | adds: 546516 | AVAILABLE
-- Kirk Cousins (QB, LV, Active) | adds: 501280 | AVAILABLE
-- Keenan Allen (WR, IND, Active) | adds: 443904 | AVAILABLE
-- Tyler Higbee (TE, LAR, Active) | adds: 442539 | AVAILABLE
-- Las Vegas Raiders (DEF, LV) | adds: 394578 | AVAILABLE
-- Roman Wilson (WR, PIT, Active) | adds: 378378 | AVAILABLE
-- Darren Waller (TE, CAR, Active) | adds: 361476 | AVAILABLE
-- Sam Darnold (QB, SEA, Active) | adds: 307794 | AVAILABLE
-- Kalif Raymond (WR, CHI, Active) | adds: 303176 | AVAILABLE
-- Minnesota Vikings (DEF, MIN) | adds: 282745 | rostered
-- Baltimore Ravens (DEF, BAL) | adds: 268983 | AVAILABLE
-- Malik Washington (WR, MIA, Active) | adds: 263720 | AVAILABLE
-- Jaylen Wright (RB, MIA, Out) | adds: 257502 | AVAILABLE
-- Isaiah Davis (RB, NYJ, Active) | adds: 251334 | AVAILABLE
-- Deshaun Watson (QB, CLE, Active) | adds: 220088 | AVAILABLE
-- Jakobi Meyers (WR, JAX, Active) | adds: 216930 | AVAILABLE
-- Pittsburgh Steelers (DEF, PIT) | adds: 191238 | AVAILABLE
-- Michael Wilson (WR, ARI, Active) | adds: 178686 | rostered
-- Tyler Shough (QB, NO, Active) | adds: 172384 | AVAILABLE
-- Matthew Golden (WR, GB, Active) | adds: 163940 | rostered
-- Jalon Daniels (QB, TB, Active) | adds: 153538 | AVAILABLE
-- Chase McLaughlin (K, TB, Active) | adds: 151808 | AVAILABLE
-- Austin Ekeler (RB, FA, Active) | adds: 148892 | AVAILABLE
-- Terrance Ferguson (TE, LAR, Questionable) | adds: 144384 | rostered
-- Cleveland Browns (DEF, CLE) | adds: 137837 | AVAILABLE
-- Juwan Johnson (TE, NO, Active) | adds: 131642 | rostered
-- Brian Robinson (RB, ATL, Active) | adds: 120252 | AVAILABLE
-- Marcus Mariota (QB, WAS, Active) | adds: 116228 | AVAILABLE
-- Pat Bryant (WR, DEN, Active) | adds: 115568 | AVAILABLE
-- Kendre Miller (RB, NO, Active) | adds: 112566 | AVAILABLE
-- J.J. McCarthy (QB, NYG, Out) | adds: 110736 | AVAILABLE
-- Raheim Sanders (RB, CLE, Active) | adds: 108064 | AVAILABLE
-- Chris Bell (WR, MIA, Active) | adds: 107716 | AVAILABLE
+- Ollie Gordon (RB, MIA, Questionable) | adds: 9330181 | AVAILABLE
+- Kenyon Sadiq (TE, NYJ, Active) | adds: 2809332 | AVAILABLE
+- Braelon Allen (RB, NYJ, Active) | adds: 2725156 | AVAILABLE
+- Tyreek Hill (WR, FA, Active) | adds: 908696 | AVAILABLE
+- Alvin Kamara (RB, NO, Active) | adds: 826896 | AVAILABLE
+- Konata Mumpfield (WR, LAR, Active) | adds: 805689 | AVAILABLE
+- Tyler Higbee (TE, LAR, Active) | adds: 674064 | AVAILABLE
+- Keaton Mitchell (RB, LAC, Active) | adds: 667917 | AVAILABLE
+- Jordan Addison (WR, MIN, Active) | adds: 570150 | AVAILABLE
+- Keenan Allen (WR, IND, Active) | adds: 560344 | AVAILABLE
+- Kirk Cousins (QB, LV, Active) | adds: 517360 | AVAILABLE
+- Kalif Raymond (WR, CHI, Active) | adds: 499422 | AVAILABLE
+- Darren Waller (TE, CAR, Active) | adds: 455103 | AVAILABLE
+- Las Vegas Raiders (DEF, LV) | adds: 442878 | AVAILABLE
+- Roman Wilson (WR, PIT, Active) | adds: 401508 | AVAILABLE
+- Jaylen Wright (RB, MIA, Out) | adds: 359558 | AVAILABLE
+- Baltimore Ravens (DEF, BAL) | adds: 351159 | AVAILABLE
+- Isaiah Davis (RB, NYJ, Active) | adds: 348696 | AVAILABLE
+- Minnesota Vikings (DEF, MIN) | adds: 341530 | rostered
+- Sam Darnold (QB, SEA, Active) | adds: 275694 | AVAILABLE
+- Malik Washington (WR, MIA, Active) | adds: 262552 | AVAILABLE
+- Pittsburgh Steelers (DEF, PIT) | adds: 253350 | AVAILABLE
+- Jakobi Meyers (WR, JAX, Active) | adds: 249192 | AVAILABLE
+- Deshaun Watson (QB, CLE, Active) | adds: 231696 | AVAILABLE
+- Cleveland Browns (DEF, CLE) | adds: 210322 | AVAILABLE
+- Michael Wilson (WR, ARI, Active) | adds: 205281 | rostered
+- Jalon Daniels (QB, TB, Active) | adds: 192050 | AVAILABLE
+- Kendre Miller (RB, NO, Active) | adds: 191252 | AVAILABLE
+- Chris Bell (WR, MIA, Active) | adds: 186403 | AVAILABLE
+- Austin Ekeler (RB, WAS, Active) | adds: 179164 | AVAILABLE
+- Matthew Golden (WR, GB, Active) | adds: 168602 | rostered
+- Tyler Shough (QB, NO, Active) | adds: 168072 | AVAILABLE
+- Chase McLaughlin (K, TB, Active) | adds: 152192 | AVAILABLE
+- Juwan Johnson (TE, NO, Active) | adds: 144584 | rostered
+- Brian Robinson (RB, ATL, Active) | adds: 137562 | AVAILABLE
+- Marcus Mariota (QB, WAS, Active) | adds: 137244 | AVAILABLE
+- Raheim Sanders (RB, CLE, Active) | adds: 126024 | AVAILABLE
+- J.J. McCarthy (QB, NYG, Out) | adds: 119040 | AVAILABLE
+- Skyy Moore (WR, GB, Active) | adds: 115352 | AVAILABLE
+- Pat Bryant (WR, DEN, Active) | adds: 112224 | AVAILABLE
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
@@ -241,7 +241,7 @@
 - WR: Christian Watson (WR, GB, Active)
 - WR: Zay Flowers (WR, BAL, Active)
 - TE: Tyler Warren (TE, IND, Active)
-- FLEX: Jaylen Waddle (WR, DEN, Active)
+- FLEX: Jaylen Waddle (WR, DEN, Questionable)
 - K: Will Reichard (K, MIN, Active)
 - DEF: Kansas City Chiefs (DEF, KC)
 - Bench: Marvin Harrison (WR, ARI, Active), Matthew Golden (WR, GB, Active), TreVeyon Henderson (RB, NE, Active), Jadarian Price (RB, SEA, Active), Deebo Samuel (WR, SF, Active), Jalen Hurts (QB, PHI, Active), Rhamondre Stevenson (RB, NE, Active)
