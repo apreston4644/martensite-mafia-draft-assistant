@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-10-01T07:15:03+00:00
+**Captured (UTC):** 2026-10-01T18:28:06+00:00
 **NFL week:** 4 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -9,12 +9,12 @@
 - RB: Ashton Jeanty (RB, LV, Active)
 - RB: Jaylen Warren (RB, PIT, Active)
 - WR: Amon-Ra St. Brown (WR, DET, Active)
-- WR: Michael Wilson (WR, ARI, Active)
+- WR: Nico Collins (WR, HOU, Questionable)
 - TE: Tucker Kraft (TE, GB, Active)
 - FLEX: Chuba Hubbard (RB, CAR, Active)
 - K: Ka'imi Fairbairn (K, HOU, Active)
 - DEF: Seattle Seahawks (DEF, SEA)
-- Bench: Bucky Irving (RB, TB, Questionable), Rome Odunze (WR, CHI, Active), Colston Loveland (TE, CHI, Active), Jacory Croskey-Merritt (RB, WAS, Active), Mike Evans (WR, SF, Questionable), David Montgomery (RB, HOU, Active), Nico Collins (WR, HOU, Questionable)
+- Bench: Michael Wilson (WR, ARI, Active), Bucky Irving (RB, TB, Questionable), Rome Odunze (WR, CHI, Active), Colston Loveland (TE, CHI, Active), Jacory Croskey-Merritt (RB, WAS, Active), Mike Evans (WR, SF, Questionable), David Montgomery (RB, HOU, Active)
 - Reserve: Zach Charbonnet (RB, SEA, PUP)
 - Taxi: none
 
@@ -136,46 +136,46 @@
 - Pat Bryant (WR, DEN, Active)
 
 ## Trending additions (48h)
-- Ollie Gordon (RB, MIA, Active) | adds: 6902602 | AVAILABLE
-- Braelon Allen (RB, NYJ, Active) | adds: 3094492 | AVAILABLE
-- Kenyon Sadiq (TE, NYJ, Questionable) | adds: 3034908 | AVAILABLE
-- Konata Mumpfield (WR, LAR, Active) | adds: 1583505 | AVAILABLE
-- Tyler Higbee (TE, LAR, Active) | adds: 1285137 | AVAILABLE
-- Alvin Kamara (RB, NO, Active) | adds: 1247696 | rostered
-- Tyreek Hill (WR, FA, Active) | adds: 1080520 | AVAILABLE
-- Kalif Raymond (WR, CHI, Active) | adds: 975248 | rostered
-- Keaton Mitchell (RB, LAC, Questionable) | adds: 933534 | AVAILABLE
-- Darren Waller (TE, CAR, Active) | adds: 860769 | AVAILABLE
-- Keenan Allen (WR, IND, Active) | adds: 839536 | AVAILABLE
-- Isaiah Davis (RB, NYJ, Active) | adds: 708894 | AVAILABLE
-- Cleveland Browns (DEF, CLE) | adds: 696780 | AVAILABLE
-- Jordan Addison (WR, MIN, Active) | adds: 587250 | rostered
-- Jaylen Wright (RB, MIA, Questionable) | adds: 562578 | AVAILABLE
-- Kirk Cousins (QB, LV, Active) | adds: 562416 | AVAILABLE
-- Baltimore Ravens (DEF, BAL) | adds: 517596 | rostered
-- Las Vegas Raiders (DEF, LV) | adds: 506334 | AVAILABLE
-- Roman Wilson (WR, PIT, Active) | adds: 472140 | AVAILABLE
-- Pittsburgh Steelers (DEF, PIT) | adds: 439428 | rostered
-- Kendre Miller (RB, NO, Active) | adds: 425484 | AVAILABLE
-- Minnesota Vikings (DEF, MIN) | adds: 404065 | rostered
-- Chris Bell (WR, MIA, Questionable) | adds: 393470 | AVAILABLE
-- Jakobi Meyers (WR, JAX, Questionable) | adds: 366726 | AVAILABLE
-- Malik Washington (WR, MIA, Active) | adds: 342920 | AVAILABLE
-- Deshaun Watson (QB, CLE, Active) | adds: 325584 | AVAILABLE
-- Skyy Moore (WR, GB, Active) | adds: 279608 | AVAILABLE
-- Spencer Shrader (K, IND, Active) | adds: 252788 | rostered
-- Sam Darnold (QB, SEA, Active) | adds: 245886 | AVAILABLE
-- Jalon Daniels (QB, TB, Active) | adds: 245382 | AVAILABLE
-- Chicago Bears (DEF, CHI) | adds: 243371 | AVAILABLE
-- Michael Wilson (WR, ARI, Active) | adds: 242775 | rostered
-- Brian Robinson (RB, ATL, Active) | adds: 239964 | AVAILABLE
-- Raheim Sanders (RB, CLE, Active) | adds: 231296 | AVAILABLE
-- Marcus Mariota (QB, WAS, Active) | adds: 229548 | AVAILABLE
-- Chase McLaughlin (K, TB, Active) | adds: 209584 | AVAILABLE
-- C.J. Stroud (QB, HOU, Active) | adds: 207067 | AVAILABLE
-- Tyler Shough (QB, NO, Active) | adds: 202776 | rostered
-- Tyler Loop (K, BAL, Active) | adds: 178668 | AVAILABLE
-- Matt Gay (K, LV, Active) | adds: 178340 | AVAILABLE
+- Ollie Gordon (RB, MIA, Active) | adds: 4399528 | AVAILABLE
+- Kenyon Sadiq (TE, NYJ, Questionable) | adds: 2179881 | AVAILABLE
+- Braelon Allen (RB, NYJ, Active) | adds: 2036836 | AVAILABLE
+- Konata Mumpfield (WR, LAR, Active) | adds: 1481553 | AVAILABLE
+- Tyler Higbee (TE, LAR, Active) | adds: 1081755 | AVAILABLE
+- Tyreek Hill (WR, FA, Active) | adds: 1033816 | AVAILABLE
+- Alvin Kamara (RB, NO, Active) | adds: 995600 | rostered
+- Kalif Raymond (WR, CHI, Active) | adds: 824712 | rostered
+- Darren Waller (TE, CAR, Active) | adds: 773865 | AVAILABLE
+- Keaton Mitchell (RB, LAC, Questionable) | adds: 740331 | AVAILABLE
+- Cleveland Browns (DEF, CLE) | adds: 679301 | AVAILABLE
+- Keenan Allen (WR, IND, Active) | adds: 662940 | AVAILABLE
+- Isaiah Davis (RB, NYJ, Active) | adds: 558864 | AVAILABLE
+- Jaylen Wright (RB, MIA, Questionable) | adds: 457172 | AVAILABLE
+- Kirk Cousins (QB, LV, Active) | adds: 452792 | AVAILABLE
+- Jordan Addison (WR, MIN, Active) | adds: 404793 | rostered
+- Las Vegas Raiders (DEF, LV) | adds: 404766 | AVAILABLE
+- Roman Wilson (WR, PIT, Active) | adds: 381447 | AVAILABLE
+- Kendre Miller (RB, NO, Active) | adds: 369226 | AVAILABLE
+- Baltimore Ravens (DEF, BAL) | adds: 368337 | rostered
+- Chris Bell (WR, MIA, Questionable) | adds: 354067 | AVAILABLE
+- Pittsburgh Steelers (DEF, PIT) | adds: 342921 | rostered
+- Jakobi Meyers (WR, JAX, Questionable) | adds: 302748 | AVAILABLE
+- Malik Washington (WR, MIA, Active) | adds: 287448 | AVAILABLE
+- Deshaun Watson (QB, CLE, Active) | adds: 280384 | AVAILABLE
+- Minnesota Vikings (DEF, MIN) | adds: 271575 | rostered
+- Skyy Moore (WR, GB, Active) | adds: 267256 | AVAILABLE
+- Spencer Shrader (K, IND, Active) | adds: 238840 | rostered
+- Raheim Sanders (RB, CLE, Active) | adds: 222432 | AVAILABLE
+- Brian Robinson (RB, ATL, Active) | adds: 215832 | AVAILABLE
+- Chicago Bears (DEF, CHI) | adds: 206833 | AVAILABLE
+- C.J. Stroud (QB, HOU, Active) | adds: 204337 | AVAILABLE
+- Marcus Mariota (QB, WAS, Active) | adds: 191156 | AVAILABLE
+- Michael Wilson (WR, ARI, Active) | adds: 183753 | rostered
+- Sam Darnold (QB, SEA, Active) | adds: 183486 | AVAILABLE
+- Jalon Daniels (QB, TB, Active) | adds: 181082 | AVAILABLE
+- Chase McLaughlin (K, TB, Active) | adds: 179008 | AVAILABLE
+- Matt Gay (K, LV, Active) | adds: 171075 | AVAILABLE
+- Arizona Cardinals (DEF, ARI) | adds: 167864 | AVAILABLE
+- Tyler Shough (QB, NO, Active) | adds: 163480 | rostered
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
