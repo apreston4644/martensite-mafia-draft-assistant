@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-10-03T23:54:16+00:00
+**Captured (UTC):** 2026-10-04T07:01:10+00:00
 **NFL week:** 4 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -34,10 +34,10 @@
 - Taxi: none
 
 ## Top available skill players (Sleeper search order)
-- Drake Maye (QB, NE, Active)
 - Todd Gurley (RB, FA, Active)
 - Jaxson Dart (QB, NYG, IR)
 - Bryce Ford-Wheaton (WR, FA, Questionable)
+- Jadarian Price (RB, SEA, IR)
 - Matthew Stafford (QB, LAR, Active)
 - J.K. Dobbins (RB, DEN, Active)
 - Jordan Love (QB, GB, Active)
@@ -77,8 +77,8 @@
 - Ezekiel Elliott (RB, FA, Active)
 - KC Concepcion (WR, CLE, Active)
 - Emmett Johnson (RB, KC, Active)
-- Trey Benson (RB, ARI, IR)
 - Cam Ward (QB, TEN, Active)
+- Trey Benson (RB, ARI, IR)
 - Rob Gronkowski (TE, FA, Active)
 - Malik Willis (QB, MIA, Active)
 - William Fuller (WR, FA, Active)
@@ -136,46 +136,46 @@
 - Kaleb Johnson (RB, GB, Active)
 
 ## Trending additions (48h)
-- Emanuel Wilson (RB, SEA, Active) | adds: 1549161 | AVAILABLE
-- Roman Wilson (WR, PIT, Active) | adds: 1026900 | AVAILABLE
-- Isaiah Davis (RB, NYJ, Active) | adds: 551943 | AVAILABLE
-- Jauan Jennings (WR, MIN, Active) | adds: 503097 | AVAILABLE
-- Tyreek Hill (WR, FA, Active) | adds: 429824 | AVAILABLE
-- Darren Waller (TE, CAR, Active) | adds: 318573 | AVAILABLE
-- Tyler Higbee (TE, LAR, Active) | adds: 283698 | AVAILABLE
-- Alvin Kamara (RB, NO, Active) | adds: 236784 | rostered
-- Konata Mumpfield (WR, LAR, Active) | adds: 233694 | AVAILABLE
-- Dontayvion Wicks (WR, PHI, Active) | adds: 187563 | AVAILABLE
-- Makai Lemon (WR, PHI, Active) | adds: 185124 | rostered
-- Jordan Addison (WR, MIN, Active) | adds: 162234 | rostered
-- Tyson Bagent (QB, CHI, Active) | adds: 145986 | AVAILABLE
-- Kenyon Sadiq (TE, NYJ, Questionable) | adds: 133362 | AVAILABLE
-- Las Vegas Raiders (DEF, LV) | adds: 130116 | AVAILABLE
-- Malik Washington (WR, MIA, Active) | adds: 129928 | AVAILABLE
-- Austin Ekeler (RB, WAS, Active) | adds: 120284 | AVAILABLE
-- Kirk Cousins (QB, LV, Active) | adds: 120104 | AVAILABLE
-- C.J. Stroud (QB, HOU, Active) | adds: 113806 | AVAILABLE
-- Arizona Cardinals (DEF, ARI) | adds: 108800 | AVAILABLE
-- KC Concepcion (WR, CLE, Active) | adds: 106029 | AVAILABLE
-- Jacory Croskey-Merritt (RB, WAS, Active) | adds: 105885 | rostered
-- Jaylen Wright (RB, MIA, Active) | adds: 100274 | AVAILABLE
-- MarShawn Lloyd (RB, GB, Active) | adds: 98496 | AVAILABLE
-- Deshaun Watson (QB, CLE, Active) | adds: 96728 | AVAILABLE
-- Zach Charbonnet (RB, SEA, PUP) | adds: 94467 | rostered
-- Skyy Moore (WR, GB, Active) | adds: 86328 | AVAILABLE
-- Tre' Harris (WR, LAC, Active) | adds: 85636 | AVAILABLE
-- Kendre Miller (RB, NO, Active) | adds: 85520 | AVAILABLE
-- Jakobi Meyers (WR, JAX, Active) | adds: 85188 | AVAILABLE
-- Mack Hollins (WR, NE, Active) | adds: 80616 | AVAILABLE
-- Chris Bell (WR, MIA, Active) | adds: 79401 | AVAILABLE
-- Matt Gay (K, LV, Active) | adds: 76960 | AVAILABLE
-- Kalif Raymond (WR, CHI, Active) | adds: 75986 | rostered
-- Brian Robinson (RB, ATL, Active) | adds: 75576 | rostered
-- Keaton Mitchell (RB, LAC, Active) | adds: 73890 | AVAILABLE
-- Brenton Strange (TE, JAX, Active) | adds: 72180 | AVAILABLE
-- Darius Cooper (WR, PHI, Active) | adds: 69363 | AVAILABLE
-- Ollie Gordon (RB, MIA, Active) | adds: 68446 | AVAILABLE
-- Keenan Allen (WR, IND, Out) | adds: 63140 | AVAILABLE
+- Emanuel Wilson (RB, SEA, Active) | adds: 1755666 | AVAILABLE
+- Roman Wilson (WR, PIT, Active) | adds: 883539 | AVAILABLE
+- Jauan Jennings (WR, MIN, Active) | adds: 563220 | AVAILABLE
+- Isaiah Davis (RB, NYJ, Active) | adds: 461736 | AVAILABLE
+- Darren Waller (TE, CAR, Active) | adds: 300690 | AVAILABLE
+- Tyreek Hill (WR, FA, Active) | adds: 275480 | AVAILABLE
+- Tyler Higbee (TE, LAR, Active) | adds: 259407 | AVAILABLE
+- Makai Lemon (WR, PHI, Active) | adds: 170808 | rostered
+- Tyson Bagent (QB, CHI, Active) | adds: 170328 | AVAILABLE
+- Dontayvion Wicks (WR, PHI, Active) | adds: 163317 | AVAILABLE
+- Jordan Addison (WR, MIN, Active) | adds: 159363 | rostered
+- Austin Ekeler (RB, WAS, Active) | adds: 151264 | AVAILABLE
+- Alvin Kamara (RB, NO, Active) | adds: 143808 | rostered
+- Konata Mumpfield (WR, LAR, Active) | adds: 132993 | AVAILABLE
+- Malik Washington (WR, MIA, Active) | adds: 124120 | AVAILABLE
+- Kenyon Sadiq (TE, NYJ, Questionable) | adds: 111951 | AVAILABLE
+- Las Vegas Raiders (DEF, LV) | adds: 110928 | AVAILABLE
+- C.J. Stroud (QB, HOU, Active) | adds: 102984 | AVAILABLE
+- Arizona Cardinals (DEF, ARI) | adds: 102440 | AVAILABLE
+- Jacory Croskey-Merritt (RB, WAS, Active) | adds: 101547 | rostered
+- Brycen Tremayne (WR, CAR, Active) | adds: 99945 | AVAILABLE
+- MarShawn Lloyd (RB, GB, Active) | adds: 89370 | AVAILABLE
+- Zach Charbonnet (RB, SEA, PUP) | adds: 87183 | rostered
+- Chris Bell (WR, MIA, Active) | adds: 86604 | AVAILABLE
+- Kirk Cousins (QB, LV, Active) | adds: 85824 | AVAILABLE
+- Tre' Harris (WR, LAC, Active) | adds: 85684 | AVAILABLE
+- Jakobi Meyers (WR, JAX, Active) | adds: 81030 | AVAILABLE
+- Mack Hollins (WR, NE, Active) | adds: 78411 | AVAILABLE
+- Keaton Mitchell (RB, LAC, Active) | adds: 76275 | AVAILABLE
+- Jaylen Wright (RB, MIA, Active) | adds: 74536 | AVAILABLE
+- Skyy Moore (WR, GB, Active) | adds: 71632 | AVAILABLE
+- Darius Cooper (WR, PHI, Active) | adds: 70616 | AVAILABLE
+- KC Concepcion (WR, CLE, Active) | adds: 70614 | AVAILABLE
+- Brenton Strange (TE, JAX, Active) | adds: 68823 | AVAILABLE
+- Matt Gay (K, LV, Active) | adds: 68730 | AVAILABLE
+- Brian Robinson (RB, ATL, Active) | adds: 63870 | rostered
+- Kendre Miller (RB, NO, Active) | adds: 62564 | AVAILABLE
+- Deshaun Watson (QB, CLE, Active) | adds: 57920 | AVAILABLE
+- Kalif Raymond (WR, CHI, Active) | adds: 56300 | rostered
+- Marcus Mariota (QB, WAS, Active) | adds: 53152 | AVAILABLE
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
@@ -244,7 +244,7 @@
 - FLEX: Jaylen Waddle (WR, DEN, Active)
 - K: Will Reichard (K, MIN, Active)
 - DEF: Kansas City Chiefs (DEF, KC)
-- Bench: Matthew Golden (WR, GB, Active), TreVeyon Henderson (RB, NE, Active), Jadarian Price (RB, SEA, IR), Deebo Samuel (WR, SF, Active), Jalen Hurts (QB, PHI, Active), Rhamondre Stevenson (RB, NE, Active)
+- Bench: Drake Maye (QB, NE, Active), Matthew Golden (WR, GB, Active), TreVeyon Henderson (RB, NE, Active), Deebo Samuel (WR, SF, Active), Jalen Hurts (QB, PHI, Active), Rhamondre Stevenson (RB, NE, Active), Denver Broncos (DEF, DEN)
 - Reserve: Jayden Daniels (QB, WAS, Out), Jordyn Tyson (WR, NO, IR), De'Von Achane (RB, MIA, IR)
 - Taxi: none
 
