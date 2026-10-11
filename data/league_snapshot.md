@@ -1,12 +1,12 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-10-11T17:42:52+00:00
+**Captured (UTC):** 2026-10-11T19:34:03+00:00
 **NFL week:** 5 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
 ## My current lineup
 ### MartensiteMafia (roster 5)
 - QB: Trevor Lawrence (QB, JAX, Active)
-- RB: David Montgomery (RB, HOU, Active)
+- RB: David Montgomery (RB, HOU, Out)
 - RB: Jaylen Warren (RB, PIT, Active)
 - WR: Amon-Ra St. Brown (WR, DET, Active)
 - WR: Nico Collins (WR, HOU, Active)
@@ -22,7 +22,7 @@
 ### Larry’s Horse 🍆 (roster 7)
 - QB: Josh Allen (QB, BUF, Active)
 - RB: Cam Skattebo (RB, NYG, Active)
-- RB: Aaron Jones (RB, MIN, Active)
+- RB: Aaron Jones (RB, MIN, Questionable)
 - WR: Malik Nabers (WR, NYG, Active)
 - WR: Luther Burden (WR, CHI, Active)
 - TE: Trey McBride (TE, ARI, Active)
@@ -74,10 +74,10 @@
 - Woody Marks (RB, HOU, Active)
 - Fernando Mendoza (QB, LV, Active)
 - Michael Pittman (WR, PIT, IR)
-- Kenyon Sadiq (TE, NYJ, Active)
+- Kenyon Sadiq (TE, NYJ, Questionable)
 - Tyrone Tracy (RB, NYG, Active)
 - Ezekiel Elliott (RB, FA, Active)
-- KC Concepcion (WR, CLE, Active)
+- KC Concepcion (WR, CLE, Out)
 - De'Zhaun Stribling (WR, SF, IR)
 - Emmett Johnson (RB, KC, Active)
 - Trey Benson (RB, ARI, IR)
@@ -96,7 +96,7 @@
 - Damien Harris (RB, FA, Active)
 - Jayden Higgins (WR, HOU, IR)
 - Bryce Love (RB, FA, Inactive)
-- T.J. Hockenson (TE, MIN, Questionable)
+- T.J. Hockenson (TE, MIN, Out)
 - Dylan Sampson (RB, CLE, IR)
 - Daniel Jones (QB, IND, Active)
 - David Njoku (TE, LAC, IR)
@@ -136,46 +136,46 @@
 - Jalen Nailor (WR, LV, Out)
 
 ## Trending additions (48h)
-- Roschon Johnson (RB, CHI, Active) | adds: 1101112 | AVAILABLE
-- Roman Wilson (WR, PIT, Active) | adds: 822510 | AVAILABLE
-- Darius Cooper (WR, PHI, Active) | adds: 450093 | AVAILABLE
-- Dameon Pierce (RB, PHI, Active) | adds: 355120 | AVAILABLE
-- Marvin Harrison (WR, ARI, Out) | adds: 323996 | rostered
-- Tyler Higbee (TE, LAR, Active) | adds: 316980 | AVAILABLE
-- Efton Chism (WR, NE, Active) | adds: 308092 | AVAILABLE
-- Kendrick Bourne (WR, ARI, Active) | adds: 262170 | AVAILABLE
-- Keaton Mitchell (RB, LAC, Active) | adds: 254295 | AVAILABLE
-- Malik Washington (WR, MIA, Active) | adds: 249944 | AVAILABLE
-- Tre' Harris (WR, LAC, Active) | adds: 246616 | AVAILABLE
-- MarShawn Lloyd (RB, GB, Active) | adds: 235701 | AVAILABLE
-- Kirk Cousins (QB, LV, Active) | adds: 213320 | rostered
-- Keon Coleman (WR, BUF, Active) | adds: 209961 | rostered
-- Cleveland Browns (DEF, CLE) | adds: 198002 | AVAILABLE
-- Romeo Doubs (WR, NE, Active) | adds: 195024 | AVAILABLE
-- Dohnte Meyers (WR, CIN, Active) | adds: 173754 | rostered
-- Khalil Shakir (WR, BUF, Active) | adds: 160344 | rostered
-- Pierre Strong (RB, GB, Active) | adds: 145908 | AVAILABLE
-- Washington Commanders (DEF, WAS) | adds: 144382 | AVAILABLE
-- Michael Mayer (TE, LV, Active) | adds: 126090 | AVAILABLE
-- Aaron Rodgers (QB, PIT, Active) | adds: 118572 | AVAILABLE
-- Isaiah Williams (WR, NYJ, Active) | adds: 109632 | AVAILABLE
-- Brian Robinson (RB, ATL, Active) | adds: 106056 | rostered
-- C.J. Stroud (QB, HOU, Active) | adds: 98819 | AVAILABLE
-- Mike Washington (RB, LV, Active) | adds: 95555 | AVAILABLE
-- Mike Gesicki (TE, CIN, Active) | adds: 90572 | AVAILABLE
-- Matt Gay (K, LV, Active) | adds: 89215 | rostered
-- Deshaun Watson (QB, CLE, Active) | adds: 88024 | AVAILABLE
-- Jacksonville Jaguars (DEF, JAX) | adds: 87036 | rostered
-- New England Patriots (DEF, NE) | adds: 86548 | AVAILABLE
-- KC Concepcion (WR, CLE, Active) | adds: 85419 | AVAILABLE
-- Treylon Burks (WR, WAS, Active) | adds: 82474 | AVAILABLE
-- Brenton Strange (TE, JAX, Active) | adds: 81891 | AVAILABLE
-- Braelon Allen (RB, NYJ, Active) | adds: 80280 | AVAILABLE
-- Tre Tucker (WR, LV, Active) | adds: 76884 | AVAILABLE
-- Emanuel Wilson (RB, SEA, Active) | adds: 74799 | rostered
-- Alvin Kamara (RB, NO, Active) | adds: 69576 | rostered
-- Jayden Daniels (QB, WAS, Active) | adds: 69288 | AVAILABLE
-- Courtland Sutton (WR, DEN, Active) | adds: 69147 | rostered
+- Roschon Johnson (RB, CHI, Active) | adds: 1000880 | AVAILABLE
+- Roman Wilson (WR, PIT, Out) | adds: 751599 | AVAILABLE
+- Darius Cooper (WR, PHI, Active) | adds: 459606 | AVAILABLE
+- Tyler Higbee (TE, LAR, Active) | adds: 327330 | AVAILABLE
+- Marvin Harrison (WR, ARI, Out) | adds: 326220 | rostered
+- Dameon Pierce (RB, PHI, Active) | adds: 316920 | AVAILABLE
+- Efton Chism (WR, NE, Active) | adds: 311244 | AVAILABLE
+- Kendrick Bourne (WR, ARI, Active) | adds: 283080 | AVAILABLE
+- MarShawn Lloyd (RB, GB, Active) | adds: 265878 | AVAILABLE
+- Tre' Harris (WR, LAC, Active) | adds: 255928 | AVAILABLE
+- Keaton Mitchell (RB, LAC, Active) | adds: 245664 | AVAILABLE
+- Malik Washington (WR, MIA, Active) | adds: 235040 | AVAILABLE
+- Keon Coleman (WR, BUF, Active) | adds: 217602 | rostered
+- Kirk Cousins (QB, LV, Active) | adds: 194224 | rostered
+- Cleveland Browns (DEF, CLE) | adds: 189182 | AVAILABLE
+- Romeo Doubs (WR, NE, Active) | adds: 187416 | AVAILABLE
+- Khalil Shakir (WR, BUF, Active) | adds: 162603 | rostered
+- Dohnte Meyers (WR, CIN, Active) | adds: 150489 | rostered
+- Pierre Strong (RB, GB, Active) | adds: 143091 | AVAILABLE
+- Washington Commanders (DEF, WAS) | adds: 137837 | AVAILABLE
+- Michael Mayer (TE, LV, Active) | adds: 118233 | AVAILABLE
+- Aaron Rodgers (QB, PIT, Active) | adds: 109112 | AVAILABLE
+- Brian Robinson (RB, ATL, Active) | adds: 102942 | rostered
+- Isaiah Williams (WR, NYJ, Active) | adds: 96162 | AVAILABLE
+- Brenton Strange (TE, JAX, Active) | adds: 94338 | AVAILABLE
+- C.J. Stroud (QB, HOU, Active) | adds: 92645 | AVAILABLE
+- New England Patriots (DEF, NE) | adds: 85841 | AVAILABLE
+- Mike Gesicki (TE, CIN, Active) | adds: 85144 | AVAILABLE
+- Matt Gay (K, LV, Active) | adds: 85060 | rostered
+- Jacksonville Jaguars (DEF, JAX) | adds: 80694 | rostered
+- Deshaun Watson (QB, CLE, Active) | adds: 79952 | AVAILABLE
+- Treylon Burks (WR, WAS, Active) | adds: 78855 | AVAILABLE
+- KC Concepcion (WR, CLE, Out) | adds: 78633 | AVAILABLE
+- Tre Tucker (WR, LV, Active) | adds: 74568 | AVAILABLE
+- Braelon Allen (RB, NYJ, Active) | adds: 73612 | AVAILABLE
+- Mike Washington (RB, LV, Active) | adds: 73032 | AVAILABLE
+- Emanuel Wilson (RB, SEA, Active) | adds: 72297 | rostered
+- Courtland Sutton (WR, DEN, Active) | adds: 69336 | rostered
+- Alvin Kamara (RB, NO, Active) | adds: 66928 | rostered
+- Kyler Murray (QB, MIN, Active) | adds: 65768 | AVAILABLE
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
@@ -216,7 +216,7 @@
 - FLEX: Garrett Wilson (WR, NYJ, Active)
 - K: Spencer Shrader (K, IND, Active)
 - DEF: Pittsburgh Steelers (DEF, PIT)
-- Bench: Ladd McConkey (WR, LAC, Questionable), Alvin Kamara (RB, NO, Active), Saquon Barkley (RB, PHI, Out), DK Metcalf (WR, PIT, Active), Josh Jacobs (RB, GB, NA)
+- Bench: Ladd McConkey (WR, LAC, Active), Alvin Kamara (RB, NO, Active), Saquon Barkley (RB, PHI, Out), DK Metcalf (WR, PIT, Active), Josh Jacobs (RB, GB, NA)
 - Reserve: Lamar Jackson (QB, BAL, Out), Travis Etienne (RB, NO, IR), Breece Hall (RB, NYJ, Out)
 - Taxi: none
 
@@ -244,14 +244,14 @@
 - FLEX: Zay Flowers (WR, BAL, Questionable)
 - K: Will Reichard (K, MIN, Active)
 - DEF: Jacksonville Jaguars (DEF, JAX)
-- Bench: Emanuel Wilson (RB, SEA, Active), Matthew Golden (WR, GB, Active), TreVeyon Henderson (RB, NE, Active), Deebo Samuel (WR, SF, Active), Rhamondre Stevenson (RB, NE, Active), Brock Purdy (QB, SF, Active), Denver Broncos (DEF, DEN)
+- Bench: Emanuel Wilson (RB, SEA, Active), Matthew Golden (WR, GB, Active), TreVeyon Henderson (RB, NE, Out), Deebo Samuel (WR, SF, Active), Rhamondre Stevenson (RB, NE, Active), Brock Purdy (QB, SF, Active), Denver Broncos (DEF, DEN)
 - Reserve: Jordyn Tyson (WR, NO, IR), De'Von Achane (RB, MIA, IR)
 - Taxi: none
 
 ### Larry’s Horse 🍆 (roster 7)
 - QB: Josh Allen (QB, BUF, Active)
 - RB: Cam Skattebo (RB, NYG, Active)
-- RB: Aaron Jones (RB, MIN, Active)
+- RB: Aaron Jones (RB, MIN, Questionable)
 - WR: Malik Nabers (WR, NYG, Active)
 - WR: Luther Burden (WR, CHI, Active)
 - TE: Trey McBride (TE, ARI, Active)
