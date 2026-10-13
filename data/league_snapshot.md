@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-10-13T02:37:17+00:00
+**Captured (UTC):** 2026-10-13T03:10:26+00:00
 **NFL week:** 5 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -136,46 +136,46 @@
 - Jalen Nailor (WR, LV, Out)
 
 ## Trending additions (48h)
-- MarShawn Lloyd (RB, GB, Active) | adds: 656226 | AVAILABLE
-- Darius Cooper (WR, PHI, Active) | adds: 640801 | AVAILABLE
-- Tyler Higbee (TE, LAR, Active) | adds: 462924 | AVAILABLE
-- Roschon Johnson (RB, CHI, Active) | adds: 421048 | AVAILABLE
-- Dameon Pierce (RB, PHI, Active) | adds: 385160 | AVAILABLE
-- Brenton Strange (TE, JAX, Active) | adds: 359505 | AVAILABLE
-- Kendrick Bourne (WR, ARI, Active) | adds: 321441 | AVAILABLE
-- Roman Wilson (WR, PIT, Out) | adds: 303201 | AVAILABLE
-- Keon Coleman (WR, BUF, Active) | adds: 289152 | rostered
-- New England Patriots (DEF, NE) | adds: 235830 | AVAILABLE
-- Khalil Shakir (WR, BUF, Active) | adds: 201501 | rostered
-- Efton Chism (WR, NE, Active) | adds: 200764 | AVAILABLE
-- Kimani Vidal (RB, LAC, Active) | adds: 182745 | AVAILABLE
-- Keaton Mitchell (RB, LAC, Active) | adds: 168822 | AVAILABLE
-- Malik Washington (WR, MIA, Active) | adds: 167552 | AVAILABLE
-- Tre' Harris (WR, LAC, Questionable) | adds: 152244 | AVAILABLE
-- Cleveland Browns (DEF, CLE) | adds: 145712 | AVAILABLE
-- Jayden Daniels (QB, WAS, Active) | adds: 143208 | AVAILABLE
-- Aaron Rodgers (QB, PIT, Active) | adds: 134720 | AVAILABLE
-- Marvin Harrison (WR, HOU, Out) | adds: 133456 | rostered
-- Kirk Cousins (QB, LV, Active) | adds: 129640 | rostered
-- C.J. Stroud (QB, HOU, Active) | adds: 122276 | AVAILABLE
-- San Francisco 49ers (DEF, SF) | adds: 99033 | AVAILABLE
-- Jacory Croskey-Merritt (RB, WAS, Active) | adds: 98361 | rostered
-- Romeo Doubs (WR, NE, Active) | adds: 95648 | AVAILABLE
-- Konata Mumpfield (WR, LAR, Active) | adds: 94518 | AVAILABLE
-- Nick Folk (K, ATL, Active) | adds: 93522 | AVAILABLE
-- Washington Commanders (DEF, WAS) | adds: 88921 | AVAILABLE
-- Samaje Perine (RB, CIN, Active) | adds: 85236 | AVAILABLE
-- Brian Robinson (RB, ATL, Active) | adds: 82956 | rostered
-- Pierre Strong (RB, GB, Active) | adds: 74070 | AVAILABLE
-- Tyler Loop (K, BAL, Active) | adds: 70902 | AVAILABLE
-- Matt Gay (K, LV, Active) | adds: 70875 | rostered
-- Indianapolis Colts (DEF, IND) | adds: 67632 | AVAILABLE
-- Kyler Murray (QB, MIN, Active) | adds: 66360 | AVAILABLE
-- Michael Mayer (TE, LV, Active) | adds: 57879 | AVAILABLE
-- Kyle Pitts (TE, ATL, Active) | adds: 57624 | AVAILABLE
-- Blake Corum (RB, LAR, Active) | adds: 56352 | rostered
-- Jason Myers (K, SEA, Active) | adds: 55550 | rostered
-- Ty Johnson (RB, BUF, Active) | adds: 55326 | AVAILABLE
+- MarShawn Lloyd (RB, GB, Active) | adds: 677862 | AVAILABLE
+- Darius Cooper (WR, PHI, Active) | adds: 649334 | AVAILABLE
+- Tyler Higbee (TE, LAR, Active) | adds: 489087 | AVAILABLE
+- Roschon Johnson (RB, CHI, Active) | adds: 403680 | AVAILABLE
+- Dameon Pierce (RB, PHI, Active) | adds: 401104 | AVAILABLE
+- Brenton Strange (TE, JAX, Active) | adds: 375480 | AVAILABLE
+- Kendrick Bourne (WR, ARI, Active) | adds: 320604 | AVAILABLE
+- Roman Wilson (WR, PIT, Out) | adds: 290133 | AVAILABLE
+- Keon Coleman (WR, BUF, Active) | adds: 288864 | rostered
+- New England Patriots (DEF, NE) | adds: 242753 | AVAILABLE
+- Khalil Shakir (WR, BUF, Active) | adds: 199287 | rostered
+- Efton Chism (WR, NE, Active) | adds: 196216 | AVAILABLE
+- Kimani Vidal (RB, LAC, Active) | adds: 189540 | AVAILABLE
+- Keaton Mitchell (RB, LAC, Active) | adds: 166239 | AVAILABLE
+- Malik Washington (WR, MIA, Active) | adds: 165504 | AVAILABLE
+- Tre' Harris (WR, LAC, Questionable) | adds: 148360 | AVAILABLE
+- Jayden Daniels (QB, WAS, Active) | adds: 145064 | AVAILABLE
+- Cleveland Browns (DEF, CLE) | adds: 143220 | AVAILABLE
+- Aaron Rodgers (QB, PIT, Active) | adds: 135812 | AVAILABLE
+- Marvin Harrison (WR, HOU, Out) | adds: 129936 | rostered
+- Kirk Cousins (QB, LV, Active) | adds: 127400 | rostered
+- C.J. Stroud (QB, HOU, Active) | adds: 122808 | AVAILABLE
+- San Francisco 49ers (DEF, SF) | adds: 103764 | AVAILABLE
+- Jacory Croskey-Merritt (RB, WAS, Active) | adds: 99846 | rostered
+- Nick Folk (K, ATL, Active) | adds: 95592 | AVAILABLE
+- Konata Mumpfield (WR, LAR, Active) | adds: 94536 | AVAILABLE
+- Romeo Doubs (WR, NE, Active) | adds: 92672 | AVAILABLE
+- Samaje Perine (RB, CIN, Active) | adds: 87696 | AVAILABLE
+- Washington Commanders (DEF, WAS) | adds: 86212 | AVAILABLE
+- Brian Robinson (RB, ATL, Active) | adds: 81804 | rostered
+- Tyler Loop (K, BAL, Active) | adds: 75570 | AVAILABLE
+- Pierre Strong (RB, GB, Active) | adds: 70875 | AVAILABLE
+- Matt Gay (K, LV, Active) | adds: 70340 | rostered
+- Blake Corum (RB, LAR, Active) | adds: 70048 | rostered
+- Indianapolis Colts (DEF, IND) | adds: 70044 | AVAILABLE
+- Kyler Murray (QB, MIN, Active) | adds: 66160 | AVAILABLE
+- Kyle Pitts (TE, ATL, Active) | adds: 58793 | AVAILABLE
+- Jason Myers (K, SEA, Active) | adds: 56910 | rostered
+- Ty Johnson (RB, BUF, Active) | adds: 56532 | AVAILABLE
+- Michael Mayer (TE, LV, Active) | adds: 55674 | AVAILABLE
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
