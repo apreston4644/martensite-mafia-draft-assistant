@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-10-13T19:22:04+00:00
+**Captured (UTC):** 2026-10-14T00:22:52+00:00
 **NFL week:** 6 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -136,46 +136,46 @@
 - Jalen Nailor (WR, LV, Out)
 
 ## Trending additions (48h)
-- Dameon Pierce (RB, PHI, Active) | adds: 1832960 | AVAILABLE
-- MarShawn Lloyd (RB, GB, Active) | adds: 1725939 | AVAILABLE
-- Brenton Strange (TE, JAX, Active) | adds: 1003455 | AVAILABLE
-- Darius Cooper (WR, PHI, Active) | adds: 907424 | AVAILABLE
-- New England Patriots (DEF, NE) | adds: 866614 | AVAILABLE
-- Tyler Higbee (TE, LAR, Active) | adds: 593712 | AVAILABLE
-- Kimani Vidal (RB, LAC, Active) | adds: 484740 | AVAILABLE
-- Tyler Loop (K, BAL, Active) | adds: 434010 | AVAILABLE
-- San Francisco 49ers (DEF, SF) | adds: 356415 | AVAILABLE
-- Indianapolis Colts (DEF, IND) | adds: 347592 | AVAILABLE
-- Kendrick Bourne (WR, ARI, Active) | adds: 325599 | AVAILABLE
-- Nick Folk (K, ATL, Active) | adds: 287832 | AVAILABLE
-- Efton Chism (WR, NE, Active) | adds: 271540 | AVAILABLE
-- Aaron Rodgers (QB, PIT, Active) | adds: 251196 | AVAILABLE
-- Germie Bernard (WR, PIT, Active) | adds: 213990 | AVAILABLE
-- Jayden Daniels (QB, WAS, Active) | adds: 207872 | AVAILABLE
-- Keon Coleman (WR, BUF, Active) | adds: 207063 | rostered
-- Woody Marks (RB, HOU, Active) | adds: 180619 | AVAILABLE
-- C.J. Stroud (QB, HOU, Active) | adds: 174923 | AVAILABLE
-- Khalil Shakir (WR, BUF, Active) | adds: 174060 | rostered
-- Kirk Cousins (QB, LV, Active) | adds: 172512 | rostered
-- Xavier Worthy (WR, KC, Active) | adds: 170199 | AVAILABLE
-- Matt Gay (K, LV, Active) | adds: 169200 | rostered
-- Kendre Miller (RB, NO, Active) | adds: 161714 | AVAILABLE
-- Rhamondre Stevenson (RB, NE, Active) | adds: 143109 | rostered
-- Blake Corum (RB, LAR, Active) | adds: 141744 | rostered
-- Samaje Perine (RB, CIN, Active) | adds: 140284 | AVAILABLE
-- Trey Smack (K, GB, Active) | adds: 135376 | AVAILABLE
-- Jacory Croskey-Merritt (RB, WAS, Active) | adds: 129285 | rostered
-- Baltimore Ravens (DEF, BAL) | adds: 123762 | AVAILABLE
-- Ryan Flournoy (WR, DAL, Active) | adds: 120016 | AVAILABLE
-- Raheim Sanders (RB, CLE, Questionable) | adds: 117760 | AVAILABLE
-- Tyler Bass (K, BUF, Active) | adds: 116445 | AVAILABLE
-- Jason Myers (K, SEA, Active) | adds: 115840 | rostered
-- Spencer Shrader (K, IND, Active) | adds: 108386 | rostered
-- Keenan Allen (WR, IND, Active) | adds: 106276 | AVAILABLE
-- Ty Johnson (RB, BUF, Active) | adds: 104016 | AVAILABLE
-- Matthew Stafford (QB, LAR, Active) | adds: 100800 | rostered
-- Kyle Pitts (TE, ATL, Active) | adds: 100569 | AVAILABLE
-- Marvin Harrison (WR, HOU, Out) | adds: 98600 | rostered
+- Dameon Pierce (RB, PHI, Active) | adds: 2399440 | AVAILABLE
+- MarShawn Lloyd (RB, GB, Active) | adds: 1988028 | AVAILABLE
+- Brenton Strange (TE, JAX, Active) | adds: 1167138 | AVAILABLE
+- New England Patriots (DEF, NE) | adds: 1047417 | AVAILABLE
+- Darius Cooper (WR, PHI, Active) | adds: 957901 | AVAILABLE
+- Kimani Vidal (RB, LAC, Active) | adds: 601840 | AVAILABLE
+- Tyler Higbee (TE, LAR, Active) | adds: 595935 | AVAILABLE
+- Tyler Loop (K, BAL, Active) | adds: 540636 | AVAILABLE
+- Indianapolis Colts (DEF, IND) | adds: 428172 | AVAILABLE
+- San Francisco 49ers (DEF, SF) | adds: 406554 | AVAILABLE
+- Kendrick Bourne (WR, ARI, Active) | adds: 374049 | AVAILABLE
+- Nick Folk (K, ATL, Active) | adds: 343674 | AVAILABLE
+- Efton Chism (WR, NE, Active) | adds: 331624 | AVAILABLE
+- Germie Bernard (WR, PIT, Active) | adds: 298733 | AVAILABLE
+- Aaron Rodgers (QB, PIT, Active) | adds: 275576 | AVAILABLE
+- Kendre Miller (RB, NO, Active) | adds: 218116 | AVAILABLE
+- Xavier Worthy (WR, KC, Active) | adds: 217692 | AVAILABLE
+- Kirk Cousins (QB, LV, Active) | adds: 214360 | rostered
+- Woody Marks (RB, HOU, Active) | adds: 213299 | AVAILABLE
+- Matt Gay (K, LV, Active) | adds: 212045 | rostered
+- Jayden Daniels (QB, WAS, Active) | adds: 186824 | AVAILABLE
+- C.J. Stroud (QB, HOU, Active) | adds: 185906 | AVAILABLE
+- Trey Smack (K, GB, Active) | adds: 175964 | AVAILABLE
+- Keon Coleman (WR, BUF, Active) | adds: 175653 | rostered
+- Jaleel McLaughlin (RB, CLE, Active) | adds: 166720 | AVAILABLE
+- Rhamondre Stevenson (RB, NE, Active) | adds: 163350 | rostered
+- Khalil Shakir (WR, BUF, Active) | adds: 163125 | rostered
+- Ryan Flournoy (WR, DAL, Active) | adds: 162968 | AVAILABLE
+- Blake Corum (RB, LAR, Active) | adds: 159976 | rostered
+- Baltimore Ravens (DEF, BAL) | adds: 152013 | AVAILABLE
+- Samaje Perine (RB, CIN, Active) | adds: 151296 | AVAILABLE
+- Tyler Bass (K, BUF, Active) | adds: 150915 | AVAILABLE
+- Corey Kiner (RB, NE, Active) | adds: 150822 | AVAILABLE
+- Keenan Allen (WR, IND, Active) | adds: 136728 | AVAILABLE
+- Jacory Croskey-Merritt (RB, WAS, Active) | adds: 126882 | rostered
+- Jason Myers (K, SEA, Active) | adds: 125515 | rostered
+- Raheim Sanders (RB, CLE, IR) | adds: 125304 | AVAILABLE
+- Ty Johnson (RB, BUF, Active) | adds: 124386 | AVAILABLE
+- Spencer Shrader (K, IND, Active) | adds: 120996 | rostered
+- Brandin Cooks (WR, SF, Active) | adds: 119964 | AVAILABLE
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
@@ -221,16 +221,16 @@
 - Taxi: none
 
 ### ThankYouMayeIHaveAnother? (roster 4)
-- QB: Jared Goff (QB, DET, Active)
+- QB: Bryce Young (QB, CAR, Active)
 - RB: Javonte Williams (RB, DAL, Active)
 - RB: Brian Robinson (RB, ATL, Active)
 - WR: Puka Nacua (WR, LAR, Active)
 - WR: Chris Olave (WR, NO, Active)
 - TE: Juwan Johnson (TE, NO, Active)
-- FLEX: Dohnte Meyers (WR, CIN, Active)
+- FLEX: George Pickens (WR, DAL, Active)
 - K: Evan McPherson (K, CIN, Active)
 - DEF: Cincinnati Bengals (DEF, CIN)
-- Bench: Keon Coleman (WR, BUF, Active), Kyle Monangai (RB, CHI, Out), Kalif Raymond (WR, CHI, Active), Rachaad White (RB, WAS, Active), George Pickens (WR, DAL, Active), Bryce Young (QB, CAR, Active), Los Angeles Rams (DEF, LAR)
+- Bench: Keon Coleman (WR, BUF, Active), Kyle Monangai (RB, CHI, Out), Dohnte Meyers (WR, CIN, Active), Jared Goff (QB, DET, Active), Kalif Raymond (WR, CHI, Active), Rachaad White (RB, WAS, Active), Los Angeles Rams (DEF, LAR)
 - Reserve: Jalen Coker (WR, CAR, Out), Terrance Ferguson (TE, LAR, IR)
 - Taxi: none
 
