@@ -1,20 +1,20 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-10-17T18:34:31+00:00
+**Captured (UTC):** 2026-10-17T23:12:40+00:00
 **NFL week:** 6 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
 ## My current lineup
 ### MartensiteMafia (roster 5)
-- QB: Trevor Lawrence (QB, JAX, Active)
+- QB: Jayden Daniels (QB, WAS, Active)
 - RB: Chuba Hubbard (RB, CAR, Active)
 - RB: Jaylen Warren (RB, PIT, Active)
-- WR: Mike Evans (WR, SF, Questionable)
+- WR: Michael Wilson (WR, ARI, Active)
 - WR: Nico Collins (WR, HOU, Active)
 - TE: Tucker Kraft (TE, GB, Active)
-- FLEX: Michael Wilson (WR, ARI, Active)
+- FLEX: Ashton Jeanty (RB, LV, Active)
 - K: Ka'imi Fairbairn (K, HOU, Active)
 - DEF: Seattle Seahawks (DEF, SEA)
-- Bench: Jayden Daniels (QB, WAS, Active), Braelon Allen (RB, NYJ, Active), Bucky Irving (RB, TB, Active), Ashton Jeanty (RB, LV, Active), Jacory Croskey-Merritt (RB, WAS, Out), Amon-Ra St. Brown (WR, DET, Active)
+- Bench: Braelon Allen (RB, NYJ, Active), Bucky Irving (RB, TB, Active), Jacory Croskey-Merritt (RB, WAS, Out), Mike Evans (WR, SF, Questionable), Trevor Lawrence (QB, JAX, Active), Amon-Ra St. Brown (WR, DET, Active)
 - Reserve: David Montgomery (RB, HOU, Out), Alec Pierce (WR, IND, IR), Zach Charbonnet (RB, SEA, PUP)
 - Taxi: none
 
@@ -35,13 +35,13 @@
 
 ## Top available skill players (Sleeper search order)
 - Todd Gurley (RB, FA, Active)
-- Jalen Hurts (QB, PHI, Out)
+- Jalen Hurts (QB, PHI, IR)
 - Justin Herbert (QB, LAC, Active)
 - Colston Loveland (TE, CHI, Active)
 - Jaxson Dart (QB, NYG, IR)
 - Bryce Ford-Wheaton (WR, FA, Questionable)
 - Jadarian Price (RB, SEA, IR)
-- Terry McLaurin (WR, WAS, Questionable)
+- Terry McLaurin (WR, WAS, Active)
 - J.K. Dobbins (RB, DEN, Active)
 - Baker Mayfield (QB, TB, Out)
 - Tom Brady (QB, FA, Active)
@@ -92,7 +92,7 @@
 - Mike Washington (RB, LV, Active)
 - Henry Ruggs (WR, FA, Active)
 - Chris Rodriguez (RB, JAX, Active)
-- Rachaad White (RB, WAS, Questionable)
+- Rachaad White (RB, WAS, Active)
 - AJ Barner (TE, SEA, Active)
 - Damien Harris (RB, FA, Active)
 - Jayden Higgins (WR, HOU, IR)
@@ -109,13 +109,13 @@
 - Kimani Vidal (RB, LAC, Active)
 - Theo Johnson (TE, NYG, Out)
 - Tyreek Hill (WR, FA, Active)
-- Ja'Kobi Lane (WR, BAL, IR)
+- Ja'Kobi Lane (WR, BAL, Questionable)
 - Tank Bigsby (RB, PHI, IR)
 - Cade Otton (TE, TB, Active)
 - Keaton Mitchell (RB, LAC, Active)
 - Rashid Shaheed (WR, SEA, Active)
 - Isiah Pacheco (RB, DET, IR)
-- Omar Cooper (WR, NYJ, IR)
+- Omar Cooper (WR, NYJ, Questionable)
 - Gunnar Helm (TE, TEN, Active)
 - Sean Tucker (RB, TB, Questionable)
 - Antonio Williams (WR, WAS, Active)
@@ -136,46 +136,46 @@
 - Jalen Nailor (WR, LV, Active)
 
 ## Trending additions (48h)
-- Tanner McKee (QB, PHI, Active) | adds: 1222824 | AVAILABLE
-- Dameon Pierce (RB, PHI, Active) | adds: 989248 | AVAILABLE
-- Tyler Allgeier (RB, ARI, Active) | adds: 706225 | AVAILABLE
-- Tyler Higbee (TE, LAR, Active) | adds: 516105 | AVAILABLE
-- Kirk Cousins (QB, LV, Active) | adds: 507384 | rostered
-- Josh Jacobs (RB, GB, NA) | adds: 461605 | rostered
-- Darius Cooper (WR, PHI, Active) | adds: 443744 | AVAILABLE
-- Nick Folk (K, ATL, Active) | adds: 419316 | AVAILABLE
-- Jaleel McLaughlin (RB, CLE, Active) | adds: 304185 | AVAILABLE
-- Aaron Rodgers (QB, PIT, Active) | adds: 290208 | AVAILABLE
-- Xavier Worthy (WR, KC, Active) | adds: 273663 | AVAILABLE
-- C.J. Stroud (QB, HOU, Active) | adds: 254996 | AVAILABLE
-- Brenton Strange (TE, JAX, Active) | adds: 246222 | AVAILABLE
-- Kimani Vidal (RB, LAC, Active) | adds: 244670 | AVAILABLE
-- Indianapolis Colts (DEF, IND) | adds: 207903 | rostered
-- Ryan Flournoy (WR, DAL, Active) | adds: 207880 | AVAILABLE
-- Joe Milton (QB, PHI, Active) | adds: 195284 | AVAILABLE
-- Trey Smack (K, GB, Active) | adds: 192584 | AVAILABLE
-- Tyler Bass (K, BUF, Active) | adds: 182380 | AVAILABLE
-- Tre Tucker (WR, LV, Active) | adds: 174252 | AVAILABLE
-- Brandin Cooks (WR, SF, Active) | adds: 171236 | AVAILABLE
-- Roschon Johnson (RB, CHI, Active) | adds: 170112 | AVAILABLE
-- MarShawn Lloyd (RB, GB, Active) | adds: 167589 | AVAILABLE
-- Matt Gay (K, LV, Active) | adds: 149460 | rostered
-- Keenan Allen (WR, IND, Active) | adds: 145296 | AVAILABLE
-- Tyler Shough (QB, NO, Active) | adds: 138416 | rostered
-- Pierre Strong (RB, GB, Active) | adds: 138330 | AVAILABLE
-- Blake Grupe (K, LAR, Active) | adds: 136260 | AVAILABLE
-- New England Patriots (DEF, NE) | adds: 135821 | rostered
-- Khalil Shakir (WR, BUF, Active) | adds: 117819 | rostered
-- Kenny Gainwell (RB, TB, Active) | adds: 114696 | AVAILABLE
-- Kendre Miller (RB, NO, Active) | adds: 113964 | AVAILABLE
-- Keaton Mitchell (RB, LAC, Active) | adds: 109728 | AVAILABLE
-- Braelon Allen (RB, NYJ, Active) | adds: 104852 | rostered
-- Keon Coleman (WR, BUF, Active) | adds: 103878 | AVAILABLE
-- Kendrick Bourne (WR, ARI, Active) | adds: 102270 | AVAILABLE
-- Tyler Loop (K, BAL, Active) | adds: 101652 | rostered
-- Michael Penix (QB, ATL, Active) | adds: 100377 | AVAILABLE
-- Carolina Panthers (DEF, CAR) | adds: 100260 | AVAILABLE
-- San Francisco 49ers (DEF, SF) | adds: 99564 | rostered
+- Dameon Pierce (RB, PHI, Active) | adds: 926768 | AVAILABLE
+- Tanner McKee (QB, PHI, Active) | adds: 815432 | AVAILABLE
+- Tyler Allgeier (RB, ARI, Active) | adds: 746740 | AVAILABLE
+- Tyler Higbee (TE, LAR, Active) | adds: 582381 | AVAILABLE
+- Josh Jacobs (RB, GB, NA) | adds: 479860 | rostered
+- Kirk Cousins (QB, LV, Active) | adds: 408896 | rostered
+- Darius Cooper (WR, PHI, Active) | adds: 361312 | AVAILABLE
+- Nick Folk (K, ATL, Active) | adds: 324204 | AVAILABLE
+- Jaleel McLaughlin (RB, CLE, Active) | adds: 260740 | AVAILABLE
+- Xavier Worthy (WR, KC, Active) | adds: 259695 | AVAILABLE
+- Aaron Rodgers (QB, PIT, Active) | adds: 243876 | AVAILABLE
+- Roschon Johnson (RB, CHI, Active) | adds: 231944 | AVAILABLE
+- Joe Milton (QB, PHI, Active) | adds: 224556 | AVAILABLE
+- Kimani Vidal (RB, LAC, Active) | adds: 223990 | AVAILABLE
+- C.J. Stroud (QB, HOU, Active) | adds: 219765 | AVAILABLE
+- Brenton Strange (TE, JAX, Active) | adds: 206388 | AVAILABLE
+- Ryan Flournoy (WR, DAL, Active) | adds: 180672 | AVAILABLE
+- Indianapolis Colts (DEF, IND) | adds: 161976 | rostered
+- Tyler Bass (K, BUF, Active) | adds: 158860 | AVAILABLE
+- Brandin Cooks (WR, SF, Active) | adds: 156604 | AVAILABLE
+- Trey Smack (K, GB, Active) | adds: 154636 | AVAILABLE
+- Tre Tucker (WR, LV, Active) | adds: 146442 | AVAILABLE
+- Keenan Allen (WR, IND, Active) | adds: 142664 | AVAILABLE
+- MarShawn Lloyd (RB, GB, Active) | adds: 131958 | AVAILABLE
+- Pierre Strong (RB, GB, Active) | adds: 128466 | AVAILABLE
+- Cyrus Allen (WR, KC, Active) | adds: 120960 | AVAILABLE
+- Matt Gay (K, LV, Active) | adds: 120310 | rostered
+- Tyler Shough (QB, NO, Active) | adds: 119448 | rostered
+- Rachaad White (RB, WAS, Active) | adds: 117045 | AVAILABLE
+- Blake Grupe (K, LAR, Active) | adds: 116469 | AVAILABLE
+- Khalil Shakir (WR, BUF, Active) | adds: 108585 | rostered
+- New England Patriots (DEF, NE) | adds: 106946 | rostered
+- Kenny Gainwell (RB, TB, Active) | adds: 106816 | AVAILABLE
+- Keaton Mitchell (RB, LAC, Active) | adds: 104184 | AVAILABLE
+- Keon Coleman (WR, BUF, Active) | adds: 103590 | AVAILABLE
+- Kendre Miller (RB, NO, Active) | adds: 97982 | AVAILABLE
+- Darren Waller (TE, CAR, Active) | adds: 97326 | AVAILABLE
+- Daniel Jones (QB, IND, Active) | adds: 90300 | AVAILABLE
+- Kendrick Bourne (WR, ARI, Active) | adds: 88407 | AVAILABLE
+- Justice Hill (RB, BAL, Active) | adds: 87912 | AVAILABLE
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
@@ -259,7 +259,7 @@
 - K: Dominic Zvada (K, NYG, Active)
 - DEF: Kansas City Chiefs (DEF, KC)
 - Bench: Caleb Williams (QB, CHI, Questionable), Marvin Harrison (WR, HOU, Active), Omarion Hampton (RB, LAC, Active), Emeka Egbuka (WR, TB, Active), Luther Burden (WR, CHI, Active), Patrick Mahomes (QB, KC, Active), Aaron Jones (RB, MIN, Questionable)
-- Reserve: Rashee Rice (WR, KC, Out), Jonah Coleman (RB, DEN, IR), A.J. Brown (WR, NE, IR)
+- Reserve: Rashee Rice (WR, KC, Out), Jonah Coleman (RB, DEN, IR), A.J. Brown (WR, NE, Questionable)
 - Taxi: none
 
 ### No Punt Intended (roster 8)
