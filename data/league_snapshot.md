@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-10-16T23:41:13+00:00
+**Captured (UTC):** 2026-10-17T05:41:19+00:00
 **NFL week:** 6 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -136,46 +136,46 @@
 - Jalen Nailor (WR, LV, Active)
 
 ## Trending additions (48h)
-- Tanner McKee (QB, PHI, Active) | adds: 1437320 | AVAILABLE
-- Dameon Pierce (RB, PHI, Active) | adds: 1075128 | AVAILABLE
-- Nick Folk (K, ATL, Active) | adds: 628482 | AVAILABLE
-- Kirk Cousins (QB, LV, Active) | adds: 626432 | rostered
-- Darius Cooper (WR, PHI, Active) | adds: 573587 | AVAILABLE
-- Tyler Allgeier (RB, ARI, Active) | adds: 511565 | AVAILABLE
-- Jaleel McLaughlin (RB, CLE, Active) | adds: 417975 | AVAILABLE
-- Tyler Higbee (TE, LAR, Active) | adds: 406035 | AVAILABLE
-- Josh Jacobs (RB, GB, NA) | adds: 358410 | rostered
-- Brenton Strange (TE, JAX, Active) | adds: 358119 | AVAILABLE
-- Aaron Rodgers (QB, PIT, Active) | adds: 340496 | AVAILABLE
-- Indianapolis Colts (DEF, IND) | adds: 310575 | rostered
-- Kimani Vidal (RB, LAC, Active) | adds: 307745 | AVAILABLE
-- C.J. Stroud (QB, HOU, Active) | adds: 297899 | AVAILABLE
-- Xavier Worthy (WR, KC, Active) | adds: 291411 | AVAILABLE
-- MarShawn Lloyd (RB, GB, Active) | adds: 267525 | AVAILABLE
-- Trey Smack (K, GB, Active) | adds: 263780 | AVAILABLE
-- Ryan Flournoy (WR, DAL, Active) | adds: 244928 | AVAILABLE
-- Tyler Bass (K, BUF, Active) | adds: 227895 | AVAILABLE
-- New England Patriots (DEF, NE) | adds: 225526 | rostered
-- Tre Tucker (WR, LV, Active) | adds: 212790 | AVAILABLE
-- Matt Gay (K, LV, Active) | adds: 212520 | rostered
-- Brandin Cooks (WR, SF, Active) | adds: 191868 | AVAILABLE
-- Tyler Loop (K, BAL, Active) | adds: 185700 | rostered
-- Blake Grupe (K, LAR, Active) | adds: 174807 | AVAILABLE
-- San Francisco 49ers (DEF, SF) | adds: 159195 | rostered
-- Keenan Allen (WR, IND, Active) | adds: 157952 | AVAILABLE
-- Tyler Shough (QB, NO, Active) | adds: 156064 | rostered
-- Joe Milton (QB, PHI, Active) | adds: 150704 | AVAILABLE
-- Kendre Miller (RB, NO, Active) | adds: 150252 | AVAILABLE
-- Kendrick Bourne (WR, ARI, Active) | adds: 146511 | AVAILABLE
-- Braelon Allen (RB, NYJ, Active) | adds: 146456 | rostered
-- Michael Penix (QB, ATL, Active) | adds: 143739 | AVAILABLE
-- New Orleans Saints (DEF, NO) | adds: 138970 | AVAILABLE
-- Pierre Strong (RB, GB, Active) | adds: 137673 | AVAILABLE
-- Kenny Gainwell (RB, TB, Active) | adds: 126928 | AVAILABLE
-- Khalil Shakir (WR, BUF, Active) | adds: 125838 | rostered
-- Keaton Mitchell (RB, LAC, Active) | adds: 118107 | AVAILABLE
-- Blake Corum (RB, LAR, Active) | adds: 116264 | rostered
-- Jacksonville Jaguars (DEF, JAX) | adds: 111852 | AVAILABLE
+- Tanner McKee (QB, PHI, Active) | adds: 1475128 | AVAILABLE
+- Dameon Pierce (RB, PHI, Active) | adds: 1022696 | AVAILABLE
+- Kirk Cousins (QB, LV, Active) | adds: 598464 | rostered
+- Tyler Allgeier (RB, ARI, Active) | adds: 597610 | AVAILABLE
+- Nick Folk (K, ATL, Active) | adds: 537366 | AVAILABLE
+- Darius Cooper (WR, PHI, Active) | adds: 515354 | AVAILABLE
+- Tyler Higbee (TE, LAR, Active) | adds: 428562 | AVAILABLE
+- Josh Jacobs (RB, GB, NA) | adds: 411025 | rostered
+- Jaleel McLaughlin (RB, CLE, Active) | adds: 364990 | AVAILABLE
+- Aaron Rodgers (QB, PIT, Active) | adds: 329464 | AVAILABLE
+- Brenton Strange (TE, JAX, Active) | adds: 297171 | AVAILABLE
+- C.J. Stroud (QB, HOU, Active) | adds: 288897 | AVAILABLE
+- Xavier Worthy (WR, KC, Active) | adds: 280710 | AVAILABLE
+- Kimani Vidal (RB, LAC, Active) | adds: 270325 | AVAILABLE
+- Indianapolis Colts (DEF, IND) | adds: 263481 | rostered
+- Trey Smack (K, GB, Active) | adds: 231480 | AVAILABLE
+- Ryan Flournoy (WR, DAL, Active) | adds: 228424 | AVAILABLE
+- MarShawn Lloyd (RB, GB, Active) | adds: 207936 | AVAILABLE
+- Tyler Bass (K, BUF, Active) | adds: 205085 | AVAILABLE
+- Tre Tucker (WR, LV, Active) | adds: 194502 | AVAILABLE
+- Matt Gay (K, LV, Active) | adds: 181700 | rostered
+- Brandin Cooks (WR, SF, Active) | adds: 178692 | AVAILABLE
+- New England Patriots (DEF, NE) | adds: 177366 | rostered
+- Joe Milton (QB, PHI, Active) | adds: 174180 | AVAILABLE
+- Blake Grupe (K, LAR, Active) | adds: 155547 | AVAILABLE
+- Tyler Shough (QB, NO, Active) | adds: 152528 | rostered
+- Keenan Allen (WR, IND, Active) | adds: 147484 | AVAILABLE
+- Tyler Loop (K, BAL, Active) | adds: 144036 | rostered
+- Pierre Strong (RB, GB, Active) | adds: 136971 | AVAILABLE
+- Michael Penix (QB, ATL, Active) | adds: 132567 | AVAILABLE
+- San Francisco 49ers (DEF, SF) | adds: 130263 | rostered
+- Kendre Miller (RB, NO, Active) | adds: 129228 | AVAILABLE
+- Braelon Allen (RB, NYJ, Active) | adds: 128624 | rostered
+- Kendrick Bourne (WR, ARI, Active) | adds: 122829 | AVAILABLE
+- Khalil Shakir (WR, BUF, Active) | adds: 122157 | rostered
+- New Orleans Saints (DEF, NO) | adds: 119965 | AVAILABLE
+- Kenny Gainwell (RB, TB, Active) | adds: 118768 | AVAILABLE
+- Keaton Mitchell (RB, LAC, Active) | adds: 112707 | AVAILABLE
+- Carolina Panthers (DEF, CAR) | adds: 107872 | AVAILABLE
+- Daniel Jones (QB, IND, Active) | adds: 103725 | AVAILABLE
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
