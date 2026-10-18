@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-10-18T20:44:59+00:00
+**Captured (UTC):** 2026-10-18T23:13:30+00:00
 **NFL week:** 6 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -136,46 +136,46 @@
 - Jalen Nailor (WR, LV, Active)
 
 ## Trending additions (48h)
-- Tyler Higbee (TE, LAR, Active) | adds: 1414179 | AVAILABLE
-- Dameon Pierce (RB, PHI, Active) | adds: 866016 | AVAILABLE
-- Tyler Allgeier (RB, ARI, Active) | adds: 615060 | AVAILABLE
-- Roschon Johnson (RB, CHI, Active) | adds: 518632 | AVAILABLE
-- Jaleel McLaughlin (RB, CLE, Active) | adds: 478840 | AVAILABLE
-- Najee Harris (RB, NYG, Active) | adds: 414905 | AVAILABLE
-- Tanner McKee (QB, PHI, Active) | adds: 411688 | AVAILABLE
-- Rachaad White (RB, WAS, Active) | adds: 315201 | AVAILABLE
-- Xavier Worthy (WR, KC, Active) | adds: 314523 | AVAILABLE
-- Josh Jacobs (RB, GB, NA) | adds: 299720 | rostered
-- Kirk Cousins (QB, LV, Active) | adds: 283032 | rostered
-- Darren Waller (TE, CAR, Active) | adds: 263322 | AVAILABLE
-- Cyrus Allen (WR, KC, Active) | adds: 242406 | AVAILABLE
-- Keon Coleman (WR, BUF, Active) | adds: 223110 | AVAILABLE
-- Kimani Vidal (RB, LAC, Active) | adds: 217895 | AVAILABLE
-- Ryan Flournoy (WR, DAL, Active) | adds: 215552 | AVAILABLE
-- Khalil Shakir (WR, BUF, Active) | adds: 204453 | rostered
-- Brandin Cooks (WR, SF, Active) | adds: 199096 | AVAILABLE
-- Nick Folk (K, ATL, Active) | adds: 186882 | AVAILABLE
-- Keenan Allen (WR, IND, Active) | adds: 186148 | AVAILABLE
-- Tyler Bass (K, BUF, Active) | adds: 177515 | AVAILABLE
-- C.J. Stroud (QB, HOU, Active) | adds: 170709 | AVAILABLE
-- Austin Ekeler (RB, WAS, Active) | adds: 156720 | AVAILABLE
-- Aaron Rodgers (QB, PIT, Active) | adds: 152740 | AVAILABLE
-- Tre Tucker (WR, LV, Active) | adds: 152718 | AVAILABLE
-- Darnell Washington (TE, PIT, Active) | adds: 132510 | AVAILABLE
-- Omar Cooper (WR, NYJ, Active) | adds: 125744 | AVAILABLE
-- Brenton Strange (TE, JAX, Active) | adds: 123147 | AVAILABLE
-- Joe Milton (QB, PHI, Out) | adds: 122108 | AVAILABLE
-- Blake Grupe (K, LAR, Questionable) | adds: 120537 | AVAILABLE
-- Jacob Cowing (WR, SF, Active) | adds: 111990 | AVAILABLE
-- Indianapolis Colts (DEF, IND) | adds: 107922 | rostered
-- Keaton Mitchell (RB, LAC, Active) | adds: 102852 | AVAILABLE
-- Emmett Johnson (RB, KC, Active) | adds: 101079 | AVAILABLE
-- Darius Cooper (WR, PHI, Active) | adds: 100457 | AVAILABLE
-- Kenny Gainwell (RB, TB, Active) | adds: 100224 | AVAILABLE
-- KC Concepcion (WR, CLE, Active) | adds: 100053 | AVAILABLE
-- Kendrick Bourne (WR, ARI, Active) | adds: 98286 | AVAILABLE
-- Ty Johnson (RB, BUF, Active) | adds: 98118 | AVAILABLE
-- Alvin Kamara (RB, NO, Questionable) | adds: 97232 | rostered
+- Tyler Higbee (TE, LAR, Active) | adds: 1370637 | AVAILABLE
+- Dameon Pierce (RB, PHI, Active) | adds: 772408 | AVAILABLE
+- Tyler Allgeier (RB, ARI, Active) | adds: 545480 | AVAILABLE
+- Roschon Johnson (RB, CHI, Active) | adds: 518088 | AVAILABLE
+- Jaleel McLaughlin (RB, CLE, Active) | adds: 464095 | AVAILABLE
+- Najee Harris (RB, NYG, Active) | adds: 422040 | AVAILABLE
+- Tanner McKee (QB, PHI, Active) | adds: 388136 | AVAILABLE
+- Rachaad White (RB, WAS, Active) | adds: 319101 | AVAILABLE
+- Xavier Worthy (WR, KC, Active) | adds: 303993 | AVAILABLE
+- Kirk Cousins (QB, LV, Active) | adds: 266600 | rostered
+- Darren Waller (TE, CAR, Active) | adds: 258021 | AVAILABLE
+- Cyrus Allen (WR, KC, Active) | adds: 235530 | AVAILABLE
+- Keon Coleman (WR, BUF, Active) | adds: 232974 | AVAILABLE
+- Ryan Flournoy (WR, DAL, Active) | adds: 223968 | AVAILABLE
+- Josh Jacobs (RB, GB, NA) | adds: 209200 | rostered
+- Khalil Shakir (WR, BUF, Active) | adds: 205434 | rostered
+- Kimani Vidal (RB, LAC, Active) | adds: 204725 | AVAILABLE
+- Brandin Cooks (WR, SF, Active) | adds: 200064 | AVAILABLE
+- Keenan Allen (WR, IND, Active) | adds: 185148 | AVAILABLE
+- C.J. Stroud (QB, HOU, Active) | adds: 178157 | AVAILABLE
+- Nick Folk (K, ATL, Active) | adds: 177966 | AVAILABLE
+- Tyler Bass (K, BUF, Active) | adds: 175720 | AVAILABLE
+- Omar Cooper (WR, NYJ, Active) | adds: 166568 | AVAILABLE
+- Austin Ekeler (RB, WAS, Active) | adds: 166276 | AVAILABLE
+- Tre Tucker (WR, LV, Active) | adds: 146958 | AVAILABLE
+- Aaron Rodgers (QB, PIT, Active) | adds: 143536 | AVAILABLE
+- Darnell Washington (TE, PIT, Active) | adds: 134685 | AVAILABLE
+- Brenton Strange (TE, JAX, Active) | adds: 118098 | AVAILABLE
+- Blake Grupe (K, LAR, Questionable) | adds: 116487 | AVAILABLE
+- Jacob Cowing (WR, SF, Active) | adds: 115854 | AVAILABLE
+- Kyle Pitts (TE, ATL, Active) | adds: 110964 | rostered
+- Joe Milton (QB, PHI, Out) | adds: 108400 | AVAILABLE
+- Indianapolis Colts (DEF, IND) | adds: 101970 | rostered
+- Trey Smack (K, GB, Active) | adds: 100088 | AVAILABLE
+- Alvin Kamara (RB, NO, Questionable) | adds: 98088 | rostered
+- Tyler Shough (QB, NO, Active) | adds: 97184 | rostered
+- Emmett Johnson (RB, KC, Active) | adds: 97164 | AVAILABLE
+- Ty Johnson (RB, BUF, Active) | adds: 96528 | AVAILABLE
+- Kendrick Bourne (WR, ARI, Active) | adds: 95934 | AVAILABLE
+- KC Concepcion (WR, CLE, Active) | adds: 95715 | AVAILABLE
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
@@ -216,7 +216,7 @@
 - FLEX: Garrett Wilson (WR, NYJ, Active)
 - K: Spencer Shrader (K, IND, Active)
 - DEF: Pittsburgh Steelers (DEF, PIT)
-- Bench: Sam LaPorta (TE, DET, Active), Ladd McConkey (WR, LAC, Active), Saquon Barkley (RB, PHI, Out), Josh Jacobs (RB, GB, NA), Tee Higgins (WR, CIN, Active)
+- Bench: Sam LaPorta (TE, DET, Active), Ladd McConkey (WR, LAC, Out), Saquon Barkley (RB, PHI, Out), Josh Jacobs (RB, GB, NA), Tee Higgins (WR, CIN, Active)
 - Reserve: Lamar Jackson (QB, BAL, Out), Travis Etienne (RB, NO, IR), Breece Hall (RB, NYJ, Out)
 - Taxi: none
 
@@ -240,7 +240,7 @@
 - RB: Christian McCaffrey (RB, SF, Active)
 - WR: Zay Flowers (WR, BAL, Active)
 - WR: Matthew Golden (WR, GB, Active)
-- TE: Dalton Kincaid (TE, BUF, Active)
+- TE: Dalton Kincaid (TE, BUF, Questionable)
 - FLEX: Christian Watson (WR, GB, Active)
 - K: Chase McLaughlin (K, TB, Active)
 - DEF: Denver Broncos (DEF, DEN)
