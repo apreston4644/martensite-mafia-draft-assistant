@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-10-19T06:18:49+00:00
+**Captured (UTC):** 2026-10-19T07:47:40+00:00
 **NFL week:** 6 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -136,46 +136,46 @@
 - Jalen Nailor (WR, LV, Active)
 
 ## Trending additions (48h)
-- Tyler Higbee (TE, LAR, Active) | adds: 1298151 | AVAILABLE
-- Dameon Pierce (RB, PHI, Active) | adds: 665456 | AVAILABLE
-- Roschon Johnson (RB, CHI, Active) | adds: 513664 | AVAILABLE
-- Jaleel McLaughlin (RB, CLE, Active) | adds: 455910 | AVAILABLE
-- Najee Harris (RB, NYG, Active) | adds: 439200 | AVAILABLE
-- Tyler Allgeier (RB, ARI, Active) | adds: 426270 | AVAILABLE
-- Tanner McKee (QB, PHI, Active) | adds: 350448 | AVAILABLE
-- Rachaad White (RB, WAS, Active) | adds: 327483 | AVAILABLE
-- Omar Cooper (WR, NYJ, Active) | adds: 322488 | AVAILABLE
-- Xavier Worthy (WR, KC, Active) | adds: 285066 | AVAILABLE
-- Keon Coleman (WR, BUF, Active) | adds: 262719 | AVAILABLE
-- Kirk Cousins (QB, LV, Active) | adds: 251080 | rostered
-- Darren Waller (TE, CAR, Active) | adds: 250677 | AVAILABLE
-- Ryan Flournoy (WR, DAL, Active) | adds: 230632 | AVAILABLE
-- Cyrus Allen (WR, KC, Active) | adds: 215856 | AVAILABLE
-- Brandin Cooks (WR, SF, Active) | adds: 212936 | AVAILABLE
-- C.J. Stroud (QB, HOU, Active) | adds: 211218 | AVAILABLE
-- Khalil Shakir (WR, BUF, Active) | adds: 207963 | rostered
-- Tre Tucker (WR, LV, Active) | adds: 191904 | AVAILABLE
-- Kimani Vidal (RB, LAC, Active) | adds: 184755 | AVAILABLE
-- Austin Ekeler (RB, WAS, Active) | adds: 182984 | AVAILABLE
-- Keenan Allen (WR, IND, Active) | adds: 179324 | AVAILABLE
-- Tyler Bass (K, BUF, Active) | adds: 176205 | AVAILABLE
-- Kyle Pitts (TE, ATL, Active) | adds: 172025 | rostered
-- Nick Folk (K, ATL, Active) | adds: 162378 | AVAILABLE
-- Darnell Washington (TE, PIT, Active) | adds: 139765 | AVAILABLE
-- Cleveland Browns (DEF, CLE) | adds: 137214 | AVAILABLE
-- Aaron Rodgers (QB, PIT, Active) | adds: 134520 | AVAILABLE
-- Jacob Cowing (WR, SF, Active) | adds: 129222 | AVAILABLE
-- Josh Jacobs (RB, GB, NA) | adds: 125350 | rostered
-- Michael Mayer (TE, LV, Active) | adds: 116919 | AVAILABLE
-- Brenton Strange (TE, JAX, Active) | adds: 110952 | AVAILABLE
-- Blake Grupe (K, LAR, Questionable) | adds: 109008 | AVAILABLE
-- Alvin Kamara (RB, NO, Questionable) | adds: 104072 | rostered
-- Tyler Shough (QB, NO, Active) | adds: 102480 | rostered
-- Trey Smack (K, GB, Active) | adds: 99584 | AVAILABLE
-- Travis Hunter (DB, JAX, Active) | adds: 98160 | AVAILABLE
-- Blake Corum (RB, LAR, Active) | adds: 95504 | rostered
-- Indianapolis Colts (DEF, IND) | adds: 90720 | rostered
-- Kendrick Bourne (WR, ARI, Active) | adds: 90249 | AVAILABLE
+- Tyler Higbee (TE, LAR, Active) | adds: 1289016 | AVAILABLE
+- Dameon Pierce (RB, PHI, Active) | adds: 654456 | AVAILABLE
+- Roschon Johnson (RB, CHI, Active) | adds: 511096 | AVAILABLE
+- Jaleel McLaughlin (RB, CLE, Active) | adds: 453745 | AVAILABLE
+- Najee Harris (RB, NYG, Active) | adds: 439510 | AVAILABLE
+- Tyler Allgeier (RB, ARI, Active) | adds: 414515 | AVAILABLE
+- Tanner McKee (QB, PHI, Active) | adds: 345336 | AVAILABLE
+- Omar Cooper (WR, NYJ, Active) | adds: 334680 | AVAILABLE
+- Rachaad White (RB, WAS, Active) | adds: 327561 | AVAILABLE
+- Xavier Worthy (WR, KC, Active) | adds: 282096 | AVAILABLE
+- Keon Coleman (WR, BUF, Active) | adds: 262836 | AVAILABLE
+- Darren Waller (TE, CAR, Active) | adds: 249741 | AVAILABLE
+- Kirk Cousins (QB, LV, Active) | adds: 248672 | rostered
+- Ryan Flournoy (WR, DAL, Active) | adds: 230592 | AVAILABLE
+- Cyrus Allen (WR, KC, Active) | adds: 212754 | AVAILABLE
+- C.J. Stroud (QB, HOU, Active) | adds: 212464 | AVAILABLE
+- Brandin Cooks (WR, SF, Active) | adds: 211908 | AVAILABLE
+- Khalil Shakir (WR, BUF, Active) | adds: 206973 | rostered
+- Tre Tucker (WR, LV, Active) | adds: 192636 | AVAILABLE
+- Austin Ekeler (RB, WAS, Active) | adds: 183420 | AVAILABLE
+- Kimani Vidal (RB, LAC, Active) | adds: 182550 | AVAILABLE
+- Keenan Allen (WR, IND, Active) | adds: 178124 | AVAILABLE
+- Tyler Bass (K, BUF, Active) | adds: 175505 | AVAILABLE
+- Kyle Pitts (TE, ATL, Active) | adds: 175343 | rostered
+- Nick Folk (K, ATL, Active) | adds: 160884 | AVAILABLE
+- Cleveland Browns (DEF, CLE) | adds: 141043 | AVAILABLE
+- Darnell Washington (TE, PIT, Active) | adds: 139710 | AVAILABLE
+- Aaron Rodgers (QB, PIT, Active) | adds: 133212 | AVAILABLE
+- Jacob Cowing (WR, SF, Active) | adds: 128982 | AVAILABLE
+- Josh Jacobs (RB, GB, NA) | adds: 120100 | rostered
+- Michael Mayer (TE, LV, Active) | adds: 119151 | AVAILABLE
+- Brenton Strange (TE, JAX, Active) | adds: 109755 | AVAILABLE
+- Blake Grupe (K, LAR, Questionable) | adds: 108000 | AVAILABLE
+- Alvin Kamara (RB, NO, Questionable) | adds: 104064 | rostered
+- Tyler Shough (QB, NO, Active) | adds: 101960 | rostered
+- Travis Hunter (DB, JAX, Active) | adds: 99462 | AVAILABLE
+- Trey Smack (K, GB, Active) | adds: 98936 | AVAILABLE
+- Blake Corum (RB, LAR, Active) | adds: 95744 | rostered
+- Indianapolis Colts (DEF, IND) | adds: 89595 | rostered
+- Kendrick Bourne (WR, ARI, Active) | adds: 89490 | AVAILABLE
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
