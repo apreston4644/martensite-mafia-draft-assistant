@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-10-23T06:05:33+00:00
+**Captured (UTC):** 2026-10-23T06:27:48+00:00
 **NFL week:** 7 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -34,24 +34,24 @@
 - Taxi: none
 
 ## Top available skill players (Sleeper search order)
-- Todd Gurley (RB, FA, Active)
 - Jalen Hurts (QB, PHI, IR)
+- Todd Gurley (RB, FA, Active)
 - Justin Herbert (QB, LAC, Active)
-- Bryce Ford-Wheaton (WR, FA, Questionable)
 - Jaxson Dart (QB, NYG, IR)
+- Bryce Ford-Wheaton (WR, FA, Questionable)
 - Jadarian Price (RB, SEA, IR)
 - Terry McLaurin (WR, WAS, Out)
 - J.K. Dobbins (RB, DEN, Active)
+- Baker Mayfield (QB, TB, Questionable)
 - Brian Thomas Jr. (WR, JAX, Active)
 - Tom Brady (QB, FA, Active)
-- Baker Mayfield (QB, TB, Questionable)
 - Drew Brees (QB, FA, Injured Reserve)
 - Jakobi Meyers (WR, JAX, Active)
 - Dalton Kincaid (TE, BUF, Questionable)
 - Oronde Gadsden (TE, LAC, Active)
 - Kenny Gainwell (RB, TB, Active)
-- Chris Godwin Jr. (WR, TB, Active)
 - Kyler Murray (QB, MIN, Active)
+- Chris Godwin Jr. (WR, TB, Active)
 - Antonio Brown (WR, FA, Active)
 - Makai Lemon (WR, PHI, Active)
 - Tyler Allgeier (RB, ARI, Active)
@@ -97,9 +97,9 @@
 - Bryce Love (RB, FA, Inactive)
 - T.J. Hockenson (TE, MIN, Questionable)
 - Dylan Sampson (RB, CLE, IR)
+- Daniel Jones (QB, IND, Active)
 - David Njoku (TE, LAC, IR)
 - Tyler Lockett (WR, FA, Active)
-- Daniel Jones (QB, IND, Active)
 - Braelon Allen (RB, NYJ, Active)
 - Colby Parkinson (TE, LAR, Active)
 - Chig Okonkwo (TE, WAS, Active)
@@ -136,46 +136,46 @@
 - Troy Franklin (WR, DEN, Active)
 
 ## Trending additions (48h)
-- Roschon Johnson (RB, CHI, Active) | adds: 1956064 | AVAILABLE
-- Konata Mumpfield (WR, LAR, Active) | adds: 1353582 | AVAILABLE
-- Cleveland Browns (DEF, CLE) | adds: 1228878 | rostered
-- Omar Cooper Jr. (WR, NYJ, Active) | adds: 1167216 | rostered
-- Chase McLaughlin (K, TB, Active) | adds: 974792 | AVAILABLE
-- Michael Mayer (TE, LV, Active) | adds: 814428 | AVAILABLE
-- Jake Bates (K, DET, Active) | adds: 757824 | AVAILABLE
-- Tyler Higbee (TE, LAR, Active) | adds: 709497 | AVAILABLE
-- Kyler Murray (QB, MIN, Active) | adds: 597104 | AVAILABLE
-- C.J. Stroud (QB, HOU, Active) | adds: 564697 | rostered
-- Treylon Burks (WR, WAS, Active) | adds: 495096 | AVAILABLE
-- New York Jets (DEF, NYJ) | adds: 431598 | rostered
-- Malik Washington (WR, MIA, Active) | adds: 375272 | AVAILABLE
-- Tre Tucker (WR, LV, Active) | adds: 372264 | rostered
-- Seth McGowan (RB, IND, Active) | adds: 334200 | AVAILABLE
-- Zonovan Knight (RB, ARI, Active) | adds: 324498 | AVAILABLE
-- Bo Nix (QB, DEN, Active) | adds: 321228 | rostered
-- Brandon McManus (K, LAR, Active) | adds: 311472 | AVAILABLE
-- Tyrone Tracy Jr. (RB, NYG, Active) | adds: 306766 | AVAILABLE
-- Tanner McKee (QB, PHI, Active) | adds: 286632 | AVAILABLE
-- Ryan Flournoy (WR, DAL, Active) | adds: 284608 | AVAILABLE
-- Tank Dell (WR, HOU, IR) | adds: 275968 | AVAILABLE
-- Kyle Pitts Sr. (TE, ATL, Active) | adds: 258209 | rostered
-- Aaron Rodgers (QB, PIT, Active) | adds: 256552 | AVAILABLE
-- Geno Smith (QB, NYJ, Active) | adds: 254324 | AVAILABLE
-- Jordan Addison (WR, MIN, Active) | adds: 242568 | AVAILABLE
-- Chris Boswell (K, PIT, Active) | adds: 237348 | AVAILABLE
-- Tyler Allgeier (RB, ARI, Active) | adds: 236060 | AVAILABLE
-- Caleb Douglas (WR, MIA, Questionable) | adds: 232704 | rostered
-- J.J. McCarthy (QB, NYG, Active) | adds: 231051 | AVAILABLE
-- Terrance Ferguson (TE, LAR, IR) | adds: 230872 | rostered
-- Will Reichard (K, MIN, Active) | adds: 228066 | rostered
-- Pierre Strong Jr. (RB, GB, Active) | adds: 217620 | AVAILABLE
-- Matt Gay (K, LV, Active) | adds: 213810 | rostered
-- Brandin Cooks (WR, SF, Active) | adds: 213592 | AVAILABLE
-- Trey Smack (K, GB, Active) | adds: 211904 | AVAILABLE
-- KC Concepcion Jr. (WR, CLE, Questionable) | adds: 208962 | AVAILABLE
-- Jordan Watkins (WR, SF, Active) | adds: 204400 | AVAILABLE
-- Courtland Sutton (WR, DEN, Active) | adds: 199368 | rostered
-- Kirk Cousins (QB, LV, Active) | adds: 192312 | rostered
+- Roschon Johnson (RB, CHI, Active) | adds: 1956296 | AVAILABLE
+- Konata Mumpfield (WR, LAR, Active) | adds: 1356417 | AVAILABLE
+- Cleveland Browns (DEF, CLE) | adds: 1229487 | rostered
+- Omar Cooper Jr. (WR, NYJ, Active) | adds: 1167488 | rostered
+- Chase McLaughlin (K, TB, Active) | adds: 975664 | AVAILABLE
+- Michael Mayer (TE, LV, Active) | adds: 815256 | AVAILABLE
+- Jake Bates (K, DET, Active) | adds: 758368 | AVAILABLE
+- Tyler Higbee (TE, LAR, Active) | adds: 711144 | AVAILABLE
+- Kyler Murray (QB, MIN, Active) | adds: 597688 | AVAILABLE
+- C.J. Stroud (QB, HOU, Active) | adds: 565327 | rostered
+- Treylon Burks (WR, WAS, Active) | adds: 495481 | AVAILABLE
+- New York Jets (DEF, NYJ) | adds: 431836 | rostered
+- Malik Washington (WR, MIA, Active) | adds: 375632 | AVAILABLE
+- Tre Tucker (WR, LV, Active) | adds: 372636 | rostered
+- Seth McGowan (RB, IND, Active) | adds: 335736 | AVAILABLE
+- Zonovan Knight (RB, ARI, Active) | adds: 325214 | AVAILABLE
+- Bo Nix (QB, DEN, Active) | adds: 321552 | rostered
+- Brandon McManus (K, LAR, Active) | adds: 311912 | AVAILABLE
+- Tyrone Tracy Jr. (RB, NYG, Active) | adds: 306920 | AVAILABLE
+- Tanner McKee (QB, PHI, Active) | adds: 286888 | AVAILABLE
+- Ryan Flournoy (WR, DAL, Active) | adds: 285152 | AVAILABLE
+- Tank Dell (WR, HOU, IR) | adds: 276264 | AVAILABLE
+- Kyle Pitts Sr. (TE, ATL, Active) | adds: 258482 | rostered
+- Aaron Rodgers (QB, PIT, Active) | adds: 256848 | AVAILABLE
+- Geno Smith (QB, NYJ, Active) | adds: 254524 | AVAILABLE
+- Jordan Addison (WR, MIN, Active) | adds: 242946 | AVAILABLE
+- Chris Boswell (K, PIT, Active) | adds: 237548 | AVAILABLE
+- Tyler Allgeier (RB, ARI, Active) | adds: 236560 | AVAILABLE
+- Caleb Douglas (WR, MIA, Questionable) | adds: 232824 | rostered
+- J.J. McCarthy (QB, NYG, Active) | adds: 231192 | AVAILABLE
+- Terrance Ferguson (TE, LAR, IR) | adds: 231152 | rostered
+- Will Reichard (K, MIN, Active) | adds: 228183 | rostered
+- Pierre Strong Jr. (RB, GB, Active) | adds: 217800 | AVAILABLE
+- Matt Gay (K, LV, Active) | adds: 214005 | rostered
+- Brandin Cooks (WR, SF, Active) | adds: 213888 | AVAILABLE
+- Trey Smack (K, GB, Active) | adds: 212052 | AVAILABLE
+- KC Concepcion Jr. (WR, CLE, Questionable) | adds: 209133 | AVAILABLE
+- Jordan Watkins (WR, SF, Active) | adds: 204572 | AVAILABLE
+- Courtland Sutton (WR, DEN, Active) | adds: 199638 | rostered
+- Kirk Cousins (QB, LV, Active) | adds: 192608 | rostered
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
