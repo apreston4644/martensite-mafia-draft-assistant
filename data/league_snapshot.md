@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-10-24T23:22:54+00:00
+**Captured (UTC):** 2026-10-25T06:16:26+00:00
 **NFL week:** 7 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -11,10 +11,10 @@
 - WR: Amon-Ra St. Brown (WR, DET, Active)
 - WR: Nico Collins (WR, HOU, Active)
 - TE: Tucker Kraft (TE, GB, Active)
-- FLEX: Germie Bernard (WR, PIT, Active)
+- FLEX: Bucky Irving (RB, TB, Active)
 - K: Ka'imi Fairbairn (K, HOU, Active)
 - DEF: Seattle Seahawks (DEF, SEA)
-- Bench: Michael Wilson (WR, ARI, Active), Jayden Daniels (QB, WAS, Active), Bucky Irving (RB, TB, Active), Ashton Jeanty (RB, LV, Active), David Montgomery (RB, HOU, Out), Trevor Lawrence (QB, JAX, Active)
+- Bench: Michael Wilson (WR, ARI, Active), Dalton Kincaid (TE, BUF, Questionable), Jayden Daniels (QB, WAS, Active), Ashton Jeanty (RB, LV, Active), Germie Bernard (WR, PIT, Active), David Montgomery (RB, HOU, Out), Trevor Lawrence (QB, JAX, Active)
 - Reserve: Jacory Croskey-Merritt (RB, WAS, IR), Mike Evans (WR, SF, Out), Zach Charbonnet (RB, SEA, Out)
 - Taxi: none
 
@@ -34,27 +34,26 @@
 - Taxi: none
 
 ## Top available skill players (Sleeper search order)
-- Todd Gurley (RB, FA, Active)
 - Jalen Hurts (QB, PHI, IR)
+- Todd Gurley (RB, FA, Active)
 - Justin Herbert (QB, LAC, Active)
-- Jaxson Dart (QB, NYG, IR)
 - Bryce Ford-Wheaton (WR, FA, Questionable)
+- Jaxson Dart (QB, NYG, IR)
 - Jadarian Price (RB, SEA, IR)
 - Terry McLaurin (WR, WAS, Out)
 - J.K. Dobbins (RB, DEN, Active)
-- Baker Mayfield (QB, TB, Questionable)
 - Brian Thomas Jr. (WR, JAX, Active)
 - Tom Brady (QB, FA, Active)
+- Baker Mayfield (QB, TB, Questionable)
 - Drew Brees (QB, FA, Injured Reserve)
 - Jakobi Meyers (WR, JAX, Active)
-- Dalton Kincaid (TE, BUF, Questionable)
 - Oronde Gadsden (TE, LAC, Active)
 - Kenny Gainwell (RB, TB, Active)
 - Chris Godwin Jr. (WR, TB, Active)
-- Kyler Murray (QB, MIN, Active)
 - Antonio Brown (WR, FA, Active)
-- Makai Lemon (WR, PHI, Active)
+- Kyler Murray (QB, MIN, Active)
 - Tyler Allgeier (RB, ARI, Active)
+- Makai Lemon (WR, PHI, Active)
 - Hunter Henry (TE, NE, Active)
 - James Conner (RB, ARI, IR)
 - Julian Edelman (WR, FA, Injured Reserve)
@@ -73,10 +72,10 @@
 - Michael Pittman Jr. (WR, PIT, IR)
 - Fernando Mendoza (QB, LV, Active)
 - Kenyon Sadiq (TE, NYJ, Active)
-- KC Concepcion Jr. (WR, CLE, Active)
 - Tyrone Tracy Jr. (RB, NYG, Active)
-- Ezekiel Elliott (RB, FA, Active)
 - De'Zhaun Stribling (WR, SF, IR)
+- Ezekiel Elliott (RB, FA, Active)
+- KC Concepcion Jr. (WR, CLE, Active)
 - Emmett Johnson (RB, KC, Active)
 - Trey Benson (RB, ARI, IR)
 - Cam Ward (QB, TEN, Active)
@@ -96,9 +95,9 @@
 - Bryce Love (RB, FA, Inactive)
 - T.J. Hockenson (TE, MIN, Active)
 - Dylan Sampson (RB, CLE, Active)
-- Daniel Jones (QB, IND, Active)
 - David Njoku (TE, LAC, IR)
 - Tyler Lockett (WR, FA, Active)
+- Daniel Jones (QB, IND, Active)
 - Braelon Allen (RB, NYJ, Active)
 - Colby Parkinson (TE, LAR, Active)
 - Chig Okonkwo (TE, WAS, Active)
@@ -134,48 +133,49 @@
 - Jalen Nailor (WR, LV, Active)
 - Troy Franklin (WR, DEN, Active)
 - Pat Bryant (WR, DEN, IR)
+- Kaleb Johnson (RB, GB, Active)
 
 ## Trending additions (48h)
-- Konata Mumpfield (WR, LAR, Active) | adds: 1047195 | AVAILABLE
-- Seth McGowan (RB, IND, Active) | adds: 817608 | AVAILABLE
-- Tyler Higbee (TE, LAR, Active) | adds: 617553 | AVAILABLE
-- Chris Godwin Jr. (WR, TB, Active) | adds: 329490 | AVAILABLE
-- Chase McLaughlin (K, TB, Active) | adds: 313976 | AVAILABLE
-- Emanuel Wilson (RB, SEA, Active) | adds: 311202 | AVAILABLE
-- Roschon Johnson (RB, CHI, Active) | adds: 301696 | AVAILABLE
-- Michael Mayer (TE, LV, Active) | adds: 291852 | AVAILABLE
-- Zonovan Knight (RB, ARI, Active) | adds: 232368 | AVAILABLE
-- Jake Bates (K, DET, Active) | adds: 221904 | AVAILABLE
-- Cleveland Browns (DEF, CLE) | adds: 213521 | rostered
-- Ted Hurst III (WR, TB, Active) | adds: 200646 | AVAILABLE
-- Kyler Murray (QB, MIN, Active) | adds: 197176 | AVAILABLE
-- Brandin Cooks (WR, SF, Active) | adds: 181008 | AVAILABLE
-- C.J. Stroud (QB, HOU, Active) | adds: 179921 | rostered
-- Malik Washington (WR, MIA, Active) | adds: 173392 | AVAILABLE
-- Tyler Allgeier (RB, ARI, Active) | adds: 170560 | AVAILABLE
-- Ryan Flournoy (WR, DAL, Active) | adds: 167960 | AVAILABLE
-- Justice Hill (RB, BAL, Active) | adds: 165105 | AVAILABLE
-- Brandon McManus (K, LAR, Active) | adds: 149480 | AVAILABLE
-- Bo Nix (QB, DEN, Active) | adds: 133356 | rostered
-- Omar Cooper Jr. (WR, NYJ, Active) | adds: 129088 | rostered
-- Xavier Worthy (WR, KC, Active) | adds: 121797 | rostered
-- Jordan Watkins (WR, SF, Active) | adds: 120788 | AVAILABLE
-- Colby Parkinson (TE, LAR, Active) | adds: 120234 | AVAILABLE
-- Jordan Addison (WR, MIN, Active) | adds: 119421 | AVAILABLE
-- Tre Tucker (WR, LV, Active) | adds: 118038 | rostered
-- Treylon Burks (WR, WAS, Active) | adds: 115801 | AVAILABLE
-- KC Concepcion Jr. (WR, CLE, Active) | adds: 114210 | AVAILABLE
-- Aaron Rodgers (QB, PIT, Active) | adds: 112456 | AVAILABLE
-- Courtland Sutton (WR, DEN, Active) | adds: 112356 | rostered
-- Adonai Mitchell (WR, NYJ, Active) | adds: 107920 | AVAILABLE
-- Caleb Douglas (WR, MIA, Active) | adds: 105792 | rostered
-- Kyle Pitts Sr. (TE, ATL, Active) | adds: 102774 | rostered
-- Tanner McKee (QB, PHI, Active) | adds: 100968 | AVAILABLE
-- Keenan Allen (WR, IND, Active) | adds: 100924 | AVAILABLE
-- Geno Smith (QB, NYJ, Active) | adds: 94228 | AVAILABLE
-- Devaughn Vele (WR, NO, Active) | adds: 87934 | rostered
-- Kirk Cousins (QB, LV, Active) | adds: 84464 | rostered
-- Tank Dell (WR, HOU, Inactive) | adds: 80704 | AVAILABLE
+- Seth McGowan (RB, IND, Active) | adds: 864880 | AVAILABLE
+- Konata Mumpfield (WR, LAR, Active) | adds: 700965 | AVAILABLE
+- Tyler Higbee (TE, LAR, Active) | adds: 495855 | AVAILABLE
+- Chris Godwin Jr. (WR, TB, Active) | adds: 347616 | AVAILABLE
+- Emanuel Wilson (RB, SEA, Active) | adds: 339543 | AVAILABLE
+- Darius Cooper (WR, PHI, Active) | adds: 277991 | AVAILABLE
+- Ted Hurst III (WR, TB, Active) | adds: 220770 | AVAILABLE
+- Michael Mayer (TE, LV, Active) | adds: 207792 | AVAILABLE
+- Zonovan Knight (RB, ARI, Active) | adds: 167136 | AVAILABLE
+- Justice Hill (RB, BAL, Active) | adds: 166329 | AVAILABLE
+- Brandin Cooks (WR, SF, Active) | adds: 155232 | AVAILABLE
+- Kyler Murray (QB, MIN, Active) | adds: 150040 | AVAILABLE
+- Chase McLaughlin (K, TB, Active) | adds: 137928 | AVAILABLE
+- Xavier Worthy (WR, KC, Active) | adds: 129843 | rostered
+- Malik Washington (WR, MIA, Active) | adds: 127176 | AVAILABLE
+- Tyler Allgeier (RB, ARI, Active) | adds: 125185 | AVAILABLE
+- Ryan Flournoy (WR, DAL, Active) | adds: 121216 | AVAILABLE
+- Adonai Mitchell (WR, NYJ, Active) | adds: 115704 | AVAILABLE
+- Cleveland Browns (DEF, CLE) | adds: 110607 | rostered
+- Caleb Douglas (WR, MIA, Active) | adds: 110024 | rostered
+- Jordan Watkins (WR, SF, Active) | adds: 104284 | AVAILABLE
+- KC Concepcion Jr. (WR, CLE, Active) | adds: 103203 | AVAILABLE
+- C.J. Stroud (QB, HOU, Active) | adds: 102564 | rostered
+- Jake Bates (K, DET, Active) | adds: 101016 | AVAILABLE
+- Bo Nix (QB, DEN, Active) | adds: 97560 | rostered
+- Colby Parkinson (TE, LAR, Active) | adds: 95004 | AVAILABLE
+- Keenan Allen (WR, IND, Active) | adds: 89016 | AVAILABLE
+- Aaron Rodgers (QB, PIT, Active) | adds: 88544 | AVAILABLE
+- Makai Lemon (WR, PHI, Active) | adds: 86596 | AVAILABLE
+- Jordan Addison (WR, MIN, Active) | adds: 84141 | AVAILABLE
+- Courtland Sutton (WR, DEN, Active) | adds: 81441 | rostered
+- Kyle Pitts Sr. (TE, ATL, Active) | adds: 79030 | rostered
+- Tre Tucker (WR, LV, Active) | adds: 78474 | rostered
+- Omar Cooper Jr. (WR, NYJ, Active) | adds: 77248 | rostered
+- Cade Otton (TE, TB, Active) | adds: 73530 | AVAILABLE
+- Will Mallory (TE, IND, Active) | adds: 73206 | AVAILABLE
+- Geno Smith (QB, NYJ, Active) | adds: 70200 | AVAILABLE
+- Devaughn Vele (WR, NO, Active) | adds: 68355 | rostered
+- Kirk Cousins (QB, LV, Active) | adds: 66712 | rostered
+- Tank Dell (WR, HOU, Active) | adds: 63952 | AVAILABLE
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
