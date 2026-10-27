@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-10-27T00:34:45+00:00
+**Captured (UTC):** 2026-10-27T01:36:42+00:00
 **NFL week:** 7 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -136,46 +136,46 @@
 - Pat Bryant (WR, DEN, IR)
 
 ## Trending additions (48h)
-- Darius Cooper (WR, PHI, Active) | adds: 1112454 | AVAILABLE
-- Seth McGowan (RB, IND, Active) | adds: 788800 | AVAILABLE
-- Caleb Douglas (WR, MIA, Active) | adds: 517448 | rostered
-- KC Concepcion Jr. (WR, CLE, Active) | adds: 373077 | AVAILABLE
-- Kaelon Black (RB, SF, Active) | adds: 326746 | AVAILABLE
-- Emanuel Wilson (RB, SEA, Active) | adds: 282483 | AVAILABLE
-- Tyler Higbee (TE, LAR, Active) | adds: 262377 | AVAILABLE
-- Konata Mumpfield (WR, LAR, Active) | adds: 222066 | AVAILABLE
-- Omar Cooper Jr. (WR, NYJ, Active) | adds: 205224 | rostered
-- Makai Lemon (WR, PHI, Active) | adds: 196088 | AVAILABLE
-- Chase McLaughlin (K, TB, Active) | adds: 175112 | AVAILABLE
-- Chris Godwin Jr. (WR, TB, Active) | adds: 163020 | AVAILABLE
-- Justice Hill (RB, BAL, Active) | adds: 157833 | AVAILABLE
-- Tre Tucker (WR, LV, Active) | adds: 150108 | rostered
-- Kyler Murray (QB, MIN, Active) | adds: 150040 | AVAILABLE
-- Jake Bates (K, DET, Active) | adds: 144840 | AVAILABLE
-- Michael Mayer (TE, LV, Active) | adds: 135747 | AVAILABLE
-- Dameon Pierce (RB, PHI, Active) | adds: 133504 | AVAILABLE
-- Xavier Worthy (WR, KC, Active) | adds: 130509 | rostered
-- Bo Nix (QB, DEN, Active) | adds: 115926 | rostered
-- Zonovan Knight (RB, ARI, Active) | adds: 112812 | AVAILABLE
-- Kirk Cousins (QB, LV, Active) | adds: 111880 | rostered
-- New England Patriots (DEF, NE) | adds: 107366 | AVAILABLE
-- Ryan Flournoy (WR, DAL, Active) | adds: 99088 | AVAILABLE
-- Kyle Pitts Sr. (TE, ATL, Active) | adds: 97608 | rostered
-- Blake Corum (RB, LAR, Active) | adds: 93016 | rostered
-- Tank Dell (WR, HOU, Active) | adds: 92288 | AVAILABLE
-- Cleveland Browns (DEF, CLE) | adds: 91917 | rostered
-- Tyler Allgeier (RB, ARI, Active) | adds: 90695 | AVAILABLE
-- Braelon Allen (RB, NYJ, Active) | adds: 89432 | AVAILABLE
-- Tanner McKee (QB, PHI, Active) | adds: 89248 | AVAILABLE
-- Ted Hurst III (WR, TB, Active) | adds: 85740 | AVAILABLE
-- Brandon McManus (K, LAR, Active) | adds: 84456 | AVAILABLE
-- Jacksonville Jaguars (DEF, JAX) | adds: 84222 | AVAILABLE
-- Geno Smith (QB, NYJ, Active) | adds: 78536 | AVAILABLE
-- Devin Singletary (RB, NYG, Active) | adds: 75132 | AVAILABLE
-- Malik Washington (WR, MIA, Active) | adds: 72888 | AVAILABLE
-- Courtland Sutton (WR, DEN, Active) | adds: 67869 | rostered
-- Hunter Henry (TE, NE, Active) | adds: 66840 | AVAILABLE
-- Jonah Coleman (RB, DEN, Active) | adds: 65898 | AVAILABLE
+- Darius Cooper (WR, PHI, Active) | adds: 1051932 | AVAILABLE
+- Seth McGowan (RB, IND, Active) | adds: 744872 | AVAILABLE
+- Caleb Douglas (WR, MIA, Active) | adds: 554152 | rostered
+- KC Concepcion Jr. (WR, CLE, Active) | adds: 385524 | AVAILABLE
+- Kaelon Black (RB, SF, Active) | adds: 334537 | AVAILABLE
+- Emanuel Wilson (RB, SEA, Active) | adds: 272232 | AVAILABLE
+- Tyler Higbee (TE, LAR, Active) | adds: 245061 | AVAILABLE
+- Omar Cooper Jr. (WR, NYJ, Active) | adds: 212016 | rostered
+- Konata Mumpfield (WR, LAR, Active) | adds: 197559 | AVAILABLE
+- Makai Lemon (WR, PHI, Active) | adds: 185508 | AVAILABLE
+- Chase McLaughlin (K, TB, Active) | adds: 172456 | AVAILABLE
+- Tre Tucker (WR, LV, Active) | adds: 154932 | rostered
+- Justice Hill (RB, BAL, Active) | adds: 153711 | AVAILABLE
+- Chris Godwin Jr. (WR, TB, Active) | adds: 148560 | AVAILABLE
+- Jake Bates (K, DET, Active) | adds: 141360 | AVAILABLE
+- Kyler Murray (QB, MIN, Active) | adds: 140968 | AVAILABLE
+- Dameon Pierce (RB, PHI, Active) | adds: 138360 | AVAILABLE
+- Michael Mayer (TE, LV, Active) | adds: 130230 | AVAILABLE
+- Xavier Worthy (WR, KC, Active) | adds: 123102 | rostered
+- New England Patriots (DEF, NE) | adds: 115535 | AVAILABLE
+- Kirk Cousins (QB, LV, Active) | adds: 111480 | rostered
+- Bo Nix (QB, DEN, Active) | adds: 110934 | rostered
+- Zonovan Knight (RB, ARI, Active) | adds: 107856 | AVAILABLE
+- Ryan Flournoy (WR, DAL, Active) | adds: 102736 | AVAILABLE
+- Kyle Pitts Sr. (TE, ATL, Active) | adds: 98826 | rostered
+- Blake Corum (RB, LAR, Active) | adds: 94928 | rostered
+- Jacksonville Jaguars (DEF, JAX) | adds: 94290 | AVAILABLE
+- Braelon Allen (RB, NYJ, Active) | adds: 90348 | AVAILABLE
+- Tank Dell (WR, HOU, Active) | adds: 89440 | AVAILABLE
+- Tanner McKee (QB, PHI, Active) | adds: 88280 | AVAILABLE
+- Cleveland Browns (DEF, CLE) | adds: 87297 | rostered
+- Tyler Allgeier (RB, ARI, Active) | adds: 86360 | AVAILABLE
+- Brandon McManus (K, LAR, Active) | adds: 82488 | AVAILABLE
+- Devin Singletary (RB, NYG, Active) | adds: 79488 | AVAILABLE
+- Ted Hurst III (WR, TB, Active) | adds: 78066 | AVAILABLE
+- Geno Smith (QB, NYJ, Active) | adds: 74832 | AVAILABLE
+- Hunter Henry (TE, NE, Active) | adds: 70740 | AVAILABLE
+- Malik Washington (WR, MIA, Active) | adds: 69872 | AVAILABLE
+- Jonah Coleman (RB, DEN, Active) | adds: 66924 | AVAILABLE
+- Tampa Bay Buccaneers (DEF, TB) | adds: 66490 | AVAILABLE
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
