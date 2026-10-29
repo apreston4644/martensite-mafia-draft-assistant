@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-10-29T07:14:13+00:00
+**Captured (UTC):** 2026-10-29T18:32:52+00:00
 **NFL week:** 8 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -136,46 +136,46 @@
 - Pat Bryant (WR, DEN, IR)
 
 ## Trending additions (48h)
-- Jacksonville Jaguars (DEF, JAX) | adds: 2291838 | rostered
-- Caleb Douglas (WR, MIA, Active) | adds: 2206456 | rostered
-- Seth McGowan (RB, IND, Active) | adds: 1434824 | AVAILABLE
-- Washington Commanders (DEF, WAS) | adds: 1375570 | AVAILABLE
-- New England Patriots (DEF, NE) | adds: 1243732 | rostered
-- Elijah Mitchell (RB, PHI, Active) | adds: 1170198 | AVAILABLE
-- Devin Singletary (RB, NYG, Active) | adds: 1000512 | AVAILABLE
-- Brenton Strange (TE, JAX, Active) | adds: 937935 | AVAILABLE
-- KC Concepcion Jr. (WR, CLE, Active) | adds: 921591 | rostered
-- Tampa Bay Buccaneers (DEF, TB) | adds: 744635 | AVAILABLE
-- Ryan Flournoy (WR, DAL, Active) | adds: 725512 | AVAILABLE
-- Jonah Coleman (RB, DEN, Active) | adds: 610780 | rostered
-- Chase McLaughlin (K, TB, Active) | adds: 585416 | AVAILABLE
-- Tre Tucker (WR, LV, Active) | adds: 492210 | rostered
-- Kaelon Black (RB, SF, Active) | adds: 491239 | AVAILABLE
-- Tyler Bass (K, BUF, Active) | adds: 444565 | AVAILABLE
-- Savion Williams (WR, GB, Active) | adds: 393113 | AVAILABLE
-- Omar Cooper Jr. (WR, NYJ, Active) | adds: 385376 | rostered
-- Makai Lemon (WR, PHI, Active) | adds: 360912 | AVAILABLE
-- Kirk Cousins (QB, LV, Active) | adds: 354864 | rostered
-- Mason Taylor (TE, NYJ, Active) | adds: 348560 | AVAILABLE
-- Khalil Shakir (WR, BUF, Active) | adds: 336447 | AVAILABLE
-- Dylan Sampson (RB, CLE, Questionable) | adds: 325215 | AVAILABLE
-- Keon Coleman (WR, BUF, Active) | adds: 322560 | rostered
-- Rachaad White (RB, WAS, Active) | adds: 315612 | AVAILABLE
-- Jakobi Meyers (WR, JAX, Questionable) | adds: 299052 | AVAILABLE
-- Hunter Henry (TE, NE, Active) | adds: 297717 | rostered
-- Treylon Burks (WR, WAS, Questionable) | adds: 294406 | AVAILABLE
-- Emanuel Wilson (RB, SEA, Active) | adds: 246375 | rostered
-- Jaydon Blue (RB, PHI, Active) | adds: 231584 | AVAILABLE
-- Malik Willis (QB, MIA, Active) | adds: 215068 | AVAILABLE
-- Las Vegas Raiders (DEF, LV) | adds: 214602 | AVAILABLE
-- Rico Dowdle (RB, PIT, Active) | adds: 203615 | rostered
-- Jake Bates (K, DET, Active) | adds: 199624 | AVAILABLE
-- Jayden Daniels (QB, WAS, Active) | adds: 198448 | rostered
-- Kyle Pitts Sr. (TE, ATL, Active) | adds: 190337 | rostered
-- Chris Rodriguez Jr. (RB, JAX, Active) | adds: 181872 | AVAILABLE
-- Jordan Mason (RB, MIN, Active) | adds: 171415 | rostered
-- Geno Smith (QB, NYJ, Active) | adds: 169216 | AVAILABLE
-- Kyler Murray (QB, MIN, Active) | adds: 161992 | AVAILABLE
+- Jacksonville Jaguars (DEF, JAX) | adds: 1727802 | rostered
+- Caleb Douglas (WR, MIA, Active) | adds: 1630832 | rostered
+- Washington Commanders (DEF, WAS) | adds: 1408974 | AVAILABLE
+- Elijah Mitchell (RB, PHI, Active) | adds: 1345095 | AVAILABLE
+- Seth McGowan (RB, IND, Active) | adds: 1177360 | AVAILABLE
+- Devin Singletary (RB, NYG, Active) | adds: 1048761 | AVAILABLE
+- New England Patriots (DEF, NE) | adds: 903539 | rostered
+- Brenton Strange (TE, JAX, Active) | adds: 729972 | AVAILABLE
+- KC Concepcion Jr. (WR, CLE, Active) | adds: 703278 | rostered
+- Tampa Bay Buccaneers (DEF, TB) | adds: 654700 | rostered
+- Ryan Flournoy (WR, DAL, Active) | adds: 624792 | AVAILABLE
+- Chase McLaughlin (K, TB, Active) | adds: 480960 | rostered
+- Jonah Coleman (RB, DEN, Active) | adds: 438570 | rostered
+- Jaydon Blue (RB, PHI, Active) | adds: 414824 | AVAILABLE
+- Tyler Bass (K, BUF, Active) | adds: 401340 | AVAILABLE
+- Tre Tucker (WR, LV, Active) | adds: 379278 | rostered
+- Kaelon Black (RB, SF, Active) | adds: 371917 | AVAILABLE
+- Savion Williams (WR, GB, Active) | adds: 361949 | AVAILABLE
+- Makai Lemon (WR, PHI, Active) | adds: 305500 | AVAILABLE
+- Mason Taylor (TE, NYJ, Active) | adds: 303500 | AVAILABLE
+- Kirk Cousins (QB, LV, Active) | adds: 296704 | rostered
+- Khalil Shakir (WR, BUF, Active) | adds: 294696 | AVAILABLE
+- Dylan Sampson (RB, CLE, Questionable) | adds: 269740 | AVAILABLE
+- Keon Coleman (WR, BUF, Active) | adds: 263637 | rostered
+- Omar Cooper Jr. (WR, NYJ, Active) | adds: 262752 | rostered
+- Treylon Burks (WR, WAS, Questionable) | adds: 255325 | AVAILABLE
+- Rachaad White (RB, WAS, Active) | adds: 246651 | AVAILABLE
+- Jakobi Meyers (WR, JAX, Questionable) | adds: 229818 | AVAILABLE
+- Las Vegas Raiders (DEF, LV) | adds: 218970 | AVAILABLE
+- Emanuel Wilson (RB, SEA, Active) | adds: 217440 | rostered
+- Hunter Henry (TE, NE, Active) | adds: 216705 | rostered
+- Malik Willis (QB, MIA, Active) | adds: 179837 | AVAILABLE
+- Rico Dowdle (RB, PIT, Active) | adds: 174405 | rostered
+- Jake Bates (K, DET, Active) | adds: 171552 | AVAILABLE
+- Chris Rodriguez Jr. (RB, JAX, Active) | adds: 169695 | AVAILABLE
+- Detroit Lions (DEF, DET) | adds: 167697 | AVAILABLE
+- Jayden Daniels (QB, WAS, Active) | adds: 159296 | rostered
+- Geno Smith (QB, NYJ, Active) | adds: 158992 | AVAILABLE
+- Kyler Murray (QB, MIN, Active) | adds: 157128 | AVAILABLE
+- Kyle Pitts Sr. (TE, ATL, Active) | adds: 148008 | rostered
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
@@ -225,12 +225,12 @@
 - RB: Javonte Williams (RB, DAL, Active)
 - RB: Ollie Gordon II (RB, MIA, Active)
 - WR: Puka Nacua (WR, LAR, Active)
-- WR: George Pickens (WR, DAL, Questionable)
+- WR: Tre Tucker (WR, LV, Active)
 - TE: Pat Freiermuth (TE, PIT, Active)
 - FLEX: Jalen Coker (WR, CAR, Active)
-- K: Tyler Loop (K, BAL, Active)
+- K: Chase McLaughlin (K, TB, Active)
 - DEF: Cincinnati Bengals (DEF, CIN)
-- Bench: Tre Tucker (WR, LV, Active), Keon Coleman (WR, BUF, Active), Kyle Monangai (RB, CHI, Questionable), Jared Goff (QB, DET, Active), Juwan Johnson (TE, NO, Active), Chris Olave (WR, NO, Active), New York Jets (DEF, NYJ)
+- Bench: Keon Coleman (WR, BUF, Active), Kyle Monangai (RB, CHI, Questionable), Jared Goff (QB, DET, Active), Juwan Johnson (TE, NO, Active), George Pickens (WR, DAL, Questionable), Chris Olave (WR, NO, Active), Tampa Bay Buccaneers (DEF, TB)
 - Reserve: Terrance Ferguson (TE, LAR, IR)
 - Taxi: none
 
