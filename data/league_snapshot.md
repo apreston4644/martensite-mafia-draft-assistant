@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-10-30T01:08:38+00:00
+**Captured (UTC):** 2026-10-30T02:08:11+00:00
 **NFL week:** 8 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -136,46 +136,46 @@
 - Troy Franklin (WR, DEN, Active)
 
 ## Trending additions (48h)
-- Washington Commanders (DEF, WAS) | adds: 1620605 | AVAILABLE
-- Elijah Mitchell (RB, PHI, Active) | adds: 1474191 | AVAILABLE
-- Jacksonville Jaguars (DEF, JAX) | adds: 1413066 | rostered
-- Caleb Douglas (WR, MIA, Active) | adds: 1237112 | rostered
-- Devin Singletary (RB, NYG, Active) | adds: 922347 | AVAILABLE
-- Seth McGowan (RB, IND, Active) | adds: 861960 | AVAILABLE
-- New England Patriots (DEF, NE) | adds: 770630 | rostered
-- Tampa Bay Buccaneers (DEF, TB) | adds: 682250 | rostered
-- Brenton Strange (TE, JAX, Active) | adds: 671283 | AVAILABLE
-- Jaydon Blue (RB, PHI, Active) | adds: 602432 | AVAILABLE
-- Ryan Flournoy (WR, DAL, Active) | adds: 598456 | AVAILABLE
-- KC Concepcion Jr. (WR, CLE, Active) | adds: 560916 | AVAILABLE
-- Chase McLaughlin (K, TB, Active) | adds: 498128 | rostered
-- Tyler Bass (K, BUF, Active) | adds: 438455 | AVAILABLE
-- Savion Williams (WR, GB, Active) | adds: 338597 | AVAILABLE
-- Mason Taylor (TE, NYJ, Active) | adds: 322880 | AVAILABLE
-- Tre Tucker (WR, LV, Active) | adds: 319662 | rostered
-- Jonah Coleman (RB, DEN, Active) | adds: 309516 | rostered
-- Kirk Cousins (QB, LV, Active) | adds: 304648 | rostered
-- Khalil Shakir (WR, BUF, Active) | adds: 288090 | AVAILABLE
-- Kaelon Black (RB, SF, Active) | adds: 275359 | AVAILABLE
-- Las Vegas Raiders (DEF, LV) | adds: 267468 | AVAILABLE
-- Makai Lemon (WR, PHI, Active) | adds: 259980 | AVAILABLE
-- Keon Coleman (WR, BUF, Active) | adds: 248148 | rostered
-- Dylan Sampson (RB, CLE, Active) | adds: 221885 | AVAILABLE
-- Treylon Burks (WR, WAS, Questionable) | adds: 218267 | AVAILABLE
-- Rachaad White (RB, WAS, Active) | adds: 217482 | AVAILABLE
-- Omar Cooper Jr. (WR, NYJ, Active) | adds: 204104 | rostered
-- Emanuel Wilson (RB, SEA, Active) | adds: 203598 | rostered
-- Detroit Lions (DEF, DET) | adds: 199782 | AVAILABLE
-- Jakobi Meyers (WR, JAX, Questionable) | adds: 199542 | AVAILABLE
-- Jake Bates (K, DET, Active) | adds: 194208 | AVAILABLE
-- Kyler Murray (QB, MIN, Active) | adds: 183848 | AVAILABLE
-- Hunter Henry (TE, NE, Active) | adds: 182898 | rostered
-- Geno Smith (QB, NYJ, Active) | adds: 171836 | AVAILABLE
-- Rico Dowdle (RB, PIT, Active) | adds: 170205 | rostered
-- Chris Rodriguez Jr. (RB, JAX, Active) | adds: 158823 | AVAILABLE
-- Malik Willis (QB, MIA, Active) | adds: 158529 | AVAILABLE
-- Jayden Daniels (QB, WAS, Active) | adds: 150680 | rostered
-- Jordan Mason (RB, MIN, Active) | adds: 140965 | rostered
+- Washington Commanders (DEF, WAS) | adds: 1620654 | AVAILABLE
+- Elijah Mitchell (RB, PHI, Active) | adds: 1463094 | AVAILABLE
+- Jacksonville Jaguars (DEF, JAX) | adds: 1335570 | rostered
+- Caleb Douglas (WR, MIA, Active) | adds: 1148656 | rostered
+- Devin Singletary (RB, NYG, Active) | adds: 897876 | AVAILABLE
+- Seth McGowan (RB, IND, Active) | adds: 802016 | AVAILABLE
+- New England Patriots (DEF, NE) | adds: 737142 | rostered
+- Tampa Bay Buccaneers (DEF, TB) | adds: 677810 | rostered
+- Brenton Strange (TE, JAX, Active) | adds: 650313 | AVAILABLE
+- Jaydon Blue (RB, PHI, Active) | adds: 621384 | AVAILABLE
+- Ryan Flournoy (WR, DAL, Active) | adds: 586800 | AVAILABLE
+- KC Concepcion Jr. (WR, CLE, Active) | adds: 526563 | AVAILABLE
+- Chase McLaughlin (K, TB, Active) | adds: 491728 | rostered
+- Tyler Bass (K, BUF, Active) | adds: 435575 | AVAILABLE
+- Savion Williams (WR, GB, Active) | adds: 335440 | AVAILABLE
+- Mason Taylor (TE, NYJ, Active) | adds: 318610 | AVAILABLE
+- Tre Tucker (WR, LV, Active) | adds: 304962 | rostered
+- Kirk Cousins (QB, LV, Active) | adds: 302440 | rostered
+- Jonah Coleman (RB, DEN, Active) | adds: 282244 | rostered
+- Khalil Shakir (WR, BUF, Active) | adds: 282141 | AVAILABLE
+- Las Vegas Raiders (DEF, LV) | adds: 270522 | AVAILABLE
+- Kaelon Black (RB, SF, Active) | adds: 256186 | AVAILABLE
+- Makai Lemon (WR, PHI, Active) | adds: 247596 | AVAILABLE
+- Keon Coleman (WR, BUF, Active) | adds: 242514 | rostered
+- Dylan Sampson (RB, CLE, Active) | adds: 210055 | AVAILABLE
+- Rachaad White (RB, WAS, Active) | adds: 208806 | AVAILABLE
+- Treylon Burks (WR, WAS, Questionable) | adds: 207214 | AVAILABLE
+- Detroit Lions (DEF, DET) | adds: 201465 | AVAILABLE
+- Emanuel Wilson (RB, SEA, Active) | adds: 199620 | rostered
+- Jake Bates (K, DET, Active) | adds: 194272 | AVAILABLE
+- Jakobi Meyers (WR, JAX, Questionable) | adds: 191262 | AVAILABLE
+- Omar Cooper Jr. (WR, NYJ, Active) | adds: 190536 | rostered
+- Kyler Murray (QB, MIN, Active) | adds: 185232 | AVAILABLE
+- Hunter Henry (TE, NE, Active) | adds: 174579 | rostered
+- Geno Smith (QB, NYJ, Active) | adds: 170296 | AVAILABLE
+- Rico Dowdle (RB, PIT, Active) | adds: 166150 | rostered
+- Chris Rodriguez Jr. (RB, JAX, Active) | adds: 152784 | AVAILABLE
+- Malik Willis (QB, MIA, Active) | adds: 152446 | AVAILABLE
+- Jayden Daniels (QB, WAS, Active) | adds: 147480 | rostered
+- Jordan Mason (RB, MIN, Active) | adds: 138600 | rostered
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
@@ -238,7 +238,7 @@
 - QB: Drake Maye (QB, NE, Active)
 - RB: Jahmyr Gibbs (RB, DET, Active)
 - RB: Rhamondre Stevenson (RB, NE, Active)
-- WR: Christian Watson (WR, GB, Active)
+- WR: Christian Watson (WR, GB, Questionable)
 - WR: Matthew Golden (WR, GB, Active)
 - TE: Colston Loveland (TE, CHI, Active)
 - FLEX: Zay Flowers (WR, BAL, Active)
