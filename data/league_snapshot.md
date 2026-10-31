@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-10-31T00:52:34+00:00
+**Captured (UTC):** 2026-10-31T07:05:17+00:00
 **NFL week:** 8 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -34,8 +34,8 @@
 - Taxi: none
 
 ## Top available skill players (Sleeper search order)
-- Todd Gurley (RB, FA, Active)
 - Jalen Hurts (QB, PHI, IR)
+- Todd Gurley (RB, FA, Active)
 - Justin Herbert (QB, LAC, Active)
 - Bryce Ford-Wheaton (WR, FA, Questionable)
 - Jaxson Dart (QB, NYG, IR)
@@ -54,8 +54,8 @@
 - Kenny Gainwell (RB, TB, Questionable)
 - Kyler Murray (QB, MIN, Active)
 - Antonio Brown (WR, FA, Active)
-- Tyler Allgeier (RB, ARI, Active)
 - Makai Lemon (WR, PHI, Active)
+- Tyler Allgeier (RB, ARI, Active)
 - James Conner (RB, ARI, IR)
 - Julian Edelman (WR, FA, Injured Reserve)
 - Sam Darnold (QB, SEA, Active)
@@ -91,12 +91,12 @@
 - Jauan Jennings (WR, MIN, Active)
 - Mike Washington Jr. (RB, LV, Active)
 - Henry Ruggs (WR, FA, Active)
+- Chris Rodriguez Jr. (RB, JAX, Active)
 - Rachaad White (RB, WAS, Active)
 - AJ Barner (TE, SEA, Active)
 - Damien Harris (RB, FA, Active)
 - Jayden Higgins (WR, HOU, IR)
 - Bryce Love (RB, FA, Inactive)
-- Chris Rodriguez Jr. (RB, JAX, Active)
 - T.J. Hockenson (TE, MIN, Active)
 - Dylan Sampson (RB, CLE, Active)
 - Daniel Jones (QB, IND, Active)
@@ -136,46 +136,46 @@
 - Jalen Nailor (WR, LV, Active)
 
 ## Trending additions (48h)
-- Elijah Mitchell (RB, PHI, Active) | adds: 974241 | AVAILABLE
-- Washington Commanders (DEF, WAS) | adds: 850108 | AVAILABLE
-- Jaydon Blue (RB, PHI, Active) | adds: 687912 | AVAILABLE
-- Devin Singletary (RB, NYG, Active) | adds: 484137 | AVAILABLE
-- Ryan Flournoy (WR, DAL, Active) | adds: 367848 | AVAILABLE
-- Tampa Bay Buccaneers (DEF, TB) | adds: 346715 | rostered
-- Jacksonville Jaguars (DEF, JAX) | adds: 302742 | rostered
-- Brenton Strange (TE, JAX, Active) | adds: 287325 | AVAILABLE
-- Caleb Douglas (WR, MIA, Active) | adds: 280856 | rostered
-- Chase McLaughlin (K, TB, Active) | adds: 246040 | rostered
-- Tyler Bass (K, BUF, Active) | adds: 227615 | AVAILABLE
-- Mason Taylor (TE, NYJ, Active) | adds: 222560 | AVAILABLE
-- New England Patriots (DEF, NE) | adds: 207249 | rostered
-- KC Concepcion Jr. (WR, CLE, Active) | adds: 195165 | AVAILABLE
-- Las Vegas Raiders (DEF, LV) | adds: 166716 | AVAILABLE
-- Kirk Cousins (QB, LV, Active) | adds: 166600 | rostered
-- Khalil Shakir (WR, BUF, Active) | adds: 165735 | AVAILABLE
-- Seth McGowan (RB, IND, Active) | adds: 159664 | AVAILABLE
-- Makai Lemon (WR, PHI, Active) | adds: 156324 | AVAILABLE
-- Keon Coleman (WR, BUF, Active) | adds: 142794 | rostered
-- Savion Williams (WR, GB, Active) | adds: 135198 | AVAILABLE
-- Tre Tucker (WR, LV, Active) | adds: 131814 | rostered
-- Detroit Lions (DEF, DET) | adds: 127512 | AVAILABLE
-- Kyler Murray (QB, MIN, Active) | adds: 126464 | AVAILABLE
-- Samaje Perine (RB, CIN, Active) | adds: 120388 | AVAILABLE
-- Chris Godwin Jr. (WR, TB, Active) | adds: 111552 | rostered
-- Jake Bates (K, DET, Active) | adds: 110888 | AVAILABLE
-- Emanuel Wilson (RB, SEA, Active) | adds: 101286 | rostered
-- Geno Smith (QB, NYJ, Active) | adds: 100036 | AVAILABLE
-- Rachaad White (RB, WAS, Active) | adds: 92988 | AVAILABLE
-- Rico Dowdle (RB, PIT, Active) | adds: 92015 | rostered
-- Kendrick Bourne (WR, ARI, Active) | adds: 85710 | AVAILABLE
-- Kimani Vidal (RB, LAC, Active) | adds: 83605 | AVAILABLE
-- Chris Rodriguez Jr. (RB, JAX, Active) | adds: 83529 | AVAILABLE
-- Jordan Mason (RB, MIN, Active) | adds: 80015 | rostered
-- Jadarian Price (RB, SEA, IR) | adds: 80010 | AVAILABLE
-- Omar Cooper Jr. (WR, NYJ, Active) | adds: 74368 | rostered
-- Jake Ferguson (TE, DAL, Active) | adds: 73770 | AVAILABLE
-- Zonovan Knight (RB, ARI, Active) | adds: 73748 | AVAILABLE
-- AJ Barner (TE, SEA, Active) | adds: 73224 | AVAILABLE
+- Elijah Mitchell (RB, PHI, Active) | adds: 834390 | AVAILABLE
+- Washington Commanders (DEF, WAS) | adds: 739067 | AVAILABLE
+- Jaydon Blue (RB, PHI, Active) | adds: 577576 | AVAILABLE
+- Devin Singletary (RB, NYG, Active) | adds: 431739 | AVAILABLE
+- Ryan Flournoy (WR, DAL, Active) | adds: 339200 | AVAILABLE
+- Tampa Bay Buccaneers (DEF, TB) | adds: 308010 | rostered
+- Brenton Strange (TE, JAX, Active) | adds: 252009 | AVAILABLE
+- Jacksonville Jaguars (DEF, JAX) | adds: 241122 | rostered
+- Caleb Douglas (WR, MIA, Active) | adds: 224696 | rostered
+- Mason Taylor (TE, NYJ, Active) | adds: 216610 | AVAILABLE
+- Chase McLaughlin (K, TB, Active) | adds: 216424 | rostered
+- Tyler Bass (K, BUF, Active) | adds: 201685 | AVAILABLE
+- New England Patriots (DEF, NE) | adds: 172592 | rostered
+- KC Concepcion Jr. (WR, CLE, Active) | adds: 166275 | AVAILABLE
+- Makai Lemon (WR, PHI, Active) | adds: 161740 | AVAILABLE
+- Las Vegas Raiders (DEF, LV) | adds: 148926 | AVAILABLE
+- Khalil Shakir (WR, BUF, Active) | adds: 147924 | AVAILABLE
+- Kirk Cousins (QB, LV, Active) | adds: 146744 | rostered
+- Keon Coleman (WR, BUF, Active) | adds: 131904 | rostered
+- Samaje Perine (RB, CIN, Active) | adds: 129592 | AVAILABLE
+- Seth McGowan (RB, IND, Active) | adds: 128864 | AVAILABLE
+- Chris Godwin Jr. (WR, TB, Active) | adds: 117234 | rostered
+- Kyler Murray (QB, MIN, Active) | adds: 116504 | AVAILABLE
+- Detroit Lions (DEF, DET) | adds: 116244 | AVAILABLE
+- Tre Tucker (WR, LV, Active) | adds: 113538 | rostered
+- Savion Williams (WR, GB, Active) | adds: 102928 | AVAILABLE
+- Jake Bates (K, DET, Active) | adds: 98512 | AVAILABLE
+- Geno Smith (QB, NYJ, Active) | adds: 91644 | AVAILABLE
+- Emanuel Wilson (RB, SEA, Active) | adds: 87255 | rostered
+- Jadarian Price (RB, SEA, IR) | adds: 85230 | AVAILABLE
+- Elic Ayomanor (WR, TEN, Active) | adds: 84616 | AVAILABLE
+- Rico Dowdle (RB, PIT, Active) | adds: 82075 | rostered
+- Rachaad White (RB, WAS, Active) | adds: 80265 | AVAILABLE
+- Kimani Vidal (RB, LAC, Active) | adds: 78880 | AVAILABLE
+- Kendrick Bourne (WR, ARI, Active) | adds: 78051 | AVAILABLE
+- Chris Rodriguez Jr. (RB, JAX, Active) | adds: 77472 | AVAILABLE
+- Jordan Mason (RB, MIN, Active) | adds: 70195 | rostered
+- Jordan Addison (WR, MIN, Active) | adds: 68715 | AVAILABLE
+- AJ Barner (TE, SEA, Active) | adds: 68640 | AVAILABLE
+- Tyler Higbee (TE, LAR, Active) | adds: 67923 | AVAILABLE
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
