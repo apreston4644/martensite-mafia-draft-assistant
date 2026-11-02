@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-11-02T06:06:03+00:00
+**Captured (UTC):** 2026-11-02T09:39:25+00:00
 **NFL week:** 8 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -34,11 +34,11 @@
 - Taxi: none
 
 ## Top available skill players (Sleeper search order)
-- Todd Gurley (RB, FA, Active)
 - Jalen Hurts (QB, PHI, IR)
+- Todd Gurley (RB, FA, Active)
 - Justin Herbert (QB, LAC, Active)
-- Bryce Ford-Wheaton (WR, FA, Questionable)
 - Jaxson Dart (QB, NYG, IR)
+- Bryce Ford-Wheaton (WR, FA, Questionable)
 - Jadarian Price (RB, SEA, IR)
 - Terry McLaurin (WR, WAS, IR)
 - J.K. Dobbins (RB, DEN, Active)
@@ -91,12 +91,12 @@
 - Jauan Jennings (WR, MIN, Active)
 - Mike Washington Jr. (RB, LV, Active)
 - Henry Ruggs (WR, FA, Active)
-- Chris Rodriguez Jr. (RB, JAX, Active)
 - Rachaad White (RB, WAS, Active)
 - AJ Barner (TE, SEA, Active)
 - Damien Harris (RB, FA, Active)
 - Jayden Higgins (WR, HOU, IR)
 - Bryce Love (RB, FA, Inactive)
+- Chris Rodriguez Jr. (RB, JAX, Active)
 - T.J. Hockenson (TE, MIN, Active)
 - Dylan Sampson (RB, CLE, Active)
 - Daniel Jones (QB, IND, Active)
@@ -123,8 +123,8 @@
 - Jerry Jeudy (WR, CLE, Active)
 - Alshon Jeffery (WR, FA, Active)
 - Emanuel Wilson (RB, SEA, Active)
-- Kaelon Black (RB, SF, Active)
 - Adonai Mitchell (WR, NYJ, Active)
+- Kaelon Black (RB, SF, Active)
 - Adam Thielen (WR, FA, NA)
 - Joe Mixon (RB, FA, Questionable)
 - Kayshon Boutte (WR, HOU, Active)
@@ -136,46 +136,46 @@
 - Najee Harris (RB, FA, Active)
 
 ## Trending additions (48h)
-- Devin Singletary (RB, NYG, Active) | adds: 784701 | AVAILABLE
-- Seth McGowan (RB, IND, Active) | adds: 494904 | AVAILABLE
-- Adonai Mitchell (WR, NYJ, Active) | adds: 400408 | AVAILABLE
-- Ryan Flournoy (WR, DAL, Active) | adds: 388264 | AVAILABLE
-- Samaje Perine (RB, CIN, Active) | adds: 387684 | AVAILABLE
-- Washington Commanders (DEF, WAS) | adds: 315588 | AVAILABLE
-- Corey Kiner (RB, NE, Active) | adds: 267144 | AVAILABLE
-- Makai Lemon (WR, PHI, Active) | adds: 261296 | AVAILABLE
-- Tyler Allgeier (RB, ARI, Active) | adds: 251685 | AVAILABLE
-- Elijah Mitchell (RB, PHI, Active) | adds: 218628 | AVAILABLE
-- Emmett Johnson (RB, KC, Active) | adds: 202662 | AVAILABLE
-- Tampa Bay Buccaneers (DEF, TB) | adds: 195930 | rostered
-- Elic Ayomanor (WR, TEN, Active) | adds: 179984 | AVAILABLE
-- Chris Godwin Jr. (WR, TB, Active) | adds: 163176 | rostered
-- Chris Rodriguez Jr. (RB, JAX, Active) | adds: 151317 | AVAILABLE
-- Kimani Vidal (RB, LAC, Active) | adds: 149810 | AVAILABLE
-- Tyler Bass (K, BUF, Active) | adds: 148945 | AVAILABLE
-- Detroit Lions (DEF, DET) | adds: 135090 | AVAILABLE
-- Darius Cooper (WR, PHI, Active) | adds: 133217 | AVAILABLE
-- Jadarian Price (RB, SEA, IR) | adds: 132696 | AVAILABLE
-- Gardner Minshew II (QB, ARI, Active) | adds: 131524 | AVAILABLE
-- Kyle Williams (WR, NE, Active) | adds: 131485 | AVAILABLE
-- Mason Taylor (TE, NYJ, Active) | adds: 125400 | AVAILABLE
-- Jordan Addison (WR, MIN, Active) | adds: 118161 | AVAILABLE
-- Keon Coleman (WR, BUF, Active) | adds: 113688 | rostered
-- Tyler Higbee (TE, LAR, Active) | adds: 110565 | AVAILABLE
-- Kenny Gainwell (RB, TB, Active) | adds: 105656 | AVAILABLE
-- Cooper Kupp (WR, SEA, Active) | adds: 105570 | AVAILABLE
-- Kirk Cousins (QB, LV, Active) | adds: 105432 | rostered
-- Khalil Shakir (WR, BUF, Active) | adds: 101133 | AVAILABLE
-- Jacksonville Jaguars (DEF, JAX) | adds: 91902 | rostered
-- Hunter Henry (TE, NE, Out) | adds: 82449 | rostered
-- Chase McLaughlin (K, TB, Active) | adds: 81088 | rostered
-- Jonah Coleman (RB, DEN, Active) | adds: 80566 | rostered
-- Kyler Murray (QB, MIN, Questionable) | adds: 80176 | AVAILABLE
-- Malik Washington (WR, MIA, Active) | adds: 80048 | AVAILABLE
-- Brenton Strange (TE, JAX, Active) | adds: 77958 | AVAILABLE
-- Dylan Sampson (RB, CLE, Active) | adds: 76685 | AVAILABLE
-- KC Concepcion Jr. (WR, CLE, Active) | adds: 74817 | rostered
-- Emanuel Wilson (RB, SEA, Active) | adds: 74610 | AVAILABLE
+- Devin Singletary (RB, NYG, Active) | adds: 785223 | AVAILABLE
+- Seth McGowan (RB, IND, Active) | adds: 494448 | AVAILABLE
+- Adonai Mitchell (WR, NYJ, Active) | adds: 425376 | AVAILABLE
+- Ryan Flournoy (WR, DAL, Active) | adds: 386280 | AVAILABLE
+- Samaje Perine (RB, CIN, Active) | adds: 382756 | AVAILABLE
+- Washington Commanders (DEF, WAS) | adds: 312088 | AVAILABLE
+- Corey Kiner (RB, NE, Active) | adds: 266766 | AVAILABLE
+- Tyler Allgeier (RB, ARI, Active) | adds: 264285 | AVAILABLE
+- Makai Lemon (WR, PHI, Active) | adds: 255764 | AVAILABLE
+- Elijah Mitchell (RB, PHI, Active) | adds: 212283 | AVAILABLE
+- Emmett Johnson (RB, KC, Active) | adds: 211815 | AVAILABLE
+- Tampa Bay Buccaneers (DEF, TB) | adds: 195215 | rostered
+- Elic Ayomanor (WR, TEN, Active) | adds: 175580 | AVAILABLE
+- Chris Godwin Jr. (WR, TB, Active) | adds: 159804 | rostered
+- Tyler Bass (K, BUF, Active) | adds: 150745 | AVAILABLE
+- Chris Rodriguez Jr. (RB, JAX, Active) | adds: 150210 | AVAILABLE
+- Kimani Vidal (RB, LAC, Active) | adds: 148060 | AVAILABLE
+- Gardner Minshew II (QB, ARI, Active) | adds: 139844 | AVAILABLE
+- Detroit Lions (DEF, DET) | adds: 136719 | AVAILABLE
+- Kyle Williams (WR, NE, Active) | adds: 131695 | AVAILABLE
+- Jadarian Price (RB, SEA, IR) | adds: 130770 | AVAILABLE
+- Darius Cooper (WR, PHI, Active) | adds: 130158 | AVAILABLE
+- Mason Taylor (TE, NYJ, Active) | adds: 121765 | AVAILABLE
+- Jordan Addison (WR, MIN, Active) | adds: 117045 | AVAILABLE
+- Keon Coleman (WR, BUF, Active) | adds: 111663 | rostered
+- Tyler Higbee (TE, LAR, Active) | adds: 110277 | AVAILABLE
+- Kirk Cousins (QB, LV, Active) | adds: 107280 | rostered
+- Kenny Gainwell (RB, TB, Active) | adds: 107168 | AVAILABLE
+- Cooper Kupp (WR, SEA, Active) | adds: 106506 | AVAILABLE
+- Khalil Shakir (WR, BUF, Active) | adds: 100548 | AVAILABLE
+- Jacksonville Jaguars (DEF, JAX) | adds: 91212 | rostered
+- Hunter Henry (TE, NE, Out) | adds: 81261 | rostered
+- Chase McLaughlin (K, TB, Active) | adds: 80992 | rostered
+- Jonah Coleman (RB, DEN, Active) | adds: 80852 | rostered
+- Malik Washington (WR, MIA, Active) | adds: 80680 | AVAILABLE
+- Kyler Murray (QB, MIN, Questionable) | adds: 79600 | AVAILABLE
+- Dylan Sampson (RB, CLE, Active) | adds: 76890 | AVAILABLE
+- Brenton Strange (TE, JAX, Active) | adds: 76788 | AVAILABLE
+- Emanuel Wilson (RB, SEA, Active) | adds: 74205 | AVAILABLE
+- KC Concepcion Jr. (WR, CLE, Active) | adds: 73269 | rostered
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
