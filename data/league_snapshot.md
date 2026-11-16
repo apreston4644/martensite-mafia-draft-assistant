@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-11-16T07:59:21+00:00
+**Captured (UTC):** 2026-11-16T09:54:51+00:00
 **NFL week:** 10 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -136,46 +136,46 @@
 - Najee Harris (RB, FA, Active)
 
 ## Trending additions (48h)
-- Emmett Johnson (RB, KC, Active) | adds: 1754046 | rostered
-- Chimere Dike (WR, TEN, Active) | adds: 952785 | AVAILABLE
-- Justice Hill (RB, BAL, Active) | adds: 621099 | AVAILABLE
-- Darren Waller (TE, CAR, Active) | adds: 417564 | AVAILABLE
-- Tyler Higbee (TE, LAR, Active) | adds: 295623 | AVAILABLE
-- Chris Rodriguez Jr. (RB, JAX, Active) | adds: 283932 | AVAILABLE
-- Tutu Atwell (WR, LAR, Active) | adds: 280784 | AVAILABLE
-- Quentin Johnston (WR, LAC, Active) | adds: 280357 | AVAILABLE
-- Seth McGowan (RB, IND, Active) | adds: 209088 | rostered
-- Fernando Mendoza (QB, LV, Active) | adds: 202216 | AVAILABLE
-- Caleb Douglas (WR, MIA, Active) | adds: 183056 | AVAILABLE
-- Jordyn Tyson (WR, NO, Active) | adds: 181104 | rostered
-- Tank Dell (WR, HOU, Active) | adds: 168184 | rostered
-- Mike Gesicki (TE, CIN, Active) | adds: 154612 | rostered
-- Ryan Flournoy (WR, DAL, Active) | adds: 151656 | AVAILABLE
-- Gavin Bartholomew (TE, MIN, Active) | adds: 150696 | AVAILABLE
-- Xavier Hutchinson (WR, HOU, Questionable) | adds: 150241 | AVAILABLE
-- Darnell Washington (TE, PIT, Active) | adds: 144845 | AVAILABLE
-- Elic Ayomanor (WR, TEN, Active) | adds: 141960 | AVAILABLE
-- Brenton Strange (TE, JAX, Active) | adds: 138276 | AVAILABLE
-- Indianapolis Colts (DEF, IND) | adds: 135243 | AVAILABLE
-- Konata Mumpfield (WR, LAR, Active) | adds: 120402 | AVAILABLE
-- Tampa Bay Buccaneers (DEF, TB) | adds: 113305 | rostered
-- Khalil Shakir (WR, BUF, Active) | adds: 110412 | AVAILABLE
-- Zonovan Knight (RB, ARI, Active) | adds: 109142 | AVAILABLE
-- Corey Kiner (RB, NE, Active) | adds: 107982 | rostered
-- Deshaun Watson (QB, CLE, Active) | adds: 105424 | AVAILABLE
-- Jadarian Price (RB, SEA, Active) | adds: 103509 | rostered
-- Ashton Dulin (WR, IND, Active) | adds: 100791 | AVAILABLE
-- Pat Bryant (WR, DEN, Active) | adds: 99184 | AVAILABLE
-- Michael Mayer (TE, LV, Active) | adds: 99054 | AVAILABLE
-- Kaelon Black (RB, SF, Active) | adds: 97895 | AVAILABLE
-- Ryan Fitzgerald (K, CAR, Active) | adds: 86445 | AVAILABLE
-- Colby Parkinson (TE, LAR, Active) | adds: 84078 | AVAILABLE
-- Jakobi Meyers (WR, JAX, Active) | adds: 78168 | AVAILABLE
-- Jason Sanders (K, NYJ, Active) | adds: 77770 | AVAILABLE
-- Tyler Bass (K, BUF, Active) | adds: 77615 | rostered
-- Aaron Rodgers (QB, PIT, Active) | adds: 76884 | AVAILABLE
-- Jordan Addison (WR, MIN, Out) | adds: 76725 | AVAILABLE
-- C.J. Stroud (QB, HOU, Active) | adds: 74942 | rostered
+- Emmett Johnson (RB, KC, Active) | adds: 1739538 | rostered
+- Chimere Dike (WR, TEN, Active) | adds: 942111 | AVAILABLE
+- Justice Hill (RB, BAL, Active) | adds: 622809 | AVAILABLE
+- Darren Waller (TE, CAR, Active) | adds: 413991 | AVAILABLE
+- Tyler Higbee (TE, LAR, Active) | adds: 293850 | AVAILABLE
+- Quentin Johnston (WR, LAC, Active) | adds: 283549 | AVAILABLE
+- Chris Rodriguez Jr. (RB, JAX, Active) | adds: 282708 | AVAILABLE
+- Tutu Atwell (WR, LAR, Active) | adds: 278285 | AVAILABLE
+- Seth McGowan (RB, IND, Active) | adds: 213496 | rostered
+- Fernando Mendoza (QB, LV, Active) | adds: 202152 | AVAILABLE
+- Jordyn Tyson (WR, NO, Active) | adds: 184512 | rostered
+- Caleb Douglas (WR, MIA, Active) | adds: 183288 | AVAILABLE
+- Tank Dell (WR, HOU, Active) | adds: 167240 | rostered
+- Xavier Hutchinson (WR, HOU, Questionable) | adds: 154455 | AVAILABLE
+- Ryan Flournoy (WR, DAL, Active) | adds: 154256 | AVAILABLE
+- Mike Gesicki (TE, CIN, Active) | adds: 153980 | rostered
+- Gavin Bartholomew (TE, MIN, Active) | adds: 150552 | AVAILABLE
+- Darnell Washington (TE, PIT, Active) | adds: 144250 | AVAILABLE
+- Elic Ayomanor (WR, TEN, Active) | adds: 142276 | AVAILABLE
+- Brenton Strange (TE, JAX, Active) | adds: 138267 | AVAILABLE
+- Indianapolis Colts (DEF, IND) | adds: 134415 | AVAILABLE
+- Konata Mumpfield (WR, LAR, Active) | adds: 118791 | AVAILABLE
+- Tampa Bay Buccaneers (DEF, TB) | adds: 113775 | rostered
+- Khalil Shakir (WR, BUF, Active) | adds: 109908 | AVAILABLE
+- Zonovan Knight (RB, ARI, Active) | adds: 108484 | AVAILABLE
+- Corey Kiner (RB, NE, Active) | adds: 106794 | rostered
+- Deshaun Watson (QB, CLE, Active) | adds: 106048 | AVAILABLE
+- Jadarian Price (RB, SEA, Active) | adds: 103419 | rostered
+- Michael Mayer (TE, LV, Active) | adds: 102492 | AVAILABLE
+- Pat Bryant (WR, DEN, Active) | adds: 99928 | AVAILABLE
+- Kaelon Black (RB, SF, Active) | adds: 98910 | AVAILABLE
+- Ashton Dulin (WR, IND, Active) | adds: 98901 | AVAILABLE
+- Ryan Fitzgerald (K, CAR, Active) | adds: 86625 | AVAILABLE
+- Colby Parkinson (TE, LAR, Active) | adds: 83430 | AVAILABLE
+- Jason Sanders (K, NYJ, Active) | adds: 77885 | AVAILABLE
+- Jakobi Meyers (WR, JAX, Active) | adds: 77826 | AVAILABLE
+- Tyler Bass (K, BUF, Active) | adds: 77135 | rostered
+- Aaron Rodgers (QB, PIT, Active) | adds: 76836 | AVAILABLE
+- Jordan Addison (WR, MIN, Out) | adds: 76086 | AVAILABLE
+- C.J. Stroud (QB, HOU, Active) | adds: 75642 | rostered
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
