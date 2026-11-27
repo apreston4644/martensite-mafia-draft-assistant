@@ -1,5 +1,5 @@
 # MartensiteMafia Sleeper league snapshot
-**Captured (UTC):** 2026-11-26T22:26:18+00:00
+**Captured (UTC):** 2026-11-27T05:20:03+00:00
 **NFL week:** 12 | **League:** Salary Cap League  (1313649591102500864)
 **Data:** Sleeper public read-only API; not live. Check capture time before advice.
 
@@ -51,7 +51,7 @@
 - Drew Brees (QB, FA, Injured Reserve)
 - Jakobi Meyers (WR, JAX, Questionable)
 - Brian Robinson Jr. (RB, ATL, IR)
-- Dalton Kincaid (TE, BUF, Questionable)
+- Dalton Kincaid (TE, BUF, Active)
 - Oronde Gadsden (TE, LAC, Active)
 - Aaron Jones Sr. (RB, MIN, Active)
 - Kenny Gainwell (RB, TB, Active)
@@ -64,7 +64,7 @@
 - Julian Edelman (WR, FA, Injured Reserve)
 - Sam Darnold (QB, SEA, Active)
 - Alec Pierce (WR, IND, IR)
-- Dallas Goedert (TE, PHI, Active)
+- Dallas Goedert (TE, PHI, Out)
 - Jake Ferguson (TE, DAL, Out)
 - Dalton Schultz (TE, HOU, Questionable)
 - MarShawn Lloyd (RB, GB, Active)
@@ -136,46 +136,46 @@
 - Ray Davis (RB, BUF, Active)
 
 ## Trending additions (48h)
-- Washington Commanders (DEF, WAS) | adds: 1693013 | AVAILABLE
-- Chris Rodriguez Jr. (RB, JAX, Active) | adds: 1451394 | AVAILABLE
-- Deshaun Watson (QB, CLE, Active) | adds: 806712 | AVAILABLE
-- Cleveland Browns (DEF, CLE) | adds: 709289 | AVAILABLE
-- Justice Hill (RB, BAL, Active) | adds: 678609 | AVAILABLE
-- Konata Mumpfield (WR, LAR, Active) | adds: 653517 | AVAILABLE
-- New York Giants (DEF, NYG) | adds: 645116 | AVAILABLE
-- Chimere Dike (WR, TEN, Active) | adds: 551898 | AVAILABLE
-- Samaje Perine (RB, CIN, Active) | adds: 451840 | AVAILABLE
-- Ted Hurst III (WR, TB, Active) | adds: 388170 | AVAILABLE
-- New England Patriots (DEF, NE) | adds: 376586 | AVAILABLE
-- Jacory Croskey-Merritt (RB, WAS, Active) | adds: 369207 | rostered
-- Tyler Higbee (TE, LAR, Out) | adds: 369135 | AVAILABLE
-- Fernando Mendoza (QB, LV, Active) | adds: 365624 | AVAILABLE
-- Tai Felton (WR, MIN, Active) | adds: 328260 | AVAILABLE
-- Mason Rudolph (QB, PIT, Active) | adds: 327222 | AVAILABLE
-- Geno Smith (QB, NYJ, Active) | adds: 302892 | AVAILABLE
-- Tampa Bay Buccaneers (DEF, TB) | adds: 283590 | rostered
-- Dylan Sampson (RB, CLE, Active) | adds: 266230 | AVAILABLE
-- Jack Bech (WR, LV, Active) | adds: 228534 | AVAILABLE
-- Evan Engram (TE, DEN, Active) | adds: 217392 | AVAILABLE
-- Omar Cooper Jr. (WR, NYJ, Questionable) | adds: 202224 | rostered
-- Jason Sanders (K, NYJ, Active) | adds: 199375 | AVAILABLE
-- J.J. McCarthy (QB, NYG, Active) | adds: 162357 | AVAILABLE
-- Darren Waller (TE, CAR, Questionable) | adds: 155592 | AVAILABLE
-- KC Concepcion Jr. (WR, CLE, Active) | adds: 149463 | rostered
-- Jacksonville Jaguars (DEF, JAX) | adds: 149214 | rostered
-- Chase McLaughlin (K, TB, Active) | adds: 142872 | AVAILABLE
-- New York Jets (DEF, NYJ) | adds: 121778 | AVAILABLE
-- Antonio Williams (WR, WAS, Active) | adds: 119895 | AVAILABLE
-- Brenton Strange (TE, JAX, Active) | adds: 119142 | rostered
-- Jakobi Meyers (WR, JAX, Questionable) | adds: 114282 | AVAILABLE
-- Xavier Hutchinson (WR, HOU, Active) | adds: 112917 | AVAILABLE
-- DJ Uiagalelei (QB, LAC, Active) | adds: 107748 | AVAILABLE
-- Blake Corum (RB, LAR, Active) | adds: 107680 | rostered
-- Corey Kiner (RB, NE, Active) | adds: 105756 | AVAILABLE
-- Devaughn Vele (WR, NO, Active) | adds: 105364 | rostered
-- Rhamondre Stevenson (RB, NE, Active) | adds: 105219 | rostered
-- Emmett Johnson (RB, KC, Active) | adds: 101655 | rostered
-- Kyle Pitts Sr. (TE, ATL, Active) | adds: 98077 | AVAILABLE
+- Washington Commanders (DEF, WAS) | adds: 1371062 | AVAILABLE
+- Chris Rodriguez Jr. (RB, JAX, Active) | adds: 941769 | AVAILABLE
+- Deshaun Watson (QB, CLE, Active) | adds: 749288 | AVAILABLE
+- Cleveland Browns (DEF, CLE) | adds: 601391 | AVAILABLE
+- Konata Mumpfield (WR, LAR, Active) | adds: 544095 | AVAILABLE
+- Justice Hill (RB, BAL, Active) | adds: 512334 | AVAILABLE
+- New York Giants (DEF, NYG) | adds: 480016 | AVAILABLE
+- Chimere Dike (WR, TEN, Active) | adds: 411147 | AVAILABLE
+- Samaje Perine (RB, CIN, Active) | adds: 381768 | AVAILABLE
+- New England Patriots (DEF, NE) | adds: 355922 | AVAILABLE
+- Mason Rudolph (QB, PIT, Active) | adds: 303300 | AVAILABLE
+- Geno Smith (QB, NYJ, Active) | adds: 300844 | AVAILABLE
+- Fernando Mendoza (QB, LV, Active) | adds: 298304 | AVAILABLE
+- Ted Hurst III (WR, TB, Active) | adds: 283200 | AVAILABLE
+- Jacory Croskey-Merritt (RB, WAS, Active) | adds: 259965 | rostered
+- Tyler Higbee (TE, LAR, Out) | adds: 249435 | AVAILABLE
+- Tampa Bay Buccaneers (DEF, TB) | adds: 225655 | rostered
+- Tai Felton (WR, MIN, Active) | adds: 221304 | AVAILABLE
+- Dylan Sampson (RB, CLE, Active) | adds: 205330 | AVAILABLE
+- Evan Engram (TE, DEN, Active) | adds: 203656 | AVAILABLE
+- Jason Sanders (K, NYJ, Active) | adds: 178380 | AVAILABLE
+- Omar Cooper Jr. (WR, NYJ, Questionable) | adds: 176040 | rostered
+- J.J. McCarthy (QB, NYG, Active) | adds: 154887 | AVAILABLE
+- Jack Bech (WR, LV, Active) | adds: 147418 | AVAILABLE
+- Darren Waller (TE, CAR, Questionable) | adds: 144162 | AVAILABLE
+- Joe Milton (QB, PHI, Active) | adds: 140232 | AVAILABLE
+- Jacksonville Jaguars (DEF, JAX) | adds: 134394 | rostered
+- Chase McLaughlin (K, TB, Active) | adds: 130400 | AVAILABLE
+- Brenton Strange (TE, JAX, Active) | adds: 120051 | rostered
+- KC Concepcion Jr. (WR, CLE, Active) | adds: 118197 | rostered
+- Emmett Johnson (RB, KC, Active) | adds: 107964 | rostered
+- Blake Corum (RB, LAR, Active) | adds: 104272 | rostered
+- New York Jets (DEF, NYJ) | adds: 102380 | AVAILABLE
+- Xavier Hutchinson (WR, HOU, Active) | adds: 97769 | AVAILABLE
+- Jakobi Meyers (WR, JAX, Questionable) | adds: 94968 | AVAILABLE
+- Sam Roush (TE, CHI, Active) | adds: 94269 | AVAILABLE
+- Corey Kiner (RB, NE, Active) | adds: 93090 | AVAILABLE
+- Mack Hollins (WR, NE, Active) | adds: 87165 | AVAILABLE
+- DJ Uiagalelei (QB, LAC, Active) | adds: 86877 | AVAILABLE
+- Drew Stevens (K, WAS, Active) | adds: 86412 | AVAILABLE
 
 ## All league rosters
 ### SenorAJBrown (roster 1)
@@ -184,7 +184,7 @@
 - RB: D'Andre Swift (RB, CHI, Active)
 - WR: Jaxon Smith-Njigba (WR, SEA, Questionable)
 - WR: Ja'Marr Chase (WR, CIN, Active)
-- TE: Harold Fannin Jr. (TE, CLE, Questionable)
+- TE: Harold Fannin Jr. (TE, CLE, Active)
 - FLEX: DJ Moore (WR, BUF, Active)
 - K: Matt Gay (K, LV, Active)
 - DEF: San Francisco 49ers (DEF, SF)
@@ -202,14 +202,14 @@
 - FLEX: Chase Brown (RB, CIN, Active)
 - K: Brandon Aubrey (K, DAL, Active)
 - DEF: Houston Texans (DEF, HOU)
-- Bench: Omar Cooper Jr. (WR, NYJ, Questionable), Denzel Boston (WR, CLE, Questionable), Mark Andrews (TE, BAL, Active), David Montgomery (RB, HOU, Active), DeVonta Smith (WR, PHI, Active), Tyler Allgeier (RB, ARI, Active), Jameson Williams (WR, DET, Active)
+- Bench: Omar Cooper Jr. (WR, NYJ, Questionable), Denzel Boston (WR, CLE, Questionable), Mark Andrews (TE, BAL, Active), David Montgomery (RB, HOU, Active), DeVonta Smith (WR, PHI, Questionable), Tyler Allgeier (RB, ARI, Active), Jameson Williams (WR, DET, Active)
 - Reserve: Jeremiyah Love (RB, ARI, IR), Davante Adams (WR, LAR, IR)
 - Taxi: none
 
 ### BaldimoreRavens (roster 3)
 - QB: Caleb Williams (QB, CHI, Questionable)
 - RB: Tony Pollard (RB, TEN, Active)
-- RB: Saquon Barkley (RB, PHI, Active)
+- RB: Saquon Barkley (RB, PHI, Questionable)
 - WR: CeeDee Lamb (WR, DAL, Active)
 - WR: Tee Higgins (WR, CIN, Active)
 - TE: Sam LaPorta (TE, DET, Active)
